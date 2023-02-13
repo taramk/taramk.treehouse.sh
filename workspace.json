@@ -5,8 +5,7 @@
     "Linked": {
       "Children": [
         "le37qibhiuvss6yvpil",
-        "le37sk2oc67mlcshazw",
-        "le37uxg690fubsimqdn"
+        "le37sk2oc67mlcshazw"
       ],
       "Components": []
     },
@@ -49,10 +48,14 @@
     "ID": "le37sk2oc67mlcshazw",
     "Name": "Tara priorities for the week",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le37uxg690fubsimqdn"
+      ],
       "Components": []
     },
-    "Attrs": {},
+    "Attrs": {
+      "expanded": "true"
+    },
     "Parent": "@root"
   },
   {
@@ -63,6 +66,6 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "@root"
+    "Parent": "le37sk2oc67mlcshazw"
   }
 ]
