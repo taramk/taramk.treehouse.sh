@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "ID": "@root",
+    "Name": "@root",
+    "Linked": {
+      "Children": [
+        "le37qibhiuvss6yvpil",
+        "le37sk2oc67mlcshazw"
+      ],
+      "Components": []
+    },
+    "Attrs": {}
+  },
+  {
+    "ID": "le37qibhiuvss6yvpil",
+    "Name": "Workspace",
+    "Linked": {
+      "Children": [
+        "le37qibhhgeq47drnnl",
+        "le37qibhsmc73hj4gsp"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@root"
+  },
+  {
+    "ID": "le37qibhhgeq47drnnl",
+    "Name": "Calendar",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "le37qibhsmc73hj4gsp",
+    "Name": "Home",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "le37sk2oc67mlcshazw",
+    "Name": "Tara priorities for the week",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@root"
+  }
+]
