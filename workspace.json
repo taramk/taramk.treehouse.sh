@@ -6,7 +6,8 @@
       "Children": [
         "le37qibhiuvss6yvpil",
         "le37sk2oc67mlcshazw",
-        "le380twdt7qs60g6by"
+        "le380twdt7qs60g6by",
+        "le3811zvqcsok3sr6ij"
       ],
       "Components": []
     },
@@ -94,6 +95,16 @@
   {
     "ID": "le380twdt7qs60g6by",
     "Name": "Email signup - how to do that?",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@root"
+  },
+  {
+    "ID": "le3811zvqcsok3sr6ij",
+    "Name": "QA notes",
     "Linked": {
       "Children": [],
       "Components": []
