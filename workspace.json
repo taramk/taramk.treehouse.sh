@@ -133,7 +133,8 @@
     "Linked": {
       "Children": [
         "le381tmkkqv2f0k3pns",
-        "le3856qjbmjk1uwql6h"
+        "le3856qjbmjk1uwql6h",
+        "le386gzp7t0eh3inmbx"
       ],
       "Components": []
     },
@@ -155,6 +156,16 @@
   {
     "ID": "le3856qjbmjk1uwql6h",
     "Name": "put settings in top right menu",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le381nn8j080w59x3u"
+  },
+  {
+    "ID": "le386gzp7t0eh3inmbx",
+    "Name": "markdown editor",
     "Linked": {
       "Children": [],
       "Components": []
