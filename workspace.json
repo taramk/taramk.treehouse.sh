@@ -132,7 +132,8 @@
     "Name": "Jeff's weekly goals",
     "Linked": {
       "Children": [
-        "le381tmkkqv2f0k3pns"
+        "le381tmkkqv2f0k3pns",
+        "le3856qjbmjk1uwql6h"
       ],
       "Components": []
     },
@@ -144,6 +145,16 @@
   {
     "ID": "le381tmkkqv2f0k3pns",
     "Name": "GitHub login notice",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le381nn8j080w59x3u"
+  },
+  {
+    "ID": "le3856qjbmjk1uwql6h",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
