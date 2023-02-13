@@ -129,12 +129,26 @@
   },
   {
     "ID": "le381nn8j080w59x3u",
-    "Name": "Jeff's ",
+    "Name": "Jeff's weekly goals",
+    "Linked": {
+      "Children": [
+        "le381tmkkqv2f0k3pns"
+      ],
+      "Components": []
+    },
+    "Attrs": {
+      "expanded": "true"
+    },
+    "Parent": "@root"
+  },
+  {
+    "ID": "le381tmkkqv2f0k3pns",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "@root"
+    "Parent": "le381nn8j080w59x3u"
   }
 ]
