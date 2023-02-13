@@ -49,7 +49,9 @@
     "Name": "Tara priorities for the week",
     "Linked": {
       "Children": [
-        "le37uxg690fubsimqdn"
+        "le37uxg690fubsimqdn",
+        "le38010ejnmsbtda0i",
+        "le3801xcvbpqjm9qsc"
       ],
       "Components": []
     },
@@ -60,7 +62,27 @@
   },
   {
     "ID": "le37uxg690fubsimqdn",
-    "Name": "adfadf",
+    "Name": "Marketing website content + layout",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37sk2oc67mlcshazw"
+  },
+  {
+    "ID": "le38010ejnmsbtda0i",
+    "Name": "QA",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37sk2oc67mlcshazw"
+  },
+  {
+    "ID": "le3801xcvbpqjm9qsc",
+    "Name": "Font research",
     "Linked": {
       "Children": [],
       "Components": []
