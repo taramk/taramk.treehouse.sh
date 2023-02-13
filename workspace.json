@@ -5,7 +5,8 @@
     "Linked": {
       "Children": [
         "le37qibhiuvss6yvpil",
-        "le37sk2oc67mlcshazw"
+        "le37sk2oc67mlcshazw",
+        "le380twdt7qs60g6by"
       ],
       "Components": []
     },
@@ -89,5 +90,15 @@
     },
     "Attrs": {},
     "Parent": "le37sk2oc67mlcshazw"
+  },
+  {
+    "ID": "le380twdt7qs60g6by",
+    "Name": "Email signup - how to do that?",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@root"
   }
 ]
