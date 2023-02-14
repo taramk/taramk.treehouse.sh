@@ -213,10 +213,22 @@
     "ID": "le4sjtdubc7q21eguu",
     "Name": "testing",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le4sjz2e257klq0kw5l"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "le4sjry5xgugxvotvp"
+  },
+  {
+    "ID": "le4sjz2e257klq0kw5l",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjtdubc7q21eguu"
   }
 ]
