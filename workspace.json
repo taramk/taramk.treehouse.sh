@@ -573,12 +573,24 @@
   },
   {
     "ID": "le7habfpo4jfbg9wfui",
-    "Name": "Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.",
+    "Name": "Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you.",
+    "Linked": {
+      "Children": [
+        "le7hah79mhj7r6izbsc"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjqjmb7svey8p7c"
+  },
+  {
+    "ID": "le7hah79mhj7r6izbsc",
+    "Name": " But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "le4sjqjmb7svey8p7c"
+    "Parent": "le7habfpo4jfbg9wfui"
   }
 ]
