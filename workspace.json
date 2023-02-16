@@ -112,26 +112,13 @@
     "ID": "le3811zvqcsok3sr6ij",
     "Name": "QA notes",
     "Linked": {
-      "Children": [
-        "le381d9yvobg1t4r6ns",
-        "le4sizn4kmcw8gc3he"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {
       "expanded": "true"
     },
     "Parent": "@root"
-  },
-  {
-    "ID": "le381d9yvobg1t4r6ns",
-    "Name": "text wrapping",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "le3811zvqcsok3sr6ij"
   },
   {
     "ID": "le381nn8j080w59x3u",
@@ -178,16 +165,6 @@
     },
     "Attrs": {},
     "Parent": "le381nn8j080w59x3u"
-  },
-  {
-    "ID": "le4sizn4kmcw8gc3he",
-    "Name": "",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "le3811zvqcsok3sr6ij"
   },
   {
     "ID": "le4sjqjmb7svey8p7c",
