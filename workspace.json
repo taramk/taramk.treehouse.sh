@@ -157,9 +157,11 @@
   },
   {
     "ID": "le4sjry5xgugxvotvp",
+    "Name": "Jot an idea down quickly without having to worry about where to organize it. Our built-in Daily Note section automatically organizes your thoughts into a calendar structure.",
     "Linked": {
       "Children": [
-        "le7ga94z1bqlsj7w775i"
+        "le7ga94z1bqlsj7w775i",
+        "le7op8w1zrr6pk9jczs"
       ],
       "Components": []
     },
@@ -453,7 +455,7 @@
   },
   {
     "ID": "le7ga94z1bqlsj7w775i",
-    "Name": "After the avalanche, it took us a week to climb out.",
+    "Name": "After the avalanche, it took us a week to climb out...",
     "Linked": {
       "Children": [],
       "Components": []
@@ -520,6 +522,7 @@
   },
   {
     "ID": "le7h8w9xasipl72p79j",
+    "Name": "By default, we offer local-first indexing for quick, intuitive search",
     "Linked": {
       "Children": [],
       "Components": []
@@ -579,5 +582,15 @@
     },
     "Attrs": {},
     "Parent": "le4sjqjmb7svey8p7c"
+  },
+  {
+    "ID": "le7op8w1zrr6pk9jczs",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjry5xgugxvotvp"
   }
 ]
