@@ -512,7 +512,8 @@
         "le7h8hnfcwb59hjkw5",
         "le7h8o06qnn6xj0nsi",
         "le7h8st0q6f87eve79",
-        "le7h8w9xasipl72p79j"
+        "le7h8w9xasipl72p79j",
+        "le7h91uru20nowwx2oq"
       ],
       "Components": []
     },
@@ -551,7 +552,17 @@
   },
   {
     "ID": "le7h8w9xasipl72p79j",
-    "Name": " However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.",
+    "Name": " However unreal it may seem, we are connected, you and I.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le7h8d6xwxjwkmhh2vh"
+  },
+  {
+    "ID": "le7h91uru20nowwx2oq",
+    "Name": "We're on the same curve, just on opposite ends.",
     "Linked": {
       "Children": [],
       "Components": []
