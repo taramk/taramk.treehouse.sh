@@ -90,7 +90,9 @@
     "ID": "le3801xcvbpqjm9qsc",
     "Name": "Font research",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le7emhm0pkxklo1j46s"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -320,5 +322,15 @@
     },
     "Attrs": {},
     "Parent": "le4sx6wkewshviu9hoc"
+  },
+  {
+    "ID": "le7emhm0pkxklo1j46s",
+    "Name": "we should probably switch the app to Figtree, though i need to mock it up and i'm feeling kind of lazy",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le3801xcvbpqjm9qsc"
   }
 ]
