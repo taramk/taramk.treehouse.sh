@@ -604,9 +604,7 @@
         "le7outk2rj6dm7vbdb",
         "le7outp8qamxlw0y2ci",
         "le7ouuec0i62isbsyb4s",
-        "le7ouuhppry3qsj9u0n",
-        "le7ouupjdzwsetu46hj",
-        "le7ouus7jo17ooex6gk"
+        "le7ouuhppry3qsj9u0n"
       ],
       "Components": []
     },
@@ -674,26 +672,6 @@
   },
   {
     "ID": "le7ouuhppry3qsj9u0n",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "@quickadd"
-  },
-  {
-    "ID": "le7ouupjdzwsetu46hj",
-    "Name": "k",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "@quickadd"
-  },
-  {
-    "ID": "le7ouus7jo17ooex6gk",
-    "Name": "d",
     "Linked": {
       "Children": [],
       "Components": []
