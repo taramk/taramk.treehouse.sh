@@ -147,7 +147,8 @@
       "Children": [
         "le4sjry5xgugxvotvp",
         "le7h6yo2qg5gwx6hg1",
-        "le7h73rjf2m6ecylcsb"
+        "le7h73rjf2m6ecylcsb",
+        "le7h7ahvav0z7eeqozb"
       ],
       "Components": []
     },
@@ -474,6 +475,16 @@
   {
     "ID": "le7h73rjf2m6ecylcsb",
     "Name": "Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjqjmb7svey8p7c"
+  },
+  {
+    "ID": "le7h7ahvav0z7eeqozb",
+    "Name": "Some pilots get picked and become television programs. Some don't, become nothing.",
     "Linked": {
       "Children": [],
       "Components": []
