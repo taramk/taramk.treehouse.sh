@@ -301,7 +301,6 @@
   },
   {
     "ID": "le7fh89h17bojg01sb6",
-    "Name": "review modals",
     "Linked": {
       "Children": [],
       "Components": []
@@ -321,7 +320,7 @@
   },
   {
     "ID": "le7fiww4pmslbmu6dd",
-    "Name": "Title card for preview",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
