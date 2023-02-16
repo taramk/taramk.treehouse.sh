@@ -359,10 +359,22 @@
     "ID": "le7fwmlm68drzjgv7gp",
     "Name": "Thu, 16 Feb ",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le7fwpcszahelaturus"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "le7fwmlmmreyt1f4uc"
+  },
+  {
+    "ID": "le7fwpcszahelaturus",
+    "Name": "testing a note for today.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le7fwmlm68drzjgv7gp"
   }
 ]
