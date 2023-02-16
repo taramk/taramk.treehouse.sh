@@ -122,9 +122,11 @@
   },
   {
     "ID": "le381nn8j080w59x3u",
-    "Name": "Jeff's weekly goals",
+    "Name": "Workspace",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le7f738vttm2rk3mc8i"
+      ],
       "Components": []
     },
     "Attrs": {
@@ -275,5 +277,15 @@
     },
     "Attrs": {},
     "Parent": "le3801xcvbpqjm9qsc"
+  },
+  {
+    "ID": "le7f738vttm2rk3mc8i",
+    "Name": "contents",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le381nn8j080w59x3u"
   }
 ]
