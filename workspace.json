@@ -145,7 +145,8 @@
     "Name": "Another Workspace",
     "Linked": {
       "Children": [
-        "le4sjry5xgugxvotvp"
+        "le4sjry5xgugxvotvp",
+        "le7h6yo2qg5gwx6hg1"
       ],
       "Components": []
     },
@@ -458,5 +459,15 @@
     },
     "Attrs": {},
     "Parent": "le4sjry5xgugxvotvp"
+  },
+  {
+    "ID": "le7h6yo2qg5gwx6hg1",
+    "Name": "Well, the way they make shows is, they make one show. That show's called a pilot.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjqjmb7svey8p7c"
   }
 ]
