@@ -150,9 +150,7 @@
     "ID": "le4sjry5xgugxvotvp",
     "Name": "test",
     "Linked": {
-      "Children": [
-        "le7f7ifsrrdg4feo07"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {},
@@ -275,15 +273,5 @@
     },
     "Attrs": {},
     "Parent": "le381nn8j080w59x3u"
-  },
-  {
-    "ID": "le7f7ifsrrdg4feo07",
-    "Name": "contents",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "le4sjry5xgugxvotvp"
   }
 ]
