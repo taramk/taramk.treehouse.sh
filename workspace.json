@@ -147,7 +147,6 @@
       "Children": [
         "le4sjry5xgugxvotvp",
         "le7h6yo2qg5gwx6hg1",
-        "le7h73rjf2m6ecylcsb",
         "le7h7ahvav0z7eeqozb",
         "le7h7fx54bmdzl8udn9",
         "le7h8d6xwxjwkmhh2vh",
@@ -470,7 +469,9 @@
     "ID": "le7h6yo2qg5gwx6hg1",
     "Name": "Well, the way they make shows is, they make one show. That show's called a pilot.",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "le7h73rjf2m6ecylcsb"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -484,7 +485,7 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "le4sjqjmb7svey8p7c"
+    "Parent": "le7h6yo2qg5gwx6hg1"
   },
   {
     "ID": "le7h7ahvav0z7eeqozb",
