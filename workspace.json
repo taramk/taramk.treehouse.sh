@@ -580,7 +580,8 @@
     "Name": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly hisbrother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.",
     "Linked": {
       "Children": [
-        "ledd7xy55vfe6eqp77b"
+        "ledd7xy55vfe6eqp77b",
+        "ledfczzzg8ka9hj2chc"
       ],
       "Components": []
     },
@@ -610,7 +611,9 @@
     "ID": "ledd7xy55vfe6eqp77b",
     "Name": "brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "ledfcwbgvqnber8te0j"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -670,5 +673,25 @@
     },
     "Attrs": {},
     "Parent": "le4sjqjmb7svey8p7c"
+  },
+  {
+    "ID": "ledfcwbgvqnber8te0j",
+    "Name": "I lay My vengeance upon thee.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "ledd7xy55vfe6eqp77b"
+  },
+  {
+    "ID": "ledfczzzg8ka9hj2chc",
+    "Name": "ce upon thee.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le7hb5sisy1p0c6p4zi"
   }
 ]
