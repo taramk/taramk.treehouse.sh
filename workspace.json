@@ -148,7 +148,8 @@
         "le4sjry5xgugxvotvp",
         "le7h8d6xwxjwkmhh2vh",
         "le7habfpo4jfbg9wfui",
-        "le7hb5sisy1p0c6p4zi"
+        "le7hb5sisy1p0c6p4zi",
+        "ledd7xy55vfe6eqp77b"
       ],
       "Components": []
     },
@@ -575,7 +576,7 @@
   },
   {
     "ID": "le7hb5sisy1p0c6p4zi",
-    "Name": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.",
+    "Name": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly hisbrother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.",
     "Linked": {
       "Children": [],
       "Components": []
@@ -679,5 +680,15 @@
     },
     "Attrs": {},
     "Parent": "@quickadd"
+  },
+  {
+    "ID": "ledd7xy55vfe6eqp77b",
+    "Name": "brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjqjmb7svey8p7c"
   }
 ]
