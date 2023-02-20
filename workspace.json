@@ -146,6 +146,7 @@
     "Linked": {
       "Children": [
         "le4sjry5xgugxvotvp",
+        "ledfc8v8qp1ndfyuy1i",
         "le7h8d6xwxjwkmhh2vh",
         "le7habfpo4jfbg9wfui",
         "le7hb5sisy1p0c6p4zi"
@@ -659,5 +660,15 @@
     },
     "Attrs": {},
     "Parent": "ledd9ksw7spn2zqpfz"
+  },
+  {
+    "ID": "ledfc8v8qp1ndfyuy1i",
+    "Name": "Our built-in Daily Note section automatically organizes your thoughts into a calendar structure.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le4sjqjmb7svey8p7c"
   }
 ]
