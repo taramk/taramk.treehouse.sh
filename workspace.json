@@ -3349,7 +3349,8 @@
     "Name": "Design and functionality Ideas",
     "Linked": {
       "Children": [
-        "leevft63i5reyvxr6bn"
+        "leevft63i5reyvxr6bn",
+        "leevklb40qjky0zcw8s8"
       ],
       "Components": []
     },
@@ -3358,7 +3359,7 @@
   },
   {
     "ID": "leevft63i5reyvxr6bn",
-    "Name": "Streamline the navigation to reduce confusion and make it easier for users to find the information they need. Another idea was to optimize the website for faster page load times, which would improve the user experience and reduce bounce rates. The team also discussed incorporating a responsive design to improve the mobile experience, as more users are accessing the website from their mobile devices. To enhance user engagement, the team suggested using high-quality visuals and engaging content throughout the website. Finally, the team recommended creating clear calls to action throughout the website to encourage lead generation.",
+    "Name": "Streamline the navigation to reduce confusion and make it easier for users to find the information they need.",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3387,5 +3388,15 @@
     },
     "Attrs": {},
     "Parent": "leevfzvejdxf9b9oa5c"
+  },
+  {
+    "ID": "leevklb40qjky0zcw8s8",
+    "Name": "Optimize the website for faster page load times, which would improve the user experience and reduce bounce rates. The team also discussed incorporating a responsive design to improve the mobile experience, as more users are accessing the website from their mobile devices. To enhance user engagement, the team suggested using high-quality visuals and engaging content throughout the website. Finally, the team recommended creating clear calls to action throughout the website to encourage lead generation.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leevfcgpeznnw2g9rb"
   }
 ]
