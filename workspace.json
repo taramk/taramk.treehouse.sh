@@ -2144,9 +2144,24 @@
     "Name": "",
     "Linked": {
       "Children": [],
-      "Components": []
+      "Components": [
+        "leesosbvbdp1f3i8m8a"
+      ]
     },
     "Attrs": {},
     "Parent": "le37qibhsmc73hj4gsp"
+  },
+  {
+    "ID": "leesosbvbdp1f3i8m8a",
+    "Name": "treehouse.Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeson1qzg0goc9wf2o"
   }
 ]
