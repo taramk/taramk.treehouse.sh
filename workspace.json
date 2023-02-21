@@ -2225,7 +2225,8 @@
     "Name": "2023/02/21",
     "Linked": {
       "Children": [
-        "leestqbr3i0vs7ku4kc"
+        "leestqbr3i0vs7ku4kc",
+        "leeveytwgqoaya9adio"
       ],
       "Components": []
     },
@@ -3318,5 +3319,15 @@
     },
     "Attrs": {},
     "Parent": "leestqbr3i0vs7ku4kc"
+  },
+  {
+    "ID": "leeveytwgqoaya9adio",
+    "Name": "Goals for the website redesign",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestmbs2mpam6brjhk"
   }
 ]
