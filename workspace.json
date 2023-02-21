@@ -1721,10 +1721,22 @@
     "ID": "leepq8hareg7fktjhe",
     "Name": "New test section",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leepqrna6brj9yz1hln"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "leepqrna6brj9yz1hln",
+    "Name": "test one",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leepq8hareg7fktjhe"
   }
 ]
