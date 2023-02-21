@@ -3370,10 +3370,22 @@
     "ID": "leevfzvejdxf9b9oa5c",
     "Name": "Assigned Tasks and Deadlines",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leevg4ck2sl3nfh3lqq"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "leestmbs2mpam6brjhk"
+  },
+  {
+    "ID": "leevg4ck2sl3nfh3lqq",
+    "Name": "The group discussed the tasks that needed to be completed to move the website redesign project forward. Team members were assigned to research website design trends and present their findings at the next meeting. Other team members were tasked with creating wireframes and mockups based on the design ideas discussed in the meeting. The team also assigned team members to develop website content that would be engaging and informative. Finally, team members were tasked with testing and launching the redesigned website. Deadlines were set for each of these tasks to ensure the project was completed on time.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leevfzvejdxf9b9oa5c"
   }
 ]
