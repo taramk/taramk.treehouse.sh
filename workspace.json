@@ -2571,10 +2571,101 @@
     "ID": "leet6febere5j112z25",
     "Name": "Sales Dashboard Project",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leet6p4v7hgd3lyocag",
+        "leet6sjt0jjiz5mdvq3o",
+        "leet6v64sr1icgcv6hj",
+        "leet6y8rx4gjha7ybu"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "leet6buuhxujlx8po4s"
+  },
+  {
+    "ID": "leet6p4v7hgd3lyocag",
+    "Name": "Define key performance indicators (KPIs)",
+    "Linked": {
+      "Children": [
+        "leet71y5ltv5o3i30a",
+        "leet75jiz09woprcfzc"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6febere5j112z25"
+  },
+  {
+    "ID": "leet6sjt0jjiz5mdvq3o",
+    "Name": "Build the dashboard",
+    "Linked": {
+      "Children": [
+        "leet77xvt6jujzqxl9p",
+        "leet7h69ga7rji7wmgs"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6febere5j112z25"
+  },
+  {
+    "ID": "leet6v64sr1icgcv6hj",
+    "Name": "Integrate data sources",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6febere5j112z25"
+  },
+  {
+    "ID": "leet6y8rx4gjha7ybu",
+    "Name": "Analyze and interpret data",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6febere5j112z25"
+  },
+  {
+    "ID": "leet71y5ltv5o3i30a",
+    "Name": "Determine which metrics to track (i.e. revenue, customer acquisition, etc.)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6p4v7hgd3lyocag"
+  },
+  {
+    "ID": "leet75jiz09woprcfzc",
+    "Name": "Set goals for each KPI",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6p4v7hgd3lyocag"
+  },
+  {
+    "ID": "leet77xvt6jujzqxl9p",
+    "Name": "Choose a tool for data visualization",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6sjt0jjiz5mdvq3o"
+  },
+  {
+    "ID": "leet7h69ga7rji7wmgs",
+    "Name": "Create graphs and charts that display KPIs",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6sjt0jjiz5mdvq3o"
   }
 ]
