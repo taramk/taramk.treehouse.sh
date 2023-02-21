@@ -1672,7 +1672,8 @@
     "Linked": {
       "Children": [],
       "Components": [
-        "leeplk5vw2ggnb269kc"
+        "leeplk5vw2ggnb269kc",
+        "leepo3i8rivu7geh92i"
       ]
     },
     "Attrs": {},
@@ -1703,5 +1704,18 @@
     },
     "Attrs": {},
     "Parent": "leepl91uzbplns6kuwg"
+  },
+  {
+    "ID": "leepo3i8rivu7geh92i",
+    "Name": "evaluate@[native code].Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeplhu8v8bmmtbv7sc"
   }
 ]
