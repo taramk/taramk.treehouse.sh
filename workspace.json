@@ -2447,7 +2447,8 @@
     "Name": "Website Launch",
     "Linked": {
       "Children": [
-        "leet2ekm789mli1sqk3"
+        "leet2ekm789mli1sqk3",
+        "leet3j85g7rxpgyfxji"
       ],
       "Components": []
     },
@@ -2456,7 +2457,17 @@
   },
   {
     "ID": "leet2ekm789mli1sqk3",
-    "Name": "Finalize website design\n",
+    "Name": "Finalize website design",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet25vjylq6n3y52k"
+  },
+  {
+    "ID": "leet3j85g7rxpgyfxji",
+    "Name": "Develop website functionality\n",
     "Linked": {
       "Children": [],
       "Components": []
