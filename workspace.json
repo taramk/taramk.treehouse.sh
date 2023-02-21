@@ -18,7 +18,8 @@
         "le37qibhhgeq47drnnl",
         "le37qibhsmc73hj4gsp",
         "leest6yog9hid2tza9",
-        "leet8bno0wbpa8we3lo"
+        "leet8bno0wbpa8we3lo",
+        "leetcs1d3qtqctzx9fx"
       ],
       "Components": []
     },
@@ -2717,12 +2718,557 @@
   },
   {
     "ID": "leet8bno0wbpa8we3lo",
-    "Name": "Home Projects",
+    "Name": "Home",
+    "Linked": {
+      "Children": [
+        "leeta0ckle5ze1rkucq",
+        "leetb8nwlszog2sqpg",
+        "leetcj4gbdqkzmyba7"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "leeta0ckle5ze1rkucq",
+    "Name": "Kitchen Renovation",
+    "Linked": {
+      "Children": [
+        "leeta3itzneq9uihgue",
+        "leeta62kmwcc4cqsvo",
+        "leeta7zf0jphvp5d0fdd",
+        "leetaa2ttwhem9dwa0f"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet8bno0wbpa8we3lo"
+  },
+  {
+    "ID": "leeta3itzneq9uihgue",
+    "Name": "Create design plan",
+    "Linked": {
+      "Children": [
+        "leetafp83nxd01sah38",
+        "leetaisweeg8d6nt5ef"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta0ckle5ze1rkucq"
+  },
+  {
+    "ID": "leeta62kmwcc4cqsvo",
+    "Name": "Find a contractor",
+    "Linked": {
+      "Children": [
+        "leetamu35g2uhh0545s",
+        "leetaptofx09tjd5q7m"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta0ckle5ze1rkucq"
+  },
+  {
+    "ID": "leeta7zf0jphvp5d0fdd",
+    "Name": "Schedule renovation",
+    "Linked": {
+      "Children": [
+        "leetavb3mzt9mmflvg9",
+        "leetayh9r88h93vm9p"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta0ckle5ze1rkucq"
+  },
+  {
+    "ID": "leetaa2ttwhem9dwa0f",
+    "Name": "Prepare for renovation",
+    "Linked": {
+      "Children": [
+        "leetb1nasc9tan1npgf",
+        "leetb4gpbeqinksxwk"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta0ckle5ze1rkucq"
+  },
+  {
+    "ID": "leetafp83nxd01sah38",
+    "Name": "Choose new countertops and cabinets",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
+    "Parent": "leeta3itzneq9uihgue"
+  },
+  {
+    "ID": "leetaisweeg8d6nt5ef",
+    "Name": "Pick out new appliances",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta3itzneq9uihgue"
+  },
+  {
+    "ID": "leetamu35g2uhh0545s",
+    "Name": "Get referrals from friends and family",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta62kmwcc4cqsvo"
+  },
+  {
+    "ID": "leetaptofx09tjd5q7m",
+    "Name": "Get quotes from at least 3 contractors",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta62kmwcc4cqsvo"
+  },
+  {
+    "ID": "leetavb3mzt9mmflvg9",
+    "Name": "Pick a start date and end date",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta7zf0jphvp5d0fdd"
+  },
+  {
+    "ID": "leetayh9r88h93vm9p",
+    "Name": "Arrange for a temporary kitchen space",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeta7zf0jphvp5d0fdd"
+  },
+  {
+    "ID": "leetb1nasc9tan1npgf",
+    "Name": "Empty cabinets and clear out the kitchen",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetaa2ttwhem9dwa0f"
+  },
+  {
+    "ID": "leetb4gpbeqinksxwk",
+    "Name": "Cover furniture and floors to protect them during the renovation",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetaa2ttwhem9dwa0f"
+  },
+  {
+    "ID": "leetb8nwlszog2sqpg",
+    "Name": "Closet Organization",
+    "Linked": {
+      "Children": [
+        "leetbiyd60v7z5xzopt",
+        "leetbmfxl8fwmx6bic8"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet8bno0wbpa8we3lo"
+  },
+  {
+    "ID": "leetbiyd60v7z5xzopt",
+    "Name": "Sort clothes into piles for donation, storage, and regular use",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetb8nwlszog2sqpg"
+  },
+  {
+    "ID": "leetbmfxl8fwmx6bic8",
+    "Name": "Install shelving for extra storage",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetb8nwlszog2sqpg"
+  },
+  {
+    "ID": "leetcj4gbdqkzmyba7",
+    "Name": "Backyard Landscaping",
+    "Linked": {
+      "Children": [
+        "leetczl3a84xm1zouo9",
+        "leetd5zxw3q7awakor",
+        "leetd8saopbojxbagbi",
+        "leetdbusm80zznky4e"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet8bno0wbpa8we3lo"
+  },
+  {
+    "ID": "leetcs1d3qtqctzx9fx",
+    "Name": "Travel",
+    "Linked": {
+      "Children": [
+        "leetehayl57dqes9zmq"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
     "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "leetczl3a84xm1zouo9",
+    "Name": "Create a landscaping plan",
+    "Linked": {
+      "Children": [
+        "leetdd0lyt94o5u7xaa",
+        "leetdi9aa8y4xezjs3l"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetcj4gbdqkzmyba7"
+  },
+  {
+    "ID": "leetd5zxw3q7awakor",
+    "Name": "Gather materials",
+    "Linked": {
+      "Children": [
+        "leetdm3otguik2v1o4",
+        "leetdq0oa0j86cwqrgj"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetcj4gbdqkzmyba7"
+  },
+  {
+    "ID": "leetd8saopbojxbagbi",
+    "Name": "Prepare the area",
+    "Linked": {
+      "Children": [
+        "leetdwf2ljizmf0azu",
+        "leete06vc1h7jazt7qa"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetcj4gbdqkzmyba7"
+  },
+  {
+    "ID": "leetdbusm80zznky4e",
+    "Name": "Plant the garden",
+    "Linked": {
+      "Children": [
+        "leete450640mdx499zc",
+        "leete789t2expmzuxw",
+        "leetecwx2suh0368kju"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetcj4gbdqkzmyba7"
+  },
+  {
+    "ID": "leetdd0lyt94o5u7xaa",
+    "Name": "Choose plants and trees that are suitable for the climate and soil",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetczl3a84xm1zouo9"
+  },
+  {
+    "ID": "leetdi9aa8y4xezjs3l",
+    "Name": "Decide on a layout for the garden",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetczl3a84xm1zouo9"
+  },
+  {
+    "ID": "leetdm3otguik2v1o4",
+    "Name": "Purchase soil, mulch, and rocks",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetd5zxw3q7awakor"
+  },
+  {
+    "ID": "leetdq0oa0j86cwqrgj",
+    "Name": "Rent or buy necessary tools (shovels, wheelbarrow, etc.)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetd5zxw3q7awakor"
+  },
+  {
+    "ID": "leetdwf2ljizmf0azu",
+    "Name": "Clear out any debris and weeds",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetd8saopbojxbagbi"
+  },
+  {
+    "ID": "leete06vc1h7jazt7qa",
+    "Name": "Level the ground and mark out the garden beds",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetd8saopbojxbagbi"
+  },
+  {
+    "ID": "leete450640mdx499zc",
+    "Name": "Dig holes for trees and plants",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetdbusm80zznky4e"
+  },
+  {
+    "ID": "leete789t2expmzuxw",
+    "Name": "Add soil and mulch to each bed",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetdbusm80zznky4e"
+  },
+  {
+    "ID": "leetecwx2suh0368kju",
+    "Name": "Water plants regularly and add fertilizer as needed",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetdbusm80zznky4e"
+  },
+  {
+    "ID": "leetehayl57dqes9zmq",
+    "Name": "Hawaii Trip",
+    "Linked": {
+      "Children": [
+        "leetfzd5y8h4myes44g",
+        "leetg36hkzak0reppdk",
+        "leetgh7n1z3dsutv32w",
+        "leetgnnv1v69d4p7v1i"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetcs1d3qtqctzx9fx"
+  },
+  {
+    "ID": "leetfzd5y8h4myes44g",
+    "Name": "Destination Information",
+    "Linked": {
+      "Children": [
+        "leetgrxl7m1z6agnkp4",
+        "leetgvb2c99ehl8ofaf",
+        "leetgypwnjmj5jd1stc"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetehayl57dqes9zmq"
+  },
+  {
+    "ID": "leetg36hkzak0reppdk",
+    "Name": "Flights and Accommodation",
+    "Linked": {
+      "Children": [
+        "leeth06sk7l113dadgt",
+        "leeth3veh1v4d7hcov9",
+        "leeth9dytstm05ck01b"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetehayl57dqes9zmq"
+  },
+  {
+    "ID": "leetgh7n1z3dsutv32w",
+    "Name": "Activities and Attractions",
+    "Linked": {
+      "Children": [
+        "leethapv8fwa4ra1kn3",
+        "leethgde4w7kqcrj3qr",
+        "leethjbx6unhrwx0cz9"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetehayl57dqes9zmq"
+  },
+  {
+    "ID": "leetgnnv1v69d4p7v1i",
+    "Name": "Food and Dining",
+    "Linked": {
+      "Children": [
+        "leethn15d3qhet5z9i",
+        "leethqgpfwu1wtpfk6w",
+        "leethtppbq5728sb02"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetehayl57dqes9zmq"
+  },
+  {
+    "ID": "leetgrxl7m1z6agnkp4",
+    "Name": "Research Hawaii's geography, climate, and culture",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetfzd5y8h4myes44g"
+  },
+  {
+    "ID": "leetgvb2c99ehl8ofaf",
+    "Name": "Choose specific islands to visit (e.g., Oahu, Maui, Kauai, or the Big Island)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetfzd5y8h4myes44g"
+  },
+  {
+    "ID": "leetgypwnjmj5jd1stc",
+    "Name": "Identify the best time of year to visit based on weather, crowds, and pricing",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetfzd5y8h4myes44g"
+  },
+  {
+    "ID": "leeth06sk7l113dadgt",
+    "Name": "Research airlines and ticket prices to get to Hawaii",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetg36hkzak0reppdk"
+  },
+  {
+    "ID": "leeth3veh1v4d7hcov9",
+    "Name": "Book flights and arrange transportation to and from airports",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetg36hkzak0reppdk"
+  },
+  {
+    "ID": "leeth9dytstm05ck01b",
+    "Name": "Research accommodation options and choose a hotel or vacation rental that fits your budget and preferences",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetg36hkzak0reppdk"
+  },
+  {
+    "ID": "leethapv8fwa4ra1kn3",
+    "Name": "Research popular activities and attractions on each island (e.g., hiking, surfing, snorkeling, visiting beaches or cultural sites, etc.)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgh7n1z3dsutv32w"
+  },
+  {
+    "ID": "leethgde4w7kqcrj3qr",
+    "Name": "Make a list of must-see sights and plan to visit them",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgh7n1z3dsutv32w"
+  },
+  {
+    "ID": "leethjbx6unhrwx0cz9",
+    "Name": "Consider booking tours or activities in advance to ensure availability",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgh7n1z3dsutv32w"
+  },
+  {
+    "ID": "leethn15d3qhet5z9i",
+    "Name": "Research the local cuisine and identify must-try dishes",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgnnv1v69d4p7v1i"
+  },
+  {
+    "ID": "leethqgpfwu1wtpfk6w",
+    "Name": "Find and bookmark restaurants that suit your taste and budget",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgnnv1v69d4p7v1i"
+  },
+  {
+    "ID": "leethtppbq5728sb02",
+    "Name": "Consider booking reservations in advance, especially for popular restaurants or special occasions",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leetgnnv1v69d4p7v1i"
   }
 ]
