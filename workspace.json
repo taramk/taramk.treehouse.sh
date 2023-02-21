@@ -2177,7 +2177,6 @@
         "leesueyrk2tavedfykc",
         "leet25vjylq6n3y52k",
         "leet68xsarlteq7euxk",
-        "leet69vsyloltb5h7ee",
         "leet6buuhxujlx8po4s"
       ],
       "Components": []
@@ -2544,16 +2543,6 @@
       "Children": [
         "leeu3c4q5jheno1r7st"
       ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leest6yog9hid2tza9"
-  },
-  {
-    "ID": "leet69vsyloltb5h7ee",
-    "Name": "Marketing",
-    "Linked": {
-      "Children": [],
       "Components": []
     },
     "Attrs": {},
@@ -3275,7 +3264,7 @@
   },
   {
     "ID": "leeu3c4q5jheno1r7st",
-    "Name": "",
+    "Name": "App setup",
     "Linked": {
       "Children": [],
       "Components": []
