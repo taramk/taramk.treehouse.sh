@@ -1735,7 +1735,9 @@
     "Name": "test line one",
     "Linked": {
       "Children": [],
-      "Components": []
+      "Components": [
+        "leepr49ny2vxgq7kii"
+      ]
     },
     "Attrs": {},
     "Parent": "leepq8hareg7fktjhe"
@@ -1745,9 +1747,37 @@
     "Name": "test line two",
     "Linked": {
       "Children": [],
-      "Components": []
+      "Components": [
+        "leepr5l1494xpcsghk2"
+      ]
     },
     "Attrs": {},
     "Parent": "leepq8hareg7fktjhe"
+  },
+  {
+    "ID": "leepr49ny2vxgq7kii",
+    "Name": "evaluate@[native code].Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leepqrna6brj9yz1hln"
+  },
+  {
+    "ID": "leepr5l1494xpcsghk2",
+    "Name": "evaluate@[native code].Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leepqwp6urrva6trj6m"
   }
 ]
