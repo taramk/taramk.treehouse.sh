@@ -2212,7 +2212,9 @@
     "ID": "leestjd4ts6eg4uvq4",
     "Name": "2023/02/16",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leevedf04qhtu3y3wfj"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -2232,7 +2234,7 @@
   },
   {
     "ID": "leestqbr3i0vs7ku4kc",
-    "Name": "This week: finalize video script, website copy, create video, update readme, set up newsletter config",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3294,5 +3296,15 @@
     },
     "Attrs": {},
     "Parent": "leesuppnaoclztcsixf"
+  },
+  {
+    "ID": "leevedf04qhtu3y3wfj",
+    "Name": "This week: finalize video script, website copy, create video, update readme, set up newsletter config",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestjd4ts6eg4uvq4"
   }
 ]
