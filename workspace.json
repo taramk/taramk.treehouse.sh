@@ -2240,7 +2240,8 @@
     "Name": "Current website issues",
     "Linked": {
       "Children": [
-        "leevepbvbd3cjmjkout"
+        "leevepbvbd3cjmjkout",
+        "leevmc7s4n9d8ogphp3"
       ],
       "Components": []
     },
@@ -3314,7 +3315,7 @@
   },
   {
     "ID": "leevepbvbd3cjmjkout",
-    "Name": "Issues include slow page load times, confusing navigation structure, outdated design, poor mobile responsiveness, and lack of engaging content. These issues are negatively impacting the user experience and causing frustration for users who are trying to find the information they need.",
+    "Name": "Issues include slow page load times, confusing navigation structure, outdated design, poor mobile responsiveness, and lack of engaging content. ",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3398,5 +3399,15 @@
     },
     "Attrs": {},
     "Parent": "leevfcgpeznnw2g9rb"
+  },
+  {
+    "ID": "leevmc7s4n9d8ogphp3",
+    "Name": "These issues are negatively impacting the user experience and causing frustration for users who are trying to find the information they need.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestqbr3i0vs7ku4kc"
   }
 ]
