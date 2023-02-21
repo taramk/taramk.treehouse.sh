@@ -2170,7 +2170,8 @@
     "Name": "Empirico Project",
     "Linked": {
       "Children": [
-        "leestd7mxqbe7ki8cd"
+        "leestd7mxqbe7ki8cd",
+        "leesu336718k7ir80dl"
       ],
       "Components": []
     },
@@ -2232,5 +2233,61 @@
     },
     "Attrs": {},
     "Parent": "leestmbs2mpam6brjhk"
+  },
+  {
+    "ID": "leesu336718k7ir80dl",
+    "Name": "Design",
+    "Linked": {
+      "Children": [
+        "leesu4kv5diqa885lae",
+        "leesu5mpl4t1e7d89f",
+        "leesueyrk2tavedfykc"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leest6yog9hid2tza9"
+  },
+  {
+    "ID": "leesu4kv5diqa885lae",
+    "Name": "Branding",
+    "Linked": {
+      "Children": [
+        "leesu9d9jf23og56c8"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leesu336718k7ir80dl"
+  },
+  {
+    "ID": "leesu5mpl4t1e7d89f",
+    "Name": "AI Tools",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leesu336718k7ir80dl"
+  },
+  {
+    "ID": "leesu9d9jf23og56c8",
+    "Name": "Branding Exercise",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leesu4kv5diqa885lae"
+  },
+  {
+    "ID": "leesueyrk2tavedfykc",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leesu336718k7ir80dl"
   }
 ]
