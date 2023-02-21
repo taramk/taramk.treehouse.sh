@@ -2612,7 +2612,10 @@
     "ID": "leet6v64sr1icgcv6hj",
     "Name": "Integrate data sources",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leet7m8zxjr9vmcbz6",
+        "leet7pjkrxxph6uqur"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -2622,7 +2625,10 @@
     "ID": "leet6y8rx4gjha7ybu",
     "Name": "Analyze and interpret data",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leet7uekvf82qht0v19",
+        "leet7y6dnf96rcepqgi"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -2667,5 +2673,45 @@
     },
     "Attrs": {},
     "Parent": "leet6sjt0jjiz5mdvq3o"
+  },
+  {
+    "ID": "leet7m8zxjr9vmcbz6",
+    "Name": "Connect the dashboard to relevant data sources (i.e. CRM, accounting software, etc.)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6v64sr1icgcv6hj"
+  },
+  {
+    "ID": "leet7pjkrxxph6uqur",
+    "Name": "Ensure data is accurate and up-to-date",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6v64sr1icgcv6hj"
+  },
+  {
+    "ID": "leet7uekvf82qht0v19",
+    "Name": "Use the dashboard to identify trends and patterns",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6y8rx4gjha7ybu"
+  },
+  {
+    "ID": "leet7y6dnf96rcepqgi",
+    "Name": "Make data-driven decisions based on the insights gained",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet6y8rx4gjha7ybu"
   }
 ]
