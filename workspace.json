@@ -2470,7 +2470,8 @@
     "Name": "Develop website functionality",
     "Linked": {
       "Children": [
-        "leet3nyf58mq0ckzg5s"
+        "leet3nyf58mq0ckzg5s",
+        "leet3tpyb5g00t9y5al"
       ],
       "Components": []
     },
@@ -2479,7 +2480,17 @@
   },
   {
     "ID": "leet3nyf58mq0ckzg5s",
-    "Name": "Create login and sign-up forms\n",
+    "Name": "Create login and sign-up forms",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet3j85g7rxpgyfxji"
+  },
+  {
+    "ID": "leet3tpyb5g00t9y5al",
+    "Name": "Add shopping cart and checkout features\n",
     "Linked": {
       "Children": [],
       "Components": []
