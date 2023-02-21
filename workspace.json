@@ -2471,7 +2471,8 @@
     "Linked": {
       "Children": [
         "leet3nyf58mq0ckzg5s",
-        "leet3tpyb5g00t9y5al"
+        "leet3tpyb5g00t9y5al",
+        "leet46xlez360uodnp9"
       ],
       "Components": []
     },
@@ -2490,7 +2491,17 @@
   },
   {
     "ID": "leet3tpyb5g00t9y5al",
-    "Name": "Add shopping cart and checkout features\n",
+    "Name": "Add shopping cart and checkout features",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet3j85g7rxpgyfxji"
+  },
+  {
+    "ID": "leet46xlez360uodnp9",
+    "Name": "\nTest website thoroughly",
     "Linked": {
       "Children": [],
       "Components": []
