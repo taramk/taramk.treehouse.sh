@@ -2234,9 +2234,11 @@
   },
   {
     "ID": "leestqbr3i0vs7ku4kc",
-    "Name": "",
+    "Name": "Current website issues",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leevepbvbd3cjmjkout"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -3306,5 +3308,15 @@
     },
     "Attrs": {},
     "Parent": "leestjd4ts6eg4uvq4"
+  },
+  {
+    "ID": "leevepbvbd3cjmjkout",
+    "Name": "The group discussed the issues that currently exist on the website, including slow page load times, confusing navigation structure, outdated design, poor mobile responsiveness, and lack of engaging content. These issues are negatively impacting the user experience and causing frustration for users who are trying to find the information they need.\n",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestqbr3i0vs7ku4kc"
   }
 ]
