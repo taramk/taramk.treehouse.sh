@@ -2504,7 +2504,8 @@
     "Name": "Test website thoroughly",
     "Linked": {
       "Children": [
-        "leet5iqv1j4y82i1csi"
+        "leet5iqv1j4y82i1csi",
+        "leet5unpeyx6l2if69"
       ],
       "Components": []
     },
@@ -2514,6 +2515,16 @@
   {
     "ID": "leet5iqv1j4y82i1csi",
     "Name": "Check all pages and links",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet4b5b9hjr9kjkgm4"
+  },
+  {
+    "ID": "leet5unpeyx6l2if69",
+    "Name": "Test on different devices and browsers",
     "Linked": {
       "Children": [],
       "Components": []
