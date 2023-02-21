@@ -2227,7 +2227,8 @@
       "Children": [
         "leestqbr3i0vs7ku4kc",
         "leeveytwgqoaya9adio",
-        "leevfcgpeznnw2g9rb"
+        "leevfcgpeznnw2g9rb",
+        "leevfzvejdxf9b9oa5c"
       ],
       "Components": []
     },
@@ -3364,5 +3365,15 @@
     },
     "Attrs": {},
     "Parent": "leevfcgpeznnw2g9rb"
+  },
+  {
+    "ID": "leevfzvejdxf9b9oa5c",
+    "Name": "Assigned Tasks and Deadlines",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestmbs2mpam6brjhk"
   }
 ]
