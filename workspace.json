@@ -2343,7 +2343,8 @@
     "Name": "Evaluative research on competitor tools",
     "Linked": {
       "Children": [
-        "leet0b4lrek1e5wt1dg"
+        "leet0b4lrek1e5wt1dg",
+        "leet0k088t0bu593gw8"
       ],
       "Components": []
     },
@@ -2355,8 +2356,7 @@
     "Name": "Intro",
     "Linked": {
       "Children": [
-        "leet0fcgqe0396xxv8",
-        "leet0k088t0bu593gw8"
+        "leet0fcgqe0396xxv8"
       ],
       "Components": []
     },
@@ -2381,6 +2381,6 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "leet0b4lrek1e5wt1dg"
+    "Parent": "leesvtjigh5ai94xkwt"
   }
 ]
