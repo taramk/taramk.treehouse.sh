@@ -1782,9 +1782,24 @@
     "Name": "should i even trust this damn thing?",
     "Linked": {
       "Children": [],
-      "Components": []
+      "Components": [
+        "leeq8wlch6inci8tz6h"
+      ]
     },
     "Attrs": {},
     "Parent": "le37qibhsmc73hj4gsp"
+  },
+  {
+    "ID": "leeq8wlch6inci8tz6h",
+    "Name": "evaluate@[native code].Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeq8pcrs1jyd5yu048"
   }
 ]
