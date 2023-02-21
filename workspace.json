@@ -2169,10 +2169,68 @@
     "ID": "leest6yog9hid2tza9",
     "Name": "Empirico Project",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leestd7mxqbe7ki8cd"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "leestd7mxqbe7ki8cd",
+    "Name": "Meeting notes",
+    "Linked": {
+      "Children": [
+        "leestfrt6q6ocl8xq89",
+        "leestjd4ts6eg4uvq4",
+        "leestmbs2mpam6brjhk"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leest6yog9hid2tza9"
+  },
+  {
+    "ID": "leestfrt6q6ocl8xq89",
+    "Name": "2023/02/10",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestd7mxqbe7ki8cd"
+  },
+  {
+    "ID": "leestjd4ts6eg4uvq4",
+    "Name": "2023/02/16",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestd7mxqbe7ki8cd"
+  },
+  {
+    "ID": "leestmbs2mpam6brjhk",
+    "Name": "2023/02/21",
+    "Linked": {
+      "Children": [
+        "leestqbr3i0vs7ku4kc"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestd7mxqbe7ki8cd"
+  },
+  {
+    "ID": "leestqbr3i0vs7ku4kc",
+    "Name": "This week: finalize video script, website copy, create video, update readme, set up newsletter config",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leestmbs2mpam6brjhk"
   }
 ]
