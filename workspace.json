@@ -2467,12 +2467,24 @@
   },
   {
     "ID": "leet3j85g7rxpgyfxji",
-    "Name": "Develop website functionality\n",
+    "Name": "Develop website functionality",
+    "Linked": {
+      "Children": [
+        "leet3nyf58mq0ckzg5s"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet25vjylq6n3y52k"
+  },
+  {
+    "ID": "leet3nyf58mq0ckzg5s",
+    "Name": "Create login and sign-up forms\n",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "leet25vjylq6n3y52k"
+    "Parent": "leet3j85g7rxpgyfxji"
   }
 ]
