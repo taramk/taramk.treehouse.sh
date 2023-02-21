@@ -2447,10 +2447,7 @@
     "Name": "Website Launch",
     "Linked": {
       "Children": [
-        "leet2ekm789mli1sqk3",
-        "leet2nh5gn3s12e1glm",
-        "leet2z1j8w4cielgbar",
-        "leet2l1erktnftpym2"
+        "leet2ekm789mli1sqk3"
       ],
       "Components": []
     },
@@ -2460,36 +2457,6 @@
   {
     "ID": "leet2ekm789mli1sqk3",
     "Name": "Finalize website design\n",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leet25vjylq6n3y52k"
-  },
-  {
-    "ID": "leet2l1erktnftpym2",
-    "Name": "Test website thoroughly\n    - Check all pages and links\n    - Test on different devices and browsers",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leet25vjylq6n3y52k"
-  },
-  {
-    "ID": "leet2nh5gn3s12e1glm",
-    "Name": "Develop website functionality",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leet25vjylq6n3y52k"
-  },
-  {
-    "ID": "leet2z1j8w4cielgbar",
-    "Name": "Create login and sign-up forms\n    - Add shopping cart and checkout features",
     "Linked": {
       "Children": [],
       "Components": []
