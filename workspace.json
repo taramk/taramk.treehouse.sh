@@ -3328,7 +3328,8 @@
     "Name": "Goals for the website redesign",
     "Linked": {
       "Children": [
-        "leevf9x8c9l765xlhtw"
+        "leevf9x8c9l765xlhtw",
+        "leevomqvoxzu1sgcc2g"
       ],
       "Components": []
     },
@@ -3337,7 +3338,7 @@
   },
   {
     "ID": "leevf9x8c9l765xlhtw",
-    "Name": "Goals: improving the user experience and satisfaction, increasing website traffic and engagement, highlighting products and services more effectively, and encouraging lead generation and conversion. The team agreed that achieving these goals would require a complete overhaul of the website's design and functionality.",
+    "Name": "Goals: improving the user experience and satisfaction, increasing website traffic and engagement, highlighting products and services more effectively, and encouraging lead generation and conversion.",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3409,5 +3410,15 @@
     },
     "Attrs": {},
     "Parent": "leestqbr3i0vs7ku4kc"
+  },
+  {
+    "ID": "leevomqvoxzu1sgcc2g",
+    "Name": "The team agreed that achieving these goals would require a complete overhaul of the website's design and functionality.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leeveytwgqoaya9adio"
   }
 ]
