@@ -2446,10 +2446,22 @@
     "ID": "leet25vjylq6n3y52k",
     "Name": "Website Launch",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "leet2ekm789mli1sqk3"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "leest6yog9hid2tza9"
+  },
+  {
+    "ID": "leet2ekm789mli1sqk3",
+    "Name": "- inalize website design\n- Develop website functionality\n    - Create login and sign-up forms\n    - Add shopping cart and checkout features\n- Test website thoroughly\n    - Check all pages and links\n    - Test on different devices and browsers",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "leet25vjylq6n3y52k"
   }
 ]
