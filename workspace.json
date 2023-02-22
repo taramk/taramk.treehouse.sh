@@ -510,7 +510,9 @@
     "ID": "@quickadd",
     "Name": "@quickadd",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lefwr0o0tijied1toa"
+      ],
       "Components": []
     },
     "Attrs": {}
@@ -3500,5 +3502,15 @@
     },
     "Attrs": {},
     "Parent": "leew860bhfjbingp6om"
+  },
+  {
+    "ID": "lefwr0o0tijied1toa",
+    "Name": "Check Empirico",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@quickadd"
   }
 ]
