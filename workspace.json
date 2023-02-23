@@ -3601,7 +3601,6 @@
         "leheynao205g7t1sxuk",
         "lehf0717f8h8ctagmbi",
         "lehf76cx9nmdefygkbe",
-        "lehfuuxa67eju0mzn73",
         "lehg8adm2ax2s0gyg4s",
         "lehgak3qn8mlfagbr7p",
         "lehgdfujzhvv2xrvn",
@@ -3660,16 +3659,6 @@
   {
     "ID": "lehf76cx9nmdefygkbe",
     "Name": "Breakfast chimichanga at Ship to Shore Marketplace (across from Big Thunder)",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
-    "ID": "lehfuuxa67eju0mzn73",
-    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
