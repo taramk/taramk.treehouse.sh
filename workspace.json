@@ -3875,7 +3875,8 @@
     "Name": "Frontierland",
     "Linked": {
       "Children": [
-        "lehgeebpncdtiky8cp"
+        "lehgeebpncdtiky8cp",
+        "lehgf34uiouwseph7he"
       ],
       "Components": []
     },
@@ -3885,6 +3886,16 @@
   {
     "ID": "lehgeebpncdtiky8cp",
     "Name": "Rancho Del Zocalo: cinnamon crisps",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehgeb3mo86i8ubzgwe"
+  },
+  {
+    "ID": "lehgf34uiouwseph7he",
+    "Name": "Breakfast chimichanga at Ship to Shore Marketplace (across from Big Thunder)",
     "Linked": {
       "Children": [],
       "Components": []
