@@ -3597,7 +3597,9 @@
     "Name": "Disneyland",
     "Linked": {
       "Children": [
-        "lehexfxhvwiivtuxzl"
+        "lehexfxhvwiivtuxzl",
+        "lehexwxjs03t094atpj",
+        "leheydebjyvy5wpjmkp"
       ],
       "Components": []
     },
@@ -3617,6 +3619,26 @@
   {
     "ID": "lehexfxhvwiivtuxzl",
     "Name": "Bao or lumpia from Tropical Hideaway (Adventureland)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehexa2ttfvq9yauqni"
+  },
+  {
+    "ID": "lehexwxjs03t094atpj",
+    "Name": "Firefly at Refreshment Corner (bag of chili, cheese, and corn chips)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehexa2ttfvq9yauqni"
+  },
+  {
+    "ID": "leheydebjyvy5wpjmkp",
+    "Name": "Beef Birria at Jolly Holiday",
     "Linked": {
       "Children": [],
       "Components": []
