@@ -3751,7 +3751,8 @@
       "Children": [
         "lehg8f17pse7qeuynoj",
         "lehg9grgk3283ntvwc",
-        "lehg9tawb6tdayfaa6a"
+        "lehg9tawb6tdayfaa6a",
+        "lehgxt9lof1mv2x5yql"
       ],
       "Components": []
     },
@@ -4029,5 +4030,15 @@
     },
     "Attrs": {},
     "Parent": "lehguq0nngj4f674dsb"
+  },
+  {
+    "ID": "lehgxt9lof1mv2x5yql",
+    "Name": "Plaza Inn: Fried chicken",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehg8adm2ax2s0gyg4s"
   }
 ]
