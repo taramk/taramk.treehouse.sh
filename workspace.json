@@ -3601,7 +3601,6 @@
         "leheynao205g7t1sxuk",
         "lehf0717f8h8ctagmbi",
         "lehf76cx9nmdefygkbe",
-        "lehfu11vvd8t92srn6h",
         "lehfuuxa67eju0mzn73",
         "lehg8adm2ax2s0gyg4s",
         "lehgak3qn8mlfagbr7p",
@@ -3658,16 +3657,6 @@
   {
     "ID": "lehf76cx9nmdefygkbe",
     "Name": "Breakfast chimichanga at Ship to Shore Marketplace (across from Big Thunder)",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
-    "ID": "lehfu11vvd8t92srn6h",
-    "Name": "Cinnamon crisps at Rancho del Zocalo",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3895,7 +3884,7 @@
   },
   {
     "ID": "lehgeebpncdtiky8cp",
-    "Name": "Rancho Del Zocalo",
+    "Name": "Rancho Del Zocalo: cinnamon crisps",
     "Linked": {
       "Children": [],
       "Components": []
