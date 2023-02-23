@@ -3600,13 +3600,11 @@
       "Children": [
         "lehexfxhvwiivtuxzl",
         "lehexwxjs03t094atpj",
-        "leheydebjyvy5wpjmkp",
         "leheynao205g7t1sxuk",
         "leheyud88irkqsskxt",
         "lehf0717f8h8ctagmbi",
         "lehf0ndv0su9co12b5t",
         "lehf76cx9nmdefygkbe",
-        "lehf8lif99wg91u17xw",
         "lehfu11vvd8t92srn6h",
         "lehfuuxa67eju0mzn73",
         "lehg8adm2ax2s0gyg4s"
@@ -3641,16 +3639,6 @@
   {
     "ID": "lehexwxjs03t094atpj",
     "Name": "Firefly at Refreshment Corner (bag of chili, cheese, and corn chips)",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
-    "ID": "leheydebjyvy5wpjmkp",
-    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3711,16 +3699,6 @@
   {
     "ID": "lehf76cx9nmdefygkbe",
     "Name": "Breakfast chimichanga at Ship to Shore Marketplace (across from Big Thunder)",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
-    "ID": "lehf8lif99wg91u17xw",
-    "Name": "Matterhorn Macaroon at Jolly Holiday",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3848,7 +3826,7 @@
   },
   {
     "ID": "lehg8f17pse7qeuynoj",
-    "Name": "Beef Birria, Matterhorn Macaroon",
+    "Name": "Jolly Holiday: Beef Birria, Matterhorn Macaroon",
     "Linked": {
       "Children": [],
       "Components": []
