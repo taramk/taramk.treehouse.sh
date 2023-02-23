@@ -3598,7 +3598,6 @@
     "Name": "Disneyland",
     "Linked": {
       "Children": [
-        "lehexwxjs03t094atpj",
         "leheynao205g7t1sxuk",
         "lehf0717f8h8ctagmbi",
         "lehf76cx9nmdefygkbe",
@@ -3623,16 +3622,6 @@
     },
     "Attrs": {},
     "Parent": "lehex15qb61drd33ue9"
-  },
-  {
-    "ID": "lehexwxjs03t094atpj",
-    "Name": "",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
   },
   {
     "ID": "leheynao205g7t1sxuk",
@@ -3816,7 +3805,7 @@
   },
   {
     "ID": "lehg9tawb6tdayfaa6a",
-    "Name": "Refreshment Corner: 'cart snacks' type of food, Firefly at Refreshment Corner (bag of chili, cheese, and corn chips)",
+    "Name": "Refreshment Corner: 'cart snacks' type of food, Firefly (bag of chili, cheese, and corn chips)",
     "Linked": {
       "Children": [],
       "Components": []
