@@ -3819,7 +3819,8 @@
     "Linked": {
       "Children": [
         "lehgavw351dc4ty5m7d",
-        "lehgbli9c59ttgpfi87"
+        "lehgbli9c59ttgpfi87",
+        "lehgceuk723m6oyf8m"
       ],
       "Components": []
     },
@@ -3828,7 +3829,7 @@
   },
   {
     "ID": "lehgavw351dc4ty5m7d",
-    "Name": "Bengal BBQ: skewers, hummus trio (also at Tropical Imports)",
+    "Name": "Bengal BBQ: skewers, hummus trio",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3839,6 +3840,16 @@
   {
     "ID": "lehgbli9c59ttgpfi87",
     "Name": "Tropical Hideaway: Bao or lumpia",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehgak3qn8mlfagbr7p"
+  },
+  {
+    "ID": "lehgceuk723m6oyf8m",
+    "Name": "Tropical Imports: hummus trio, pineapple spears",
     "Linked": {
       "Children": [],
       "Components": []
