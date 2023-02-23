@@ -3601,9 +3601,7 @@
         "lehexfxhvwiivtuxzl",
         "lehexwxjs03t094atpj",
         "leheynao205g7t1sxuk",
-        "leheyud88irkqsskxt",
         "lehf0717f8h8ctagmbi",
-        "lehf0ndv0su9co12b5t",
         "lehf76cx9nmdefygkbe",
         "lehfu11vvd8t92srn6h",
         "lehfuuxa67eju0mzn73",
@@ -3658,28 +3656,8 @@
     "Parent": "lehexa2ttfvq9yauqni"
   },
   {
-    "ID": "leheyud88irkqsskxt",
-    "Name": "Hummus trio at Bengal Barbeque and Tropical Imports",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
     "ID": "lehf0717f8h8ctagmbi",
     "Name": "Many restaurants sell power packs, which is a smoothie, fruit, crackers, and a small beverage",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lehexa2ttfvq9yauqni"
-  },
-  {
-    "ID": "lehf0ndv0su9co12b5t",
-    "Name": "Skewers at Bengal BBQ",
     "Linked": {
       "Children": [],
       "Components": []
@@ -3871,7 +3849,7 @@
   },
   {
     "ID": "lehgavw351dc4ty5m7d",
-    "Name": "Bengal BBQ",
+    "Name": "Bengal BBQ: skewers, hummus trio (also at Tropical Imports)",
     "Linked": {
       "Children": [],
       "Components": []
