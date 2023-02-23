@@ -3604,7 +3604,8 @@
         "leheyud88irkqsskxt",
         "lehf0717f8h8ctagmbi",
         "lehf0ndv0su9co12b5t",
-        "lehf76cx9nmdefygkbe"
+        "lehf76cx9nmdefygkbe",
+        "lehf8lif99wg91u17xw"
       ],
       "Components": []
     },
@@ -3706,6 +3707,16 @@
   {
     "ID": "lehf76cx9nmdefygkbe",
     "Name": "Breakfast chimichanga at Ship to Shore Marketplace (across from Big Thunder)",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehexa2ttfvq9yauqni"
+  },
+  {
+    "ID": "lehf8lif99wg91u17xw",
+    "Name": "Matterhorn Macaroon at Jolly Holiday",
     "Linked": {
       "Children": [],
       "Components": []
