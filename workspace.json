@@ -3978,10 +3978,22 @@
     "ID": "lehgu5tbk9o195g66sj",
     "Name": "Pacific Wharf",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lehguaykscit91c5t6"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lehexbe4x9gkz248ho"
+  },
+  {
+    "ID": "lehguaykscit91c5t6",
+    "Name": "Sonoma Terrace: cold plate options",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehgu5tbk9o195g66sj"
   }
 ]
