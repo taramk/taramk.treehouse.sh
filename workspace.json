@@ -3604,7 +3604,8 @@
         "lehfu11vvd8t92srn6h",
         "lehfuuxa67eju0mzn73",
         "lehg8adm2ax2s0gyg4s",
-        "lehgak3qn8mlfagbr7p"
+        "lehgak3qn8mlfagbr7p",
+        "lehgdfujzhvv2xrvn"
       ],
       "Components": []
     },
@@ -3856,5 +3857,27 @@
     },
     "Attrs": {},
     "Parent": "lehgak3qn8mlfagbr7p"
+  },
+  {
+    "ID": "lehgdfujzhvv2xrvn",
+    "Name": "Fantasyland",
+    "Linked": {
+      "Children": [
+        "lehgdjgnb6i6sjz9zp"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehexa2ttfvq9yauqni"
+  },
+  {
+    "ID": "lehgdjgnb6i6sjz9zp",
+    "Name": "Troubadour Tavern: bratwurst",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lehgdfujzhvv2xrvn"
   }
 ]
