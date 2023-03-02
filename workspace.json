@@ -20,7 +20,7 @@
         "leest6yog9hid2tza9",
         "leet8bno0wbpa8we3lo",
         "leetcs1d3qtqctzx9fx",
-        "lehfyx19q7k0ccj6y8"
+        "lergsnypsig99uy8p3q"
       ],
       "Components": []
     },
@@ -3662,20 +3662,6 @@
     "Parent": "lehexbe4x9gkz248ho"
   },
   {
-    "ID": "lehfyx19q7k0ccj6y8",
-    "Name": "Test",
-    "Linked": {
-      "Children": [
-        "lehg3jeave96xro24x",
-        "lehg3jn7rtjqjjn57z",
-        "lehg3kcvookyvjg4nk"
-      ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "le37qibhiuvss6yvpil"
-  },
-  {
     "ID": "lehfzboukkbk72nd0u",
     "Name": "",
     "Linked": {
@@ -4069,5 +4055,49 @@
     },
     "Attrs": {},
     "Parent": "leeta3itzneq9uihgue"
+  },
+  {
+    "ID": "lergsnypsig99uy8p3q",
+    "Name": "Testing Expansion memory",
+    "Linked": {
+      "Children": [
+        "lergstfcpns3xozjfsb",
+        "lergsut0qw3yiebuxe",
+        "lergsvx7f4igmw7iy0i"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "le37qibhiuvss6yvpil"
+  },
+  {
+    "ID": "lergstfcpns3xozjfsb",
+    "Name": "one",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lergsut0qw3yiebuxe",
+    "Name": "two",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lergsvx7f4igmw7iy0i",
+    "Name": "three",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsnypsig99uy8p3q"
   }
 ]
