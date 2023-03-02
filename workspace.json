@@ -4084,7 +4084,10 @@
     "ID": "lergsut0qw3yiebuxe",
     "Name": "two",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lergt4zh0b7y0u11aar",
+        "lergt7ejzmca6ex98z"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4099,5 +4102,25 @@
     },
     "Attrs": {},
     "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lergt4zh0b7y0u11aar",
+    "Name": "expanded two.1",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsut0qw3yiebuxe"
+  },
+  {
+    "ID": "lergt7ejzmca6ex98z",
+    "Name": "expanded two.2",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsut0qw3yiebuxe"
   }
 ]
