@@ -4130,11 +4130,7 @@
     "ID": "leyoljj6i9qt7gkl7lc",
     "Name": "testingg",
     "Linked": {
-      "Children": [
-        "leypnb3wwfw5aytaop",
-        "leypn77a9pek3oknmjb",
-        "leypnjbv82nkv1aekbv"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {},
@@ -4149,35 +4145,5 @@
     },
     "Attrs": {},
     "Parent": "lergstfcpns3xozjfsb"
-  },
-  {
-    "ID": "leypn77a9pek3oknmjb",
-    "Name": "g",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leyoljj6i9qt7gkl7lc"
-  },
-  {
-    "ID": "leypnb3wwfw5aytaop",
-    "Name": "empty",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leyoljj6i9qt7gkl7lc"
-  },
-  {
-    "ID": "leypnjbv82nkv1aekbv",
-    "Name": "g",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "leyoljj6i9qt7gkl7lc"
   }
 ]
