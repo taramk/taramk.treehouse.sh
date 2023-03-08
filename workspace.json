@@ -4222,7 +4222,10 @@
     "Name": "House prep",
     "Linked": {
       "Children": [
-        "lf08ylokwf6m8jgred"
+        "lf08ylokwf6m8jgred",
+        "lf08z0lw6auu44lgtvt",
+        "lf08z3r1ggjf0iwf1ul",
+        "lf08z80kgboym8wtvdu"
       ],
       "Components": []
     },
@@ -4231,6 +4234,36 @@
   },
   {
     "ID": "lf08ylokwf6m8jgred",
+    "Name": "Vacuum all rooms",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf08ycdvkbyzokjp59"
+  },
+  {
+    "ID": "lf08z0lw6auu44lgtvt",
+    "Name": "Dust all rooms",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf08ycdvkbyzokjp59"
+  },
+  {
+    "ID": "lf08z3r1ggjf0iwf1ul",
+    "Name": "Clean shower, toilet",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf08ycdvkbyzokjp59"
+  },
+  {
+    "ID": "lf08z80kgboym8wtvdu",
     "Name": "",
     "Linked": {
       "Children": [],
