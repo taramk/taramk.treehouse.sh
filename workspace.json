@@ -4071,7 +4071,8 @@
     "Name": "T-shirt research",
     "Linked": {
       "Children": [
-        "lf735xii9mugx1jah2d"
+        "lf735xii9mugx1jah2d",
+        "lf7361bhq7s3xwumtt"
       ],
       "Components": []
     },
@@ -4322,8 +4323,7 @@
     "Name": "Brands",
     "Linked": {
       "Children": [
-        "lergt4zh0b7y0u11aar",
-        "lf7361bhq7s3xwumtt"
+        "lergt4zh0b7y0u11aar"
       ],
       "Components": []
     },
@@ -4338,6 +4338,6 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lf735xii9mugx1jah2d"
+    "Parent": "lergsut0qw3yiebuxe"
   }
 ]
