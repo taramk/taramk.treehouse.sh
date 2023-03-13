@@ -4369,7 +4369,7 @@
     "Name": "Gildan 6400 Softstyle",
     "Linked": {
       "Children": [
-        "lf744swv0mgj9vli0vcc"
+        "lf75cbdx0j23h7fpg8u"
       ],
       "Components": []
     },
@@ -4443,18 +4443,6 @@
     },
     "Attrs": {},
     "Parent": "lf73w4g9mbsuv19x9s"
-  },
-  {
-    "ID": "lf744swv0mgj9vli0vcc",
-    "Name": "other notes",
-    "Linked": {
-      "Children": [
-        "lf7511tgjusfw9hxbw"
-      ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf736tdkwyif5zmz71h"
   },
   {
     "ID": "lf749dc1adi9ciyi1cs",
@@ -4620,16 +4608,6 @@
     "Parent": "lf74d9ar7uf995j2p09"
   },
   {
-    "ID": "lf7511tgjusfw9hxbw",
-    "Name": "Gildan 2000 is apparently not soft",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf744swv0mgj9vli0vcc"
-  },
-  {
     "ID": "lf7516q4eyy8ixr3bag",
     "Name": "Stanley and Stella Organic STTU755",
     "Linked": {
@@ -4671,5 +4649,15 @@
     },
     "Attrs": {},
     "Parent": "lf74sue7rmoqq5zsq2a"
+  },
+  {
+    "ID": "lf75cbdx0j23h7fpg8u",
+    "Name": "$9.95 ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf736tdkwyif5zmz71h"
   }
 ]
