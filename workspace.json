@@ -4741,12 +4741,24 @@
   },
   {
     "ID": "lf77nbj921hatjsyq1y",
-    "Name": "",
+    "Name": "Express your brand",
+    "Linked": {
+      "Children": [
+        "lf77njk8ouc0m424buj"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77d6f1xv6j73yjkx"
+  },
+  {
+    "ID": "lf77njk8ouc0m424buj",
+    "Name": "colors, logo, typeface, brand voice",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lf77d6f1xv6j73yjkx"
+    "Parent": "lf77nbj921hatjsyq1y"
   }
 ]
