@@ -4445,9 +4445,11 @@
   },
   {
     "ID": "lf744swv0mgj9vli0vcc",
-    "Name": "Gildan 2000 is apparently not soft",
+    "Name": "other notes",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf7511tgjusfw9hxbw"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4626,5 +4628,15 @@
     },
     "Attrs": {},
     "Parent": "lf74d9ar7uf995j2p09"
+  },
+  {
+    "ID": "lf7511tgjusfw9hxbw",
+    "Name": "Gildan 2000 is apparently not soft",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf744swv0mgj9vli0vcc"
   }
 ]
