@@ -4771,8 +4771,7 @@
     "Name": "competitors",
     "Linked": {
       "Children": [
-        "lf78cp2b4g9qcnlno1p",
-        "lf78d7bd3ovzh2oputx"
+        "lf78cp2b4g9qcnlno1p"
       ],
       "Components": []
     },
@@ -4783,7 +4782,9 @@
     "ID": "lf77op7oqz0m13bt24c",
     "Name": "how to differentiate yourself",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf78g13cip95agyf2k"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4860,18 +4861,9 @@
     "Linked": {
       "Children": [
         "lf78di8hhf9qx6ky26",
-        "lf78e1zkgkqyslq4kfa"
+        "lf78e1zkgkqyslq4kfa",
+        "lf78fwnf4mncpq1o5cs"
       ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf77ongdgnlwwhbile4"
-  },
-  {
-    "ID": "lf78d7bd3ovzh2oputx",
-    "Name": "know their strong and weak points",
-    "Linked": {
-      "Children": [],
       "Components": []
     },
     "Attrs": {},
@@ -4889,12 +4881,32 @@
   },
   {
     "ID": "lf78e1zkgkqyslq4kfa",
-    "Name": "think about their values, how they communicate/position themselves, what social media channels they use",
+    "Name": "think about their values, how they communicate/position themselves, what social media channels they use.",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf78cp2b4g9qcnlno1p"
+  },
+  {
+    "ID": "lf78fwnf4mncpq1o5cs",
+    "Name": "know their strong and weak points",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78cp2b4g9qcnlno1p"
+  },
+  {
+    "ID": "lf78g13cip95agyf2k",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77op7oqz0m13bt24c"
   }
 ]
