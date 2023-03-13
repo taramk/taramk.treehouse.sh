@@ -4770,7 +4770,9 @@
     "ID": "lf77ongdgnlwwhbile4",
     "Name": "competitors",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf78cp2b4g9qcnlno1p"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4850,5 +4852,15 @@
     },
     "Attrs": {},
     "Parent": "lf77p310pi0g4zdn51d"
+  },
+  {
+    "ID": "lf78cp2b4g9qcnlno1p",
+    "Name": "know their strong and weak points",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77ongdgnlwwhbile4"
   }
 ]
