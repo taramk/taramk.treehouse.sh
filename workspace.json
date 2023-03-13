@@ -4436,10 +4436,67 @@
     "ID": "lf73w4g9mbsuv19x9s",
     "Name": "Pick a new shirt?",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf73wgud7r6ha3gj04e"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf73w1v70azjysea5zi"
+  },
+  {
+    "ID": "lf73wgud7r6ha3gj04e",
+    "Name": "Criteria",
+    "Linked": {
+      "Children": [
+        "lf73wiqupz74jvdbxc",
+        "lf73wktmytdr7kqdbed",
+        "lf73wloh0p768ot7u17j",
+        "lf73wp3y2ttbb9o44n8"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73w4g9mbsuv19x9s"
+  },
+  {
+    "ID": "lf73wiqupz74jvdbxc",
+    "Name": "color options",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73wgud7r6ha3gj04e"
+  },
+  {
+    "ID": "lf73wktmytdr7kqdbed",
+    "Name": "weight",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73wgud7r6ha3gj04e"
+  },
+  {
+    "ID": "lf73wloh0p768ot7u17j",
+    "Name": "ring-spun and combed cotton",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73wgud7r6ha3gj04e"
+  },
+  {
+    "ID": "lf73wp3y2ttbb9o44n8",
+    "Name": "price",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73wgud7r6ha3gj04e"
   }
 ]
