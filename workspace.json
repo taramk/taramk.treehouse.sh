@@ -4859,7 +4859,8 @@
     "Name": "identify your competitors using a google search",
     "Linked": {
       "Children": [
-        "lf78di8hhf9qx6ky26"
+        "lf78di8hhf9qx6ky26",
+        "lf78e1zkgkqyslq4kfa"
       ],
       "Components": []
     },
@@ -4879,6 +4880,16 @@
   {
     "ID": "lf78di8hhf9qx6ky26",
     "Name": "create a spam email and sign up for their newsletter",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78cp2b4g9qcnlno1p"
+  },
+  {
+    "ID": "lf78e1zkgkqyslq4kfa",
+    "Name": "think about their values, ",
     "Linked": {
       "Children": [],
       "Components": []
