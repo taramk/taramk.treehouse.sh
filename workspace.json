@@ -4437,7 +4437,8 @@
     "Name": "Pick a new shirt?",
     "Linked": {
       "Children": [
-        "lf73wgud7r6ha3gj04e"
+        "lf73wgud7r6ha3gj04e",
+        "lf73wtx852drnmkm56v"
       ],
       "Components": []
     },
@@ -4498,5 +4499,15 @@
     },
     "Attrs": {},
     "Parent": "lf73wgud7r6ha3gj04e"
+  },
+  {
+    "ID": "lf73wtx852drnmkm56v",
+    "Name": "Build a reliable color palette",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf73w4g9mbsuv19x9s"
   }
 ]
