@@ -4577,16 +4577,6 @@
     "Parent": "lf74e3y1ci4pegdw4fc"
   },
   {
-    "ID": "lf74q74xwaoaza2kw1",
-    "Name": "the Bella Canvas 3001 has the longest length of all of the shirts we reviewed and mentioned in this post.",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf74z22x2no1igs71v"
-  },
-  {
     "ID": "lf74sue7rmoqq5zsq2a",
     "Name": "Gildan 64000 Softstyle",
     "Linked": {
@@ -4622,9 +4612,7 @@
     "ID": "lf74z22x2no1igs71v",
     "Name": "other notes",
     "Linked": {
-      "Children": [
-        "lf74q74xwaoaza2kw1"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {},
