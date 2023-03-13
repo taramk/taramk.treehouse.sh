@@ -4068,10 +4068,10 @@
   },
   {
     "ID": "lergsut0qw3yiebuxe",
-    "Name": "T-shirt brands",
+    "Name": "T-shirt research",
     "Linked": {
       "Children": [
-        "lergt4zh0b7y0u11aar"
+        "lf735xii9mugx1jah2d"
       ],
       "Components": []
     },
@@ -4096,7 +4096,7 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lergsut0qw3yiebuxe"
+    "Parent": "lf735xii9mugx1jah2d"
   },
   {
     "ID": "@workspace",
@@ -4316,5 +4316,28 @@
     },
     "Attrs": {},
     "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lf735xii9mugx1jah2d",
+    "Name": "Brands",
+    "Linked": {
+      "Children": [
+        "lergt4zh0b7y0u11aar",
+        "lf7361bhq7s3xwumtt"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsut0qw3yiebuxe"
+  },
+  {
+    "ID": "lf7361bhq7s3xwumtt",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
   }
 ]
