@@ -4520,6 +4520,7 @@
     "Name": "Cotton Heritage MC1086",
     "Linked": {
       "Children": [
+        "lf74mnfu0vmfx2ulyz7f",
         "lf74hv0u1vw03qylxtz"
       ],
       "Components": []
@@ -4552,6 +4553,16 @@
   {
     "ID": "lf74hv0u1vw03qylxtz",
     "Name": "ring spun and combed",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf74e3y1ci4pegdw4fc"
+  },
+  {
+    "ID": "lf74mnfu0vmfx2ulyz7f",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
