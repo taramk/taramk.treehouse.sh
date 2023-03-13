@@ -4381,7 +4381,9 @@
     "ID": "lf736tdkwyif5zmz71h",
     "Name": "Gildan 6400 Softstyle",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf744swv0mgj9vli0vcc"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4509,5 +4511,15 @@
     },
     "Attrs": {},
     "Parent": "lf73w4g9mbsuv19x9s"
+  },
+  {
+    "ID": "lf744swv0mgj9vli0vcc",
+    "Name": "Gildan 2000 is apparently not soft",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf736tdkwyif5zmz71h"
   }
 ]
