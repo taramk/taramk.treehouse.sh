@@ -4323,7 +4323,8 @@
     "Name": "Brands",
     "Linked": {
       "Children": [
-        "lergt4zh0b7y0u11aar"
+        "lergt4zh0b7y0u11aar",
+        "lf736tdkwyif5zmz71h"
       ],
       "Components": []
     },
@@ -4373,5 +4374,15 @@
     },
     "Attrs": {},
     "Parent": "lf7361bhq7s3xwumtt"
+  },
+  {
+    "ID": "lf736tdkwyif5zmz71h",
+    "Name": "Gildan 6400",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
   }
 ]
