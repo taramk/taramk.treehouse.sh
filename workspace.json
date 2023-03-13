@@ -4997,7 +4997,8 @@
         "lf78rrop1cxh9o7gl6w",
         "lf78rutmoaaic9gf6dl",
         "lf78ryy6sdzv4dk4eg",
-        "lf78s2k3trfeww9sa79"
+        "lf78s2k3trfeww9sa79",
+        "lf78t5rxossqx0bst5q"
       ],
       "Components": []
     },
@@ -5037,6 +5038,16 @@
   {
     "ID": "lf78s2k3trfeww9sa79",
     "Name": "self-expressive benefits",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78r5ijy0k9crvo7vr"
+  },
+  {
+    "ID": "lf78t5rxossqx0bst5q",
+    "Name": "4 categories of adjectives, narrow down to a few",
     "Linked": {
       "Children": [],
       "Components": []
