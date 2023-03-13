@@ -4390,10 +4390,33 @@
     "ID": "lf7372eeoe9tthv34rs",
     "Name": "Comfort Colors",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf737pcjwpw7m5467mj",
+        "lf737rbg0jxak84m6x66"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf735xii9mugx1jah2d"
+  },
+  {
+    "ID": "lf737pcjwpw7m5467mj",
+    "Name": "https://www.printful.com/custom/mens/t-shirts/mens-garment-dyed-heavyweight-shirt-comfort-colors-1717",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7372eeoe9tthv34rs"
+  },
+  {
+    "ID": "lf737rbg0jxak84m6x66",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7372eeoe9tthv34rs"
   }
 ]
