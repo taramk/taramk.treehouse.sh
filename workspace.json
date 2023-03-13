@@ -4785,7 +4785,8 @@
       "Children": [
         "lf78g13cip95agyf2k",
         "lf78h95szixn6bjskl",
-        "lf78he0sefrtu3ufju8"
+        "lf78he0sefrtu3ufju8",
+        "lf78iltpfnoxmwmr2tl"
       ],
       "Components": []
     },
@@ -4924,6 +4925,16 @@
   {
     "ID": "lf78he0sefrtu3ufju8",
     "Name": "consistency in visual identity, communicate style, and values is important",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77op7oqz0m13bt24c"
+  },
+  {
+    "ID": "lf78iltpfnoxmwmr2tl",
+    "Name": "authenticity is important",
     "Linked": {
       "Children": [],
       "Components": []
