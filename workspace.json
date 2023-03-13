@@ -4800,10 +4800,44 @@
     "ID": "lf77p310pi0g4zdn51d",
     "Name": "create buyer personas",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf77pljng8ttm29bjsc",
+        "lf77pp21t9jm2wkpzxn",
+        "lf77prmli4g519ka4le"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf77lllwfag1yrg4tf5"
+  },
+  {
+    "ID": "lf77pljng8ttm29bjsc",
+    "Name": "what problem is my brand solving",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77p310pi0g4zdn51d"
+  },
+  {
+    "ID": "lf77pp21t9jm2wkpzxn",
+    "Name": "buyer motivations",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77p310pi0g4zdn51d"
+  },
+  {
+    "ID": "lf77prmli4g519ka4le",
+    "Name": "why does buyer connect with brand",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77p310pi0g4zdn51d"
   }
 ]
