@@ -4676,10 +4676,34 @@
     "ID": "lf77d6f1xv6j73yjkx",
     "Name": "How to build a brand",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf77ljt6u2epy8h42w"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf77cynhyf0i6mctz1"
+  },
+  {
+    "ID": "lf77ljt6u2epy8h42w",
+    "Name": "Research your market",
+    "Linked": {
+      "Children": [
+        "lf77lllwfag1yrg4tf5"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77d6f1xv6j73yjkx"
+  },
+  {
+    "ID": "lf77lllwfag1yrg4tf5",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77ljt6u2epy8h42w"
   }
 ]
