@@ -4514,6 +4514,7 @@
     "Name": "Bella + Canvas 6400",
     "Linked": {
       "Children": [
+        "lf75jmw9iwvkv8jkh7p",
         "lf74hraqxxobqbtxap"
       ],
       "Components": []
@@ -4636,5 +4637,15 @@
     },
     "Attrs": {},
     "Parent": "lf74sue7rmoqq5zsq2a"
+  },
+  {
+    "ID": "lf75jmw9iwvkv8jkh7p",
+    "Name": "4.2oz",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf74f3nbd16rfmh7mpp"
   }
 ]
