@@ -4463,7 +4463,9 @@
     "ID": "lf749dc1adi9ciyi1cs",
     "Name": "Reliable color palette",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf74b8pc1a6wo5w4qbd"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4488,5 +4490,15 @@
     },
     "Attrs": {},
     "Parent": "lf7361bhq7s3xwumtt"
+  },
+  {
+    "ID": "lf74b8pc1a6wo5w4qbd",
+    "Name": "adjust saturation ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf749dc1adi9ciyi1cs"
   }
 ]
