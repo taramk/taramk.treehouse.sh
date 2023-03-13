@@ -4758,7 +4758,8 @@
         "lf7945kcea8bx92s4bb",
         "lf794f5ssv799c58wor",
         "lf795ujxokrgmnscqyn",
-        "lf7981328xv7at1dvy7"
+        "lf7981328xv7at1dvy7",
+        "lf79agyoip0usxsweo"
       ],
       "Components": []
     },
@@ -5133,5 +5134,15 @@
     },
     "Attrs": {},
     "Parent": "lf7982zzbs19xyayck"
+  },
+  {
+    "ID": "lf79agyoip0usxsweo",
+    "Name": "visual identity",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77nbj921hatjsyq1y"
   }
 ]
