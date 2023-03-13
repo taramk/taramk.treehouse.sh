@@ -4677,7 +4677,9 @@
     "Name": "How to build a brand",
     "Linked": {
       "Children": [
-        "lf77ljt6u2epy8h42w"
+        "lf77ljt6u2epy8h42w",
+        "lf77mua3fp1mdi0d6if",
+        "lf77nbj921hatjsyq1y"
       ],
       "Components": []
     },
@@ -4705,5 +4707,46 @@
     },
     "Attrs": {},
     "Parent": "lf77ljt6u2epy8h42w"
+  },
+  {
+    "ID": "lf77mua3fujr4u4ew9w",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {}
+  },
+  {
+    "ID": "lf77mua3fp1mdi0d6if",
+    "Name": "Foundation",
+    "Linked": {
+      "Children": [
+        "lf77mybe1n1ji5lz71m"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77d6f1xv6j73yjkx"
+  },
+  {
+    "ID": "lf77mybe1n1ji5lz71m",
+    "Name": "brand principles, personality, how to communicate the brand",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77mua3fp1mdi0d6if"
+  },
+  {
+    "ID": "lf77nbj921hatjsyq1y",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77d6f1xv6j73yjkx"
   }
 ]
