@@ -4771,7 +4771,8 @@
     "Name": "competitors",
     "Linked": {
       "Children": [
-        "lf78cp2b4g9qcnlno1p"
+        "lf78cp2b4g9qcnlno1p",
+        "lf78d7bd3ovzh2oputx"
       ],
       "Components": []
     },
@@ -4855,6 +4856,16 @@
   },
   {
     "ID": "lf78cp2b4g9qcnlno1p",
+    "Name": "identify your competitors using a google search",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77ongdgnlwwhbile4"
+  },
+  {
+    "ID": "lf78d7bd3ovzh2oputx",
     "Name": "know their strong and weak points",
     "Linked": {
       "Children": [],
