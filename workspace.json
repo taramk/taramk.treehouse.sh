@@ -4519,7 +4519,9 @@
     "ID": "lf74e3y1ci4pegdw4fc",
     "Name": "Cotton Heritage MC1086",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf74hv0u1vw03qylxtz"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4527,12 +4529,34 @@
   },
   {
     "ID": "lf74f3nbd16rfmh7mpp",
-    "Name": "",
+    "Name": "Bella + Canvas 6400",
+    "Linked": {
+      "Children": [
+        "lf74hraqxxobqbtxap"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
+  },
+  {
+    "ID": "lf74hraqxxobqbtxap",
+    "Name": "ring spun and combed",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lf735xii9mugx1jah2d"
+    "Parent": "lf74f3nbd16rfmh7mpp"
+  },
+  {
+    "ID": "lf74hv0u1vw03qylxtz",
+    "Name": "ring spun and combed",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf74e3y1ci4pegdw4fc"
   }
 ]
