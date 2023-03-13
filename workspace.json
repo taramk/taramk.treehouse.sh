@@ -4584,12 +4584,24 @@
   },
   {
     "ID": "lf74sue7rmoqq5zsq2a",
-    "Name": "Gildan 64000",
+    "Name": "Gildan 64000 Softstyle",
+    "Linked": {
+      "Children": [
+        "lf74tc3vicihe0tbht"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
+  },
+  {
+    "ID": "lf74tc3vicihe0tbht",
+    "Name": "not combed cotton, only ",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lf735xii9mugx1jah2d"
+    "Parent": "lf74sue7rmoqq5zsq2a"
   }
 ]
