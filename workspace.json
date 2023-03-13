@@ -4083,7 +4083,9 @@
     "ID": "lergt4zh0b7y0u11aar",
     "Name": "Next Level CVC 3600 (also try 6210 and 6410)",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf7656yon1bjd8nxbt"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4635,5 +4637,15 @@
     },
     "Attrs": {},
     "Parent": "lf74f3nbd16rfmh7mpp"
+  },
+  {
+    "ID": "lf7656yon1bjd8nxbt",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergt4zh0b7y0u11aar"
   }
 ]
