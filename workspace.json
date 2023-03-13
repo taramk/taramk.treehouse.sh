@@ -4304,7 +4304,6 @@
     "Linked": {
       "Children": [
         "lergt4zh0b7y0u11aar",
-        "lf736tdkwyif5zmz71h",
         "lf7372eeoe9tthv34rs",
         "lf74d9ar7uf995j2p09",
         "lf74e3y1ci4pegdw4fc",
@@ -4363,18 +4362,6 @@
     },
     "Attrs": {},
     "Parent": "lf7361bhq7s3xwumtt"
-  },
-  {
-    "ID": "lf736tdkwyif5zmz71h",
-    "Name": "Gildan 6400 Softstyle",
-    "Linked": {
-      "Children": [
-        "lf75cbdx0j23h7fpg8u"
-      ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf735xii9mugx1jah2d"
   },
   {
     "ID": "lf7372eeoe9tthv34rs",
@@ -4649,15 +4636,5 @@
     },
     "Attrs": {},
     "Parent": "lf74sue7rmoqq5zsq2a"
-  },
-  {
-    "ID": "lf75cbdx0j23h7fpg8u",
-    "Name": "$9.95 |",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf736tdkwyif5zmz71h"
   }
 ]
