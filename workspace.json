@@ -5139,10 +5139,22 @@
     "ID": "lf79agyoip0usxsweo",
     "Name": "visual identity",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf79angn5exotmovyvt"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf77nbj921hatjsyq1y"
+  },
+  {
+    "ID": "lf79angn5exotmovyvt",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf79agyoip0usxsweo"
   }
 ]
