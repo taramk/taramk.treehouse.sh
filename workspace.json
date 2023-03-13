@@ -4581,6 +4581,7 @@
     "Name": "Gildan 64000 Softstyle",
     "Linked": {
       "Children": [
+        "lf75btbvk965galji",
         "lf74tc3vicihe0tbht"
       ],
       "Components": []
@@ -4660,5 +4661,15 @@
     },
     "Attrs": {},
     "Parent": "lf7516q4eyy8ixr3bag"
+  },
+  {
+    "ID": "lf75btbvk965galji",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf74sue7rmoqq5zsq2a"
   }
 ]
