@@ -4355,9 +4355,7 @@
     "ID": "lf736dl63qt6hluf6zk",
     "Name": "weight",
     "Linked": {
-      "Children": [
-        "lf749soka526cn6pyvm"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {},
@@ -4442,16 +4440,6 @@
     },
     "Attrs": {},
     "Parent": "lergsut0qw3yiebuxe"
-  },
-  {
-    "ID": "lf749soka526cn6pyvm",
-    "Name": "Bella + Canvas is 4.2g, some heavyweight ones are 6g",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf736dl63qt6hluf6zk"
   },
   {
     "ID": "lf749zybjc6oss52bam",
