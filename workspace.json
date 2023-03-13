@@ -4951,7 +4951,9 @@
     "ID": "lf78jyxcjvwyb0j5a9q",
     "Name": "personality",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf78r5ijy0k9crvo7vr"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4986,5 +4988,15 @@
     },
     "Attrs": {},
     "Parent": "lf77mybe1n1ji5lz71m"
+  },
+  {
+    "ID": "lf78r5ijy0k9crvo7vr",
+    "Name": "brand drivers: adjectives that provide a more detailed definition of your brand",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78jyxcjvwyb0j5a9q"
   }
 ]
