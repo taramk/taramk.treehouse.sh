@@ -4046,6 +4046,7 @@
       "Children": [
         "lergstfcpns3xozjfsb",
         "lergsut0qw3yiebuxe",
+        "lf7350st68jdctngntt",
         "lergsvx7f4igmw7iy0i"
       ],
       "Components": []
@@ -4067,11 +4068,10 @@
   },
   {
     "ID": "lergsut0qw3yiebuxe",
-    "Name": "two",
+    "Name": "T-shirt brands",
     "Linked": {
       "Children": [
-        "lergt4zh0b7y0u11aar",
-        "lergt7ejzmca6ex98z"
+        "lergt4zh0b7y0u11aar"
       ],
       "Components": []
     },
@@ -4090,17 +4090,7 @@
   },
   {
     "ID": "lergt4zh0b7y0u11aar",
-    "Name": "expanded two.1",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lergsut0qw3yiebuxe"
-  },
-  {
-    "ID": "lergt7ejzmca6ex98z",
-    "Name": "expanded two.2",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
@@ -4316,5 +4306,15 @@
     },
     "Attrs": {},
     "Parent": "lf734gcu2qhjcrgxv11"
+  },
+  {
+    "ID": "lf7350st68jdctngntt",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsnypsig99uy8p3q"
   }
 ]
