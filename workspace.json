@@ -4741,6 +4741,7 @@
     "Name": "brand principles/values",
     "Linked": {
       "Children": [
+        "lf78msdrvidw2da1yaj",
         "lf78kjfbhjwna91ee9j"
       ],
       "Components": []
@@ -4969,6 +4970,16 @@
   {
     "ID": "lf78kjfbhjwna91ee9j",
     "Name": "make better decisions, find the right partners and customers, ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77mybe1n1ji5lz71m"
+  },
+  {
+    "ID": "lf78msdrvidw2da1yaj",
+    "Name": "TRANSPARENCY, CONSISTENCY, AUTHENTICITY",
     "Linked": {
       "Children": [],
       "Components": []
