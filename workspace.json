@@ -4071,7 +4071,8 @@
     "Linked": {
       "Children": [
         "lf735xii9mugx1jah2d",
-        "lf7361bhq7s3xwumtt"
+        "lf7361bhq7s3xwumtt",
+        "lf749dc1adi9ciyi1cs"
       ],
       "Components": []
     },
@@ -4511,5 +4512,15 @@
     },
     "Attrs": {},
     "Parent": "lf73wktmytdr7kqdbed"
+  },
+  {
+    "ID": "lf749dc1adi9ciyi1cs",
+    "Name": "Reliable color palette",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsut0qw3yiebuxe"
   }
 ]
