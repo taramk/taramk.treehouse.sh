@@ -5116,10 +5116,22 @@
     "ID": "lf7982zzbs19xyayck",
     "Name": "create a style guide outlining how you write content",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf799jwdyx8ll45al0m"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf7981328xv7at1dvy7"
+  },
+  {
+    "ID": "lf799jwdyx8ll45al0m",
+    "Name": "grammar, terminology, post formatting, interaction w/ customers and other brands",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7982zzbs19xyayck"
   }
 ]
