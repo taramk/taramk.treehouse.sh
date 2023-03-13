@@ -4332,12 +4332,35 @@
   },
   {
     "ID": "lf7361bhq7s3xwumtt",
-    "Name": "",
+    "Name": "Material",
+    "Linked": {
+      "Children": [
+        "lf7367lewmx1tibuvg",
+        "lf7369uimlw33468v3r"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsut0qw3yiebuxe"
+  },
+  {
+    "ID": "lf7367lewmx1tibuvg",
+    "Name": "ring spun cotton",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lergsut0qw3yiebuxe"
+    "Parent": "lf7361bhq7s3xwumtt"
+  },
+  {
+    "ID": "lf7369uimlw33468v3r",
+    "Name": "combed cotton",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7361bhq7s3xwumtt"
   }
 ]
