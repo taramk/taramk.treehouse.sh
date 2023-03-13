@@ -4319,7 +4319,8 @@
       "Children": [
         "lf7367lewmx1tibuvg",
         "lf7369uimlw33468v3r",
-        "lf736dl63qt6hluf6zk"
+        "lf736dl63qt6hluf6zk",
+        "lf749zybjc6oss52bam"
       ],
       "Components": []
     },
@@ -4350,7 +4351,9 @@
     "ID": "lf736dl63qt6hluf6zk",
     "Name": "weight",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf749soka526cn6pyvm"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4430,58 +4433,11 @@
     "ID": "lf73wgud7r6ha3gj04e",
     "Name": "Criteria",
     "Linked": {
-      "Children": [
-        "lf73wiqupz74jvdbxc",
-        "lf73wktmytdr7kqdbed",
-        "lf73wloh0p768ot7u17j",
-        "lf73wp3y2ttbb9o44n8"
-      ],
+      "Children": [],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf73w4g9mbsuv19x9s"
-  },
-  {
-    "ID": "lf73wiqupz74jvdbxc",
-    "Name": "color options",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf73wgud7r6ha3gj04e"
-  },
-  {
-    "ID": "lf73wktmytdr7kqdbed",
-    "Name": "weight",
-    "Linked": {
-      "Children": [
-        "lf7452vcvhbwuslmui"
-      ],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf73wgud7r6ha3gj04e"
-  },
-  {
-    "ID": "lf73wloh0p768ot7u17j",
-    "Name": "ring-spun and combed cotton",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf73wgud7r6ha3gj04e"
-  },
-  {
-    "ID": "lf73wp3y2ttbb9o44n8",
-    "Name": "price",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf73wgud7r6ha3gj04e"
   },
   {
     "ID": "lf73wtx852drnmkm56v",
@@ -4504,16 +4460,6 @@
     "Parent": "lf736tdkwyif5zmz71h"
   },
   {
-    "ID": "lf7452vcvhbwuslmui",
-    "Name": "Bella + Canvas is 4.2g, some heavyweight ones are 6g",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf73wktmytdr7kqdbed"
-  },
-  {
     "ID": "lf749dc1adi9ciyi1cs",
     "Name": "Reliable color palette",
     "Linked": {
@@ -4522,5 +4468,25 @@
     },
     "Attrs": {},
     "Parent": "lergsut0qw3yiebuxe"
+  },
+  {
+    "ID": "lf749soka526cn6pyvm",
+    "Name": "Bella + Canvas is 4.2g, some heavyweight ones are 6g",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf736dl63qt6hluf6zk"
+  },
+  {
+    "ID": "lf749zybjc6oss52bam",
+    "Name": "other considerations: price, color options",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7361bhq7s3xwumtt"
   }
 ]
