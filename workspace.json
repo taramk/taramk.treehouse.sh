@@ -4705,7 +4705,8 @@
     "Name": "target audience",
     "Linked": {
       "Children": [
-        "lf77oqojh7rmz7ca8a"
+        "lf77oqojh7rmz7ca8a",
+        "lf77p310pi0g4zdn51d"
       ],
       "Components": []
     },
@@ -4788,6 +4789,16 @@
   {
     "ID": "lf77oqojh7rmz7ca8a",
     "Name": "gather info from social media",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77lllwfag1yrg4tf5"
+  },
+  {
+    "ID": "lf77p310pi0g4zdn51d",
+    "Name": "create buyer personas",
     "Linked": {
       "Children": [],
       "Components": []
