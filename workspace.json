@@ -4756,7 +4756,8 @@
       "Children": [
         "lf77njk8ouc0m424buj",
         "lf7945kcea8bx92s4bb",
-        "lf794f5ssv799c58wor"
+        "lf794f5ssv799c58wor",
+        "lf795ujxokrgmnscqyn"
       ],
       "Components": []
     },
@@ -5070,7 +5071,7 @@
   },
   {
     "ID": "lf7945kcea8bx92s4bb",
-    "Name": "brand mission statement: your brand purpose to the customer. 1-2 sentences",
+    "Name": "brand statement: your brand purpose to the customer. 1-2 sentences",
     "Linked": {
       "Children": [],
       "Components": []
@@ -5080,7 +5081,17 @@
   },
   {
     "ID": "lf794f5ssv799c58wor",
-    "Name": "brand vision: long term impact you want your brand to have",
+    "Name": "brand vision/mission: long term impact you want your brand to have",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77nbj921hatjsyq1y"
+  },
+  {
+    "ID": "lf795ujxokrgmnscqyn",
+    "Name": "try to evoke an emotional response",
     "Linked": {
       "Children": [],
       "Components": []
