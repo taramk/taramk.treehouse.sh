@@ -4084,7 +4084,8 @@
     "Name": "** Next Level CVC 3600 (also try 6210 and 6410)",
     "Linked": {
       "Children": [
-        "lf7656yon1bjd8nxbt"
+        "lf7656yon1bjd8nxbt",
+        "lf766pi1469xcw93s92"
       ],
       "Components": []
     },
@@ -4641,6 +4642,16 @@
   {
     "ID": "lf7656yon1bjd8nxbt",
     "Name": "$16.95 | 4.3oz | 6 colors + black/white",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergt4zh0b7y0u11aar"
+  },
+  {
+    "ID": "lf766pi1469xcw93s92",
+    "Name": "ring spun and combed",
     "Linked": {
       "Children": [],
       "Components": []
