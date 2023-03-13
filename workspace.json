@@ -4727,7 +4727,9 @@
     "Name": "Foundation",
     "Linked": {
       "Children": [
-        "lf77mybe1n1ji5lz71m"
+        "lf77mybe1n1ji5lz71m",
+        "lf78jyxcjvwyb0j5a9q",
+        "lf78k0u3otmmhi49ob"
       ],
       "Components": []
     },
@@ -4736,7 +4738,7 @@
   },
   {
     "ID": "lf77mybe1n1ji5lz71m",
-    "Name": "brand principles, personality, how to communicate the brand",
+    "Name": "brand principles/values",
     "Linked": {
       "Children": [],
       "Components": []
@@ -4941,5 +4943,25 @@
     },
     "Attrs": {},
     "Parent": "lf77op7oqz0m13bt24c"
+  },
+  {
+    "ID": "lf78jyxcjvwyb0j5a9q",
+    "Name": "personality",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77mua3fp1mdi0d6if"
+  },
+  {
+    "ID": "lf78k0u3otmmhi49ob",
+    "Name": "how to communicate the brand",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77mua3fp1mdi0d6if"
   }
 ]
