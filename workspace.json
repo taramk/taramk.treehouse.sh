@@ -4858,7 +4858,9 @@
     "ID": "lf78cp2b4g9qcnlno1p",
     "Name": "identify your competitors using a google search",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf78di8hhf9qx6ky26"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4873,5 +4875,15 @@
     },
     "Attrs": {},
     "Parent": "lf77ongdgnlwwhbile4"
+  },
+  {
+    "ID": "lf78di8hhf9qx6ky26",
+    "Name": "create a spam email and ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78cp2b4g9qcnlno1p"
   }
 ]
