@@ -4662,12 +4662,24 @@
   },
   {
     "ID": "lf77cynhyf0i6mctz1",
+    "Name": "Marketing",
+    "Linked": {
+      "Children": [
+        "lf77d6f1xv6j73yjkx"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lf77d6f1xv6j73yjkx",
     "Name": "How to build a brand",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lergsnypsig99uy8p3q"
+    "Parent": "lf77cynhyf0i6mctz1"
   }
 ]
