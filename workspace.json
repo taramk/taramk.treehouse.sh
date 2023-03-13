@@ -4783,7 +4783,9 @@
     "Name": "how to differentiate yourself",
     "Linked": {
       "Children": [
-        "lf78g13cip95agyf2k"
+        "lf78g13cip95agyf2k",
+        "lf78h95szixn6bjskl",
+        "lf78he0sefrtu3ufju8"
       ],
       "Components": []
     },
@@ -4902,6 +4904,26 @@
   {
     "ID": "lf78g13cip95agyf2k",
     "Name": "visual identity",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77op7oqz0m13bt24c"
+  },
+  {
+    "ID": "lf78h95szixn6bjskl",
+    "Name": "what can you do differently than competitors?",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77op7oqz0m13bt24c"
+  },
+  {
+    "ID": "lf78he0sefrtu3ufju8",
+    "Name": "consistency in visual identity, communicate style, and values is important",
     "Linked": {
       "Children": [],
       "Components": []
