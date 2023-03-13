@@ -4742,8 +4742,7 @@
     "Linked": {
       "Children": [
         "lf78msdrvidw2da1yaj",
-        "lf78kjfbhjwna91ee9j",
-        "lf78o71nyni6de81nyj"
+        "lf78kjfbhjwna91ee9j"
       ],
       "Components": []
     },
@@ -4981,16 +4980,6 @@
   {
     "ID": "lf78msdrvidw2da1yaj",
     "Name": "TRANSPARENCY, CONSISTENCY, AUTHENTICITY",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf77mybe1n1ji5lz71m"
-  },
-  {
-    "ID": "lf78o71nyni6de81nyj",
-    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
