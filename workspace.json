@@ -4645,7 +4645,8 @@
     "Name": "Stanley and Stella Organic STTU755",
     "Linked": {
       "Children": [
-        "lf754y958rhio55zqy8"
+        "lf754y958rhio55zqy8",
+        "lf756hmiv2wv851bv2q"
       ],
       "Components": []
     },
@@ -4655,6 +4656,16 @@
   {
     "ID": "lf754y958rhio55zqy8",
     "Name": "$17.25 | 5.3oz | medium range of colors",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7516q4eyy8ixr3bag"
+  },
+  {
+    "ID": "lf756hmiv2wv851bv2q",
+    "Name": "more expensive, not combed cotton, check reviews",
     "Linked": {
       "Children": [],
       "Components": []
