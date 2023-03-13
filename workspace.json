@@ -4993,10 +4993,55 @@
     "ID": "lf78r5ijy0k9crvo7vr",
     "Name": "brand drivers: adjectives that provide a more detailed definition of your brand",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf78rrop1cxh9o7gl6w",
+        "lf78rutmoaaic9gf6dl",
+        "lf78ryy6sdzv4dk4eg",
+        "lf78s2k3trfeww9sa79"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf78jyxcjvwyb0j5a9q"
+  },
+  {
+    "ID": "lf78rrop1cxh9o7gl6w",
+    "Name": "functional benefits",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78r5ijy0k9crvo7vr"
+  },
+  {
+    "ID": "lf78rutmoaaic9gf6dl",
+    "Name": "emotional benefits",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78r5ijy0k9crvo7vr"
+  },
+  {
+    "ID": "lf78ryy6sdzv4dk4eg",
+    "Name": "economic benefits ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78r5ijy0k9crvo7vr"
+  },
+  {
+    "ID": "lf78s2k3trfeww9sa79",
+    "Name": "self-expressive benefits",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf78r5ijy0k9crvo7vr"
   }
 ]
