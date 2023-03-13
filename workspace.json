@@ -4045,7 +4045,6 @@
     "Linked": {
       "Children": [
         "lergstfcpns3xozjfsb",
-        "lf734gcu2qhjcrgxv11",
         "lergsut0qw3yiebuxe",
         "lergsvx7f4igmw7iy0i"
       ],
@@ -4059,7 +4058,8 @@
     "Name": "Shirt ideas",
     "Linked": {
       "Children": [
-        "leyp4u9z00upw00x5lk3j"
+        "leyp4u9z00upw00x5lk3j",
+        "lf734gcu2qhjcrgxv11"
       ],
       "Components": []
     },
@@ -4314,6 +4314,6 @@
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lergsnypsig99uy8p3q"
+    "Parent": "lergstfcpns3xozjfsb"
   }
 ]
