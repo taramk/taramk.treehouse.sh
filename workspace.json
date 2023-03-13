@@ -4332,11 +4332,12 @@
   },
   {
     "ID": "lf7361bhq7s3xwumtt",
-    "Name": "Material",
+    "Name": "Material characteristics",
     "Linked": {
       "Children": [
         "lf7367lewmx1tibuvg",
-        "lf7369uimlw33468v3r"
+        "lf7369uimlw33468v3r",
+        "lf736dl63qt6hluf6zk"
       ],
       "Components": []
     },
@@ -4356,6 +4357,16 @@
   {
     "ID": "lf7369uimlw33468v3r",
     "Name": "combed cotton",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf7361bhq7s3xwumtt"
+  },
+  {
+    "ID": "lf736dl63qt6hluf6zk",
+    "Name": "weight",
     "Linked": {
       "Children": [],
       "Components": []
