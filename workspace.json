@@ -4324,7 +4324,8 @@
     "Linked": {
       "Children": [
         "lergt4zh0b7y0u11aar",
-        "lf736tdkwyif5zmz71h"
+        "lf736tdkwyif5zmz71h",
+        "lf7372eeoe9tthv34rs"
       ],
       "Components": []
     },
@@ -4377,7 +4378,17 @@
   },
   {
     "ID": "lf736tdkwyif5zmz71h",
-    "Name": "Gildan 6400",
+    "Name": "Gildan 6400 Softstyle",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
+  },
+  {
+    "ID": "lf7372eeoe9tthv34rs",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
