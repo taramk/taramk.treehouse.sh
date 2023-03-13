@@ -4305,7 +4305,8 @@
       "Children": [
         "lergt4zh0b7y0u11aar",
         "lf736tdkwyif5zmz71h",
-        "lf7372eeoe9tthv34rs"
+        "lf7372eeoe9tthv34rs",
+        "lf74d9ar7uf995j2p09"
       ],
       "Components": []
     },
@@ -4376,8 +4377,7 @@
     "Name": "Comfort Colors",
     "Linked": {
       "Children": [
-        "lf737pcjwpw7m5467mj",
-        "lf737rbg0jxak84m6x66"
+        "lf737pcjwpw7m5467mj"
       ],
       "Components": []
     },
@@ -4387,16 +4387,6 @@
   {
     "ID": "lf737pcjwpw7m5467mj",
     "Name": "https://www.printful.com/custom/mens/t-shirts/mens-garment-dyed-heavyweight-shirt-comfort-colors-1717",
-    "Linked": {
-      "Children": [],
-      "Components": []
-    },
-    "Attrs": {},
-    "Parent": "lf7372eeoe9tthv34rs"
-  },
-  {
-    "ID": "lf737rbg0jxak84m6x66",
-    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
@@ -4500,5 +4490,27 @@
     },
     "Attrs": {},
     "Parent": "lf749dc1adi9ciyi1cs"
+  },
+  {
+    "ID": "lf74d9ar7uf995j2p09",
+    "Name": "Bella + Canvas 3001",
+    "Linked": {
+      "Children": [
+        "lf74dg882fk6az99o07"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf735xii9mugx1jah2d"
+  },
+  {
+    "ID": "lf74dg882fk6az99o07",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf74d9ar7uf995j2p09"
   }
 ]
