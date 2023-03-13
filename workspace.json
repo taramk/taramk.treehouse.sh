@@ -4691,7 +4691,9 @@
     "Name": "Research your market (environment)",
     "Linked": {
       "Children": [
-        "lf77lllwfag1yrg4tf5"
+        "lf77lllwfag1yrg4tf5",
+        "lf77ongdgnlwwhbile4",
+        "lf77op7oqz0m13bt24c"
       ],
       "Components": []
     },
@@ -4700,9 +4702,11 @@
   },
   {
     "ID": "lf77lllwfag1yrg4tf5",
-    "Name": "target audience, competitors, how to differentiate yourself",
+    "Name": "target audience",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf77oqojh7rmz7ca8a"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -4760,5 +4764,35 @@
     },
     "Attrs": {},
     "Parent": "lf77nbj921hatjsyq1y"
+  },
+  {
+    "ID": "lf77ongdgnlwwhbile4",
+    "Name": "competitors",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77ljt6u2epy8h42w"
+  },
+  {
+    "ID": "lf77op7oqz0m13bt24c",
+    "Name": "how to differentiate yourself",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77ljt6u2epy8h42w"
+  },
+  {
+    "ID": "lf77oqojh7rmz7ca8a",
+    "Name": "",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf77lllwfag1yrg4tf5"
   }
 ]
