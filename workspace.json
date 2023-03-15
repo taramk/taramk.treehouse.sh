@@ -5280,7 +5280,8 @@
         "lf9yvjy4cz2k57kwmm",
         "lf9yz3bspht47zskiz",
         "lf9z5v0xu5duvi4y0og",
-        "lfa08er5gvy96faltk6"
+        "lfa08er5gvy96faltk6",
+        "lfa0atyytexd00pzn4"
       ],
       "Components": []
     },
@@ -5330,6 +5331,16 @@
   {
     "ID": "lfa08er5gvy96faltk6",
     "Name": "Use a higher count mesh to get a thinner, less \"caked-on\" feel",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lfa0atyytexd00pzn4",
+    "Name": "The key, in my opinion, is to have a good size reservoir of ink on your screen to do your flood stroke. The thicker the ink layer on your flood the less chance you have of the ink locking in your screen. \nIf it does end up locking up in your screen keep a spray bottle of water handy to spray the screen on press and with a paper towel work at the clog until it disappears... run two or three test prints on pellons or scrap shirts, and then keep going with the run. ",
     "Linked": {
       "Children": [],
       "Components": []
