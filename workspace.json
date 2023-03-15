@@ -5176,7 +5176,8 @@
       "Children": [
         "lf9yoiiq6tuqj7l4zda",
         "lf9yrf890ajzh37o82jw",
-        "lf9yvhqpzfd1nrzhk6d"
+        "lf9yvhqpzfd1nrzhk6d",
+        "lfa0k1tor0g4c4xnteo"
       ],
       "Components": []
     },
@@ -5369,5 +5370,27 @@
     },
     "Attrs": {},
     "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lfa0k1tor0g4c4xnteo",
+    "Name": "Screen emulsion",
+    "Linked": {
+      "Children": [
+        "lfa0k67hv00jk6ixpjb"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9ymy6tk2uygy4xx4"
+  },
+  {
+    "ID": "lfa0k67hv00jk6ixpjb",
+    "Name": "Saati PHU emulsion (pre-sensitized) with a reclaimable stencil hardener.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfa0k1tor0g4c4xnteo"
   }
 ]
