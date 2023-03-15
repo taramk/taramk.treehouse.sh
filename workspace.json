@@ -5329,7 +5329,7 @@
   },
   {
     "ID": "lfa08er5gvy96faltk6",
-    "Name": "Use a higher mesh to get a thinner, less \"caked-on\" feel",
+    "Name": "Use a higher count mesh to get a thinner, less \"caked-on\" feel",
     "Linked": {
       "Children": [],
       "Components": []
