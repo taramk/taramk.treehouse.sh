@@ -5210,7 +5210,9 @@
     "Linked": {
       "Children": [
         "lf9yrmri2jasxw392d7",
-        "lf9yrwj8u229q76ns1m"
+        "lf9yrwj8u229q76ns1m",
+        "lf9ys0e9cs7b9qq49ia",
+        "lf9ys39pr53yzk2gfrg"
       ],
       "Components": []
     },
@@ -5229,7 +5231,27 @@
   },
   {
     "ID": "lf9yrwj8u229q76ns1m",
-    "Name": "Web adhesive. Same product as the mist, but it comes out of the can in a web rather than a mist. I'm not a fan but you do have more control of the spray.\n-Liquid pallet adhesive. Looks like Elmers glue. Not as convenient but it works with no aerosol to worry about.\n-Double sided pallet tape. Doesn't make sense economically for me.\n",
+    "Name": "Web adhesive. Same product as the mist, but it comes out of the can in a web rather than a mist. I'm not a fan but you do have more control of the spray.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yrf890ajzh37o82jw"
+  },
+  {
+    "ID": "lf9ys0e9cs7b9qq49ia",
+    "Name": "Liquid pallet adhesive. Looks like Elmers glue. Not as convenient but it works with no aerosol to worry about.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yrf890ajzh37o82jw"
+  },
+  {
+    "ID": "lf9ys39pr53yzk2gfrg",
+    "Name": "Double sided pallet tape. Doesn't make sense economically for me.\n",
     "Linked": {
       "Children": [],
       "Components": []
