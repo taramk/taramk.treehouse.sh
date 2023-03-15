@@ -5173,10 +5173,34 @@
     "ID": "lf9ymy6tk2uygy4xx4",
     "Name": "Screenprinting",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf9yoiiq6tuqj7l4zda"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "@workspace"
+  },
+  {
+    "ID": "lf9yoiiq6tuqj7l4zda",
+    "Name": "Discharge printing",
+    "Linked": {
+      "Children": [
+        "lf9yolfew22bxziqgic"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9ymy6tk2uygy4xx4"
+  },
+  {
+    "ID": "lf9yolfew22bxziqgic",
+    "Name": "If you ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yoiiq6tuqj7l4zda"
   }
 ]
