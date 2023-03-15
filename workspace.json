@@ -5375,10 +5375,22 @@
     "ID": "lfa0k1tor0g4c4xnteo",
     "Name": "Screen emulsion",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lfa27ea8eh5zhnllpf"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf9ymy6tk2uygy4xx4"
+  },
+  {
+    "ID": "lfa27ea8eh5zhnllpf",
+    "Name": "uv-blocking black ink",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfa0k1tor0g4c4xnteo"
   }
 ]
