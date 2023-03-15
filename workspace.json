@@ -4105,7 +4105,8 @@
         "leet8bno0wbpa8we3lo",
         "leetcs1d3qtqctzx9fx",
         "lergsnypsig99uy8p3q",
-        "lezxprxr0qwc06nln86"
+        "lezxprxr0qwc06nln86",
+        "lf9ymy6tk2uygy4xx4"
       ],
       "Components": []
     },
@@ -5167,5 +5168,15 @@
     },
     "Attrs": {},
     "Parent": "lergsnypsig99uy8p3q"
+  },
+  {
+    "ID": "lf9ymy6tk2uygy4xx4",
+    "Name": "Screenprinting",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "@workspace"
   }
 ]
