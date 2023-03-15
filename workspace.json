@@ -5276,7 +5276,8 @@
     "Name": "Water-based printing",
     "Linked": {
       "Children": [
-        "lf9yvjy4cz2k57kwmm"
+        "lf9yvjy4cz2k57kwmm",
+        "lf9yz3bspht47zskiz"
       ],
       "Components": []
     },
@@ -5286,6 +5287,16 @@
   {
     "ID": "lf9yvjy4cz2k57kwmm",
     "Name": "If you just print harder and more with water base (without flashing in between) you can push the ink all the way though and out the back of the fabric, and still have a crappy looking print on the front side.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lf9yz3bspht47zskiz",
+    "Name": "\"Speedball Acrylic Fabric Ink\"...something like that, the little white pigments that are in the ink are \"thicker\" or \"bigger\" so when you go to push them through the mesh, they clog up in spots, especially with higher mesh screens (for example, in the image posted by the OP, I bet that mesh is 155-230) if the mesh the OP used was 110 it would be a little, if not completely, uniform. but that's all speculation..",
     "Linked": {
       "Children": [],
       "Components": []
