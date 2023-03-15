@@ -5282,7 +5282,8 @@
         "lf9z5v0xu5duvi4y0og",
         "lfa08er5gvy96faltk6",
         "lfa0atyytexd00pzn4",
-        "lfa0g04i5yi9r2kdmmi"
+        "lfa0g04i5yi9r2kdmmi",
+        "lfa0ge188aoe74igjeo"
       ],
       "Components": []
     },
@@ -5352,6 +5353,16 @@
   {
     "ID": "lfa0g04i5yi9r2kdmmi",
     "Name": "You need to DRIVE wb ink INTO the shirt. Not lay it on top like a plastisol. So..press harder.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lfa0ge188aoe74igjeo",
+    "Name": "If the ink is sticking to your ink knife - then it IS going to stick to your squeegee which is going to make flooding much more difficul",
     "Linked": {
       "Children": [],
       "Components": []
