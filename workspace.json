@@ -5208,10 +5208,33 @@
     "ID": "lf9yrf890ajzh37o82jw",
     "Name": "Adhesive",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lf9yrmri2jasxw392d7",
+        "lf9yrwj8u229q76ns1m"
+      ],
       "Components": []
     },
     "Attrs": {},
     "Parent": "lf9ymy6tk2uygy4xx4"
+  },
+  {
+    "ID": "lf9yrmri2jasxw392d7",
+    "Name": "Mist adhesive. This is what I use. IMO it's the easiest, just watch where you spray it. The one Ryonet makes is cheap and works just fine.\n",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yrf890ajzh37o82jw"
+  },
+  {
+    "ID": "lf9yrwj8u229q76ns1m",
+    "Name": "Web adhesive. Same product as the mist, but it comes out of the can in a web rather than a mist. I'm not a fan but you do have more control of the spray.\n-Liquid pallet adhesive. Looks like Elmers glue. Not as convenient but it works with no aerosol to worry about.\n-Double sided pallet tape. Doesn't make sense economically for me.\n",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yrf890ajzh37o82jw"
   }
 ]
