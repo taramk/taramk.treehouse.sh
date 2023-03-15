@@ -5174,7 +5174,8 @@
     "Name": "Screenprinting",
     "Linked": {
       "Children": [
-        "lf9yoiiq6tuqj7l4zda"
+        "lf9yoiiq6tuqj7l4zda",
+        "lf9yrf890ajzh37o82jw"
       ],
       "Components": []
     },
@@ -5202,5 +5203,15 @@
     },
     "Attrs": {},
     "Parent": "lf9yoiiq6tuqj7l4zda"
+  },
+  {
+    "ID": "lf9yrf890ajzh37o82jw",
+    "Name": "Adhesive",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9ymy6tk2uygy4xx4"
   }
 ]
