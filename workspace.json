@@ -5286,7 +5286,8 @@
         "lfa0g04i5yi9r2kdmmi",
         "lfa0ge188aoe74igjeo",
         "lfa3z4wha74htvswwhc",
-        "lfa41undeb8w684h327"
+        "lfa41undeb8w684h327",
+        "lfa44a9j98cxpbtywno"
       ],
       "Components": []
     },
@@ -5408,6 +5409,16 @@
   {
     "ID": "lfa41undeb8w684h327",
     "Name": "wet your screen with a mister bottle before your first flood. Wipe it in with a cloth, it helps a ton. Keep that spray bottle handy, because misting your screen once in a while during your print run (on top of the flood, if that makes sense) helps keep it wet and avoids screen clogging. At least on a manual press, it’s helped me a ton.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lfa44a9j98cxpbtywno",
+    "Name": "Water base is not like Plastisol, where you must get the ink up to a very specific temp and you're done. With water base, you must get the water out of the ink, which takes a combination of time and heat and/or airflow, with more heat not being a direct replacement for more time, but there is a relationship.",
     "Linked": {
       "Children": [],
       "Components": []
