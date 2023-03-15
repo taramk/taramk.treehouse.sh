@@ -5175,7 +5175,8 @@
     "Linked": {
       "Children": [
         "lf9yoiiq6tuqj7l4zda",
-        "lf9yrf890ajzh37o82jw"
+        "lf9yrf890ajzh37o82jw",
+        "lf9yvhqpzfd1nrzhk6d"
       ],
       "Components": []
     },
@@ -5269,5 +5270,27 @@
     },
     "Attrs": {},
     "Parent": "lf9yrf890ajzh37o82jw"
+  },
+  {
+    "ID": "lf9yvhqpzfd1nrzhk6d",
+    "Name": "Water-based printing",
+    "Linked": {
+      "Children": [
+        "lf9yvjy4cz2k57kwmm"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9ymy6tk2uygy4xx4"
+  },
+  {
+    "ID": "lf9yvjy4cz2k57kwmm",
+    "Name": "If you just print harder and more with water base you can push the ink all the way though and out the back of the fabric, and still have a crappy looking print on the front side.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
   }
 ]
