@@ -5212,7 +5212,8 @@
         "lf9yrmri2jasxw392d7",
         "lf9yrwj8u229q76ns1m",
         "lf9ys0e9cs7b9qq49ia",
-        "lf9ys39pr53yzk2gfrg"
+        "lf9ys39pr53yzk2gfrg",
+        "lf9ysn7jbto5pfamwjc"
       ],
       "Components": []
     },
@@ -5251,7 +5252,17 @@
   },
   {
     "ID": "lf9ys39pr53yzk2gfrg",
-    "Name": "Double sided pallet tape. Doesn't make sense economically for me.\n",
+    "Name": "Double sided pallet tape. Doesn't make sense economically for me.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yrf890ajzh37o82jw"
+  },
+  {
+    "ID": "lf9ysn7jbto5pfamwjc",
+    "Name": "I personally use Tekbond TB-HV water based pallet adhesive, (tekmarltd.com) can easily keep 150+ t's bonded without having to re-apply once.. and when the lint builds up I just simply spray water on my pallet and rub clean with a brush. The key to using the adhesive is letting it set first after you apply it, for a good 5-10 minutes.\n",
     "Linked": {
       "Children": [],
       "Components": []
