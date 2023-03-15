@@ -5285,7 +5285,8 @@
         "lfa0atyytexd00pzn4",
         "lfa0g04i5yi9r2kdmmi",
         "lfa0ge188aoe74igjeo",
-        "lfa3z4wha74htvswwhc"
+        "lfa3z4wha74htvswwhc",
+        "lfa41undeb8w684h327"
       ],
       "Components": []
     },
@@ -5397,6 +5398,16 @@
   {
     "ID": "lfa3z4wha74htvswwhc",
     "Name": "Yes i use that green galaxy white. It's great. Behaves better than plastisol (thinner but still opaque). Just keep it flooded and myst occasionally. You might consider a bottle of warp drive or whatever it is - it lowers the cure temp. You just add a few drips into the batch of ink you're about to use not the full container of ink.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lfa41undeb8w684h327",
+    "Name": "wet your screen with a mister bottle before your first flood. Wipe it in with a cloth, it helps a ton. Keep that spray bottle handy, because misting your screen once in a while during your print run (on top of the flood, if that makes sense) helps keep it wet and avoids screen clogging. At least on a manual press, it’s helped me a ton.",
     "Linked": {
       "Children": [],
       "Components": []
