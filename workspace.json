@@ -5188,7 +5188,8 @@
     "Name": "Discharge printing",
     "Linked": {
       "Children": [
-        "lf9yolfew22bxziqgic"
+        "lf9yolfew22bxziqgic",
+        "lf9z1ftni71itogpna"
       ],
       "Components": []
     },
@@ -5303,5 +5304,15 @@
     },
     "Attrs": {},
     "Parent": "lf9yvhqpzfd1nrzhk6d"
+  },
+  {
+    "ID": "lf9z1ftni71itogpna",
+    "Name": "if you're using a low tech press and want to stick with waterbase inks for easy cleanup and also want a thick bright white that will lay down opaque on dark fabric, I like permaset supercover white. another fun thing to do is print your design with softscrub with bleach and you'll get a discharge effect. rinse your screen right away after using softscrub or it will break down your stencil. Rinse the shirt in a white vinegar solution before washing to stop the bleaching action before you wash.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lf9yoiiq6tuqj7l4zda"
   }
 ]
