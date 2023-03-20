@@ -5458,7 +5458,9 @@
         "lfh1r7z3zw6kleb3tlt",
         "lfh1r9xstgbgtysncx",
         "lfh1ratxxcl9ytmfi8d",
-        "lfh1rbwrzvztiiii2ri"
+        "lfh1rbwrzvztiiii2ri",
+        "lfh1rmvainx7dob783i",
+        "lfh1rqgpuadqpslytu"
       ],
       "Components": []
     },
@@ -5549,5 +5551,25 @@
     },
     "Attrs": {},
     "Parent": "lfh1rbwrzvztiiii2ri"
+  },
+  {
+    "ID": "lfh1rmvainx7dob783i",
+    "Name": "Keyboard Shortcuts",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1rqgpuadqpslytu",
+    "Name": "Command Palette",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pmsxkasw8fvdhrn"
   }
 ]
