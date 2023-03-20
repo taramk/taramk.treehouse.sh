@@ -5452,12 +5452,102 @@
   },
   {
     "ID": "lfh1pmsxkasw8fvdhrn",
-    "Name": "Using the interface",
+    "Name": "Get Started",
+    "Linked": {
+      "Children": [
+        "lfh1r7z3zw6kleb3tlt",
+        "lfh1r9xstgbgtysncx",
+        "lfh1ratxxcl9ytmfi8d",
+        "lfh1rbwrzvztiiii2ri"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pcxgtmdyx6ptmb"
+  },
+  {
+    "ID": "lfh1r7z3zw6kleb3tlt",
+    "Name": "Outline editor",
     "Linked": {
       "Children": [],
       "Components": []
     },
     "Attrs": {},
-    "Parent": "lfh1pcxgtmdyx6ptmb"
+    "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1r9xstgbgtysncx",
+    "Name": "Panels",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1ratxxcl9ytmfi8d",
+    "Name": "Navigation",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1rbwrzvztiiii2ri",
+    "Name": "Topbar",
+    "Linked": {
+      "Children": [
+        "lfh1rd70xriszucga5q",
+        "lfh1reawblgbp2hq34u",
+        "lfh1rgfjyag02ncn9ak",
+        "lfh1rhjup3gumyxh3rr"
+      ],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1rd70xriszucga5q",
+    "Name": "Today",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1rbwrzvztiiii2ri"
+  },
+  {
+    "ID": "lfh1reawblgbp2hq34u",
+    "Name": "Quick Add",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1rbwrzvztiiii2ri"
+  },
+  {
+    "ID": "lfh1rgfjyag02ncn9ak",
+    "Name": "Search",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1rbwrzvztiiii2ri"
+  },
+  {
+    "ID": "lfh1rhjup3gumyxh3rr",
+    "Name": "Main Menu",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1rbwrzvztiiii2ri"
   }
 ]
