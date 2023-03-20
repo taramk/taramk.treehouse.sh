@@ -5471,7 +5471,9 @@
     "ID": "lfh1r7z3zw6kleb3tlt",
     "Name": "Outline editor",
     "Linked": {
-      "Children": [],
+      "Children": [
+        "lfh1td17mdok8pb3gd9"
+      ],
       "Components": []
     },
     "Attrs": {},
@@ -5584,5 +5586,15 @@
     },
     "Attrs": {},
     "Parent": "lfh1pmsxkasw8fvdhrn"
+  },
+  {
+    "ID": "lfh1td17mdok8pb3gd9",
+    "Name": "Treehouse is an outline editor, where ",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1r7z3zw6kleb3tlt"
   }
 ]
