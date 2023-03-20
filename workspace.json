@@ -5460,7 +5460,7 @@
         "lfh1ratxxcl9ytmfi8d",
         "lfh1rbwrzvztiiii2ri",
         "lfh1rmvainx7dob783i",
-        "lfh1rqgpuadqpslytu"
+        "lfh1se3m1jtw9b77glk"
       ],
       "Components": []
     },
@@ -5563,7 +5563,20 @@
     "Parent": "lfh1pmsxkasw8fvdhrn"
   },
   {
-    "ID": "lfh1rqgpuadqpslytu",
+    "ID": "lfh1s72a290sz97vki3",
+    "Name": "evaluate@[native code].Checkbox",
+    "Value": {
+      "checked": false
+    },
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1rqgpuadqpslytu"
+  },
+  {
+    "ID": "lfh1se3m1jtw9b77glk",
     "Name": "Command Palette",
     "Linked": {
       "Children": [],
