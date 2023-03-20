@@ -5472,7 +5472,8 @@
     "Name": "What is Treehouse?",
     "Linked": {
       "Children": [
-        "lfh1td17mdok8pb3gd9"
+        "lfh1td17mdok8pb3gd9",
+        "lfh1xeeeraofi6q7b7"
       ],
       "Components": []
     },
@@ -5590,6 +5591,16 @@
   {
     "ID": "lfh1td17mdok8pb3gd9",
     "Name": "Treehouse is an outline editor, which you can think of as a bulleted list. Each bullet item is called a node. You can use the nodes to create nested layers of folders and notes.",
+    "Linked": {
+      "Children": [],
+      "Components": []
+    },
+    "Attrs": {},
+    "Parent": "lfh1r7z3zw6kleb3tlt"
+  },
+  {
+    "ID": "lfh1xeeeraofi6q7b7",
+    "Name": "",
     "Linked": {
       "Children": [],
       "Components": []
