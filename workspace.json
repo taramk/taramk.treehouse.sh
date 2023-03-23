@@ -5,7 +5,8 @@
     "@workspace": {
       "lezxprxr0qwc06nln86": true,
       "lezxqjdpvitxi6v5t4": true,
-      "lezxpyrkx1xrv12hek": true
+      "lezxpyrkx1xrv12hek": true,
+      "lezxr1wd6ldfhf6lzw7": false
     }
   },
   "nodes": [
@@ -4146,7 +4147,6 @@
       "Linked": {
         "Children": [
           "lezxr1wd6ldfhf6lzw7",
-          "lf475fo8czdnj00z6th",
           "lf475l4txmdqo6s6rxm",
           "lf475mygkxt4jbp6eef"
         ],
@@ -4267,16 +4267,6 @@
       "Parent": "lf08ycdvkbyzokjp59"
     },
     {
-      "ID": "lf475fo8czdnj00z6th",
-      "Name": "Ariscault croissants",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lezxpyrkx1xrv12hek"
-    },
-    {
       "ID": "lf475l4txmdqo6s6rxm",
       "Name": "Forest walk",
       "Linked": {
@@ -4288,7 +4278,7 @@
     },
     {
       "ID": "lf475mygkxt4jbp6eef",
-      "Name": "Ocean walk",
+      "Name": "Ocean walk + ",
       "Linked": {
         "Children": [],
         "Components": []
