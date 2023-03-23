@@ -1696,7 +1696,7 @@
       "ID": "leepnv0h99gkg52sjkr",
       "Name": "evaluate@[native code].Checkbox",
       "Value": {
-        "checked": false
+        "checked": true
       },
       "Linked": {
         "Children": [],
