@@ -11,8 +11,8 @@
       "@workspace": true,
       "lfr2mc7k2kvlsaot7cu": false,
       "lfr2mdflyz0ghswypf": false,
-      "lfr2peq607qzl7po94d6": false,
-      "lfr2qatseqy6c9f8v": false
+      "lfr2peq607qzl7po94d6": true,
+      "lfr2qatseqy6c9f8v": true
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -5958,7 +5958,7 @@
     },
     {
       "ID": "lfr2qatseqy6c9f8v",
-      "Name": "checkboxes two",
+      "Name": "checkboxes test two",
       "Linked": {
         "Children": [
           "lfr2qcw88a5haeqd9g",
