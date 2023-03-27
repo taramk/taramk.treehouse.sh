@@ -5875,7 +5875,9 @@
       "Name": "three",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lfr2las8ljnzl187mi"
+        ]
       },
       "Attrs": {},
       "Parent": "lehew1oiwf45w9rbh3"
@@ -5905,6 +5907,19 @@
       },
       "Attrs": {},
       "Parent": "lfr2ki70bonirgidpcd"
+    },
+    {
+      "ID": "lfr2las8ljnzl187mi",
+      "Name": "evaluate@[native code].Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2kivk9k20b0it0i8"
     }
   ]
 }
