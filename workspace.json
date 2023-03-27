@@ -12,7 +12,7 @@
       "lfr2mc7k2kvlsaot7cu": false,
       "lfr2mdflyz0ghswypf": false,
       "lfr2peq607qzl7po94d6": false,
-      "lfr2qatseqy6c9f8v": true
+      "lfr2qatseqy6c9f8v": false
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -5974,7 +5974,9 @@
       "Name": "one",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lfr2qmr44crct68twlv"
+        ]
       },
       "Attrs": {},
       "Parent": "lfr2qatseqy6c9f8v"
@@ -5984,10 +5986,38 @@
       "Name": "two",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lfr2ql6oarkcipvxbh8"
+        ]
       },
       "Attrs": {},
       "Parent": "lfr2qatseqy6c9f8v"
+    },
+    {
+      "ID": "lfr2ql6oarkcipvxbh8",
+      "Name": "evaluate@[native code].Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2qdslgle8jl9ll4m"
+    },
+    {
+      "ID": "lfr2qmr44crct68twlv",
+      "Name": "evaluate@[native code].Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2qcw88a5haeqd9g"
     }
   ]
 }
