@@ -5933,10 +5933,11 @@
     },
     {
       "ID": "lfr2qatseqy6c9f8v",
-      "Name": "checkboxes test twoone",
+      "Name": "checkboxes test two",
       "Linked": {
         "Children": [
-          "lfr2qdslgle8jl9ll4m"
+          "lfr2qdslgle8jl9ll4m",
+          "lfr2y3dhwewjmctn4m"
         ],
         "Components": []
       },
@@ -5980,6 +5981,16 @@
       },
       "Attrs": {},
       "Parent": "lfr2qcw88a5haeqd9g"
+    },
+    {
+      "ID": "lfr2y3dhwewjmctn4m",
+      "Name": "one",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2qatseqy6c9f8v"
     }
   ]
 }
