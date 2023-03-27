@@ -11,7 +11,7 @@
       "@workspace": true,
       "lfr2mc7k2kvlsaot7cu": false,
       "lfr2mdflyz0ghswypf": false,
-      "lfr2peq607qzl7po94d6": true,
+      "lfr2peq607qzl7po94d6": false,
       "lfr2qatseqy6c9f8v": true
     },
     "lezxprxr0qwc06nln86": {
@@ -5899,25 +5899,11 @@
       "ID": "lfr2peq607qzl7po94d6",
       "Name": "checkboxes test",
       "Linked": {
-        "Children": [
-          "lfr2pgusuwvp5t31hd"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lfr2pgusuwvp5t31hd",
-      "Name": "two",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lfr2pna36vc0y6935zn"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lfr2peq607qzl7po94d6"
     },
     {
       "ID": "lfr2pk4nc0qeq7ilqo",
@@ -5947,28 +5933,15 @@
     },
     {
       "ID": "lfr2qatseqy6c9f8v",
-      "Name": "checkboxes test two",
+      "Name": "checkboxes test twoone",
       "Linked": {
         "Children": [
-          "lfr2qcw88a5haeqd9g",
           "lfr2qdslgle8jl9ll4m"
         ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lfr2qcw88a5haeqd9g",
-      "Name": "one",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lfr2qmr44crct68twlv"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lfr2qatseqy6c9f8v"
     },
     {
       "ID": "lfr2qdslgle8jl9ll4m",
