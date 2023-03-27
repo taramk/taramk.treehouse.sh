@@ -578,7 +578,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lfras4bzgsyof2o0ycr"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -6052,6 +6054,16 @@
       },
       "Attrs": {},
       "Parent": "lfr352f192zrbemigio"
+    },
+    {
+      "ID": "lfras4bzgsyof2o0ycr",
+      "Name": "check empirico",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
     }
   ]
 }
