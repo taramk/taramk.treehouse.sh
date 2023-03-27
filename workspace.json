@@ -14,7 +14,8 @@
       "lezxpyrkx1xrv12hek": true,
       "lf08ycdvkbyzokjp59": true,
       "lfr22oxqa8iewr62eqt": true,
-      "lfr22rwslhnu6pjij2": true
+      "lfr22rwslhnu6pjij2": true,
+      "lf08z0lw6auu44lgtvt": true
     },
     "lezxqjdpvitxi6v5t4": {
       "lflco8ntsa9em16x2qh": true
@@ -4242,9 +4243,11 @@
     },
     {
       "ID": "lf08z0lw6auu44lgtvt",
-      "Name": "Dust all rooms",
+      "Name": "",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lfr26oxjqut378d6eo"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -5818,6 +5821,16 @@
       },
       "Attrs": {},
       "Parent": "lezxqjdpvitxi6v5t4"
+    },
+    {
+      "ID": "lfr26oxjqut378d6eo",
+      "Name": "dust all rooms",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lf08z0lw6auu44lgtvt"
     }
   ]
 }
