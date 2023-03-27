@@ -46,7 +46,10 @@
     "leest6yog9hid2tza9": {},
     "lergsnypsig99uy8p3q": {},
     "leepl91uzbplns6kuwg": {},
-    "lf9ymy6tk2uygy4xx4": {}
+    "lf9ymy6tk2uygy4xx4": {},
+    "@quickadd": {
+      "@quickadd": false
+    }
   },
   "nodes": [
     {
@@ -545,9 +548,7 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [
-          "lefwr0o0tijied1toa"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {}
@@ -3531,16 +3532,6 @@
       },
       "Attrs": {},
       "Parent": "leew860bhfjbingp6om"
-    },
-    {
-      "ID": "lefwr0o0tijied1toa",
-      "Name": "Check Empirico's PR section for logo assets",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@quickadd"
     },
     {
       "ID": "leg68k2epw9gkiai91",
