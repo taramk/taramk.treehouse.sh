@@ -5491,7 +5491,6 @@
       "Linked": {
         "Children": [
           "lfh1r7z3zw6kleb3tlt",
-          "lfh1r9xstgbgtysncx",
           "lfh1ratxxcl9ytmfi8d",
           "lfh1rbwrzvztiiii2ri",
           "lfh1rmvainx7dob783i",
@@ -5509,16 +5508,6 @@
         "Children": [
           "lfh1td17mdok8pb3gd9"
         ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lfh1pmsxkasw8fvdhrn"
-    },
-    {
-      "ID": "lfh1r9xstgbgtysncx",
-      "Name": "Panels",
-      "Linked": {
-        "Children": [],
         "Components": []
       },
       "Attrs": {},
