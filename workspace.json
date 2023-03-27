@@ -5900,25 +5900,12 @@
       "Name": "checkboxes test",
       "Linked": {
         "Children": [
-          "lfr2pft485hq9fa2dmf",
           "lfr2pgusuwvp5t31hd"
         ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lfr2pft485hq9fa2dmf",
-      "Name": "one",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lfr2pk4nc0qeq7ilqo"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lfr2peq607qzl7po94d6"
     },
     {
       "ID": "lfr2pgusuwvp5t31hd",
