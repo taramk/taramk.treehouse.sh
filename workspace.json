@@ -28,7 +28,9 @@
     },
     "le37qibhsmc73hj4gsp": {},
     "leet8bno0wbpa8we3lo": {},
-    "leetcs1d3qtqctzx9fx": {},
+    "leetcs1d3qtqctzx9fx": {
+      "lehew1oiwf45w9rbh3": true
+    },
     "lfh1pcxgtmdyx6ptmb": {},
     "lfr2gyqk08kyg8mme6lj": {}
   },
@@ -3579,9 +3581,13 @@
     },
     {
       "ID": "lehew1oiwf45w9rbh3",
-      "Name": "",
+      "Name": "checkbox test",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lfr2kgwb8ylxulv7voe",
+          "lfr2ki70bonirgidpcd",
+          "lfr2kivk9k20b0it0i8"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -5839,6 +5845,51 @@
       },
       "Attrs": {},
       "Parent": "lf08z0lw6auu44lgtvt"
+    },
+    {
+      "ID": "lfr2kgwb8ylxulv7voe",
+      "Name": "one",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lfr2klvgo9i4r0sh9u"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lehew1oiwf45w9rbh3"
+    },
+    {
+      "ID": "lfr2ki70bonirgidpcd",
+      "Name": "two",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lehew1oiwf45w9rbh3"
+    },
+    {
+      "ID": "lfr2kivk9k20b0it0i8",
+      "Name": "three",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lehew1oiwf45w9rbh3"
+    },
+    {
+      "ID": "lfr2klvgo9i4r0sh9u",
+      "Name": "evaluate@[native code].Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2kgwb8ylxulv7voe"
     }
   ]
 }
