@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "lf9ymy6tk2uygy4xx4",
   "expanded": {
     "@workspace": {
       "lezxprxr0qwc06nln86": false,
@@ -54,7 +54,11 @@
     },
     "lergsnypsig99uy8p3q": {},
     "leepl91uzbplns6kuwg": {},
-    "lf9ymy6tk2uygy4xx4": {},
+    "lf9ymy6tk2uygy4xx4": {
+      "lf9yoiiq6tuqj7l4zda": true,
+      "lf9yrf890ajzh37o82jw": true,
+      "lf9yvhqpzfd1nrzhk6d": true
+    },
     "@quickadd": {
       "@quickadd": true
     },
