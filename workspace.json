@@ -6078,7 +6078,8 @@
       "Name": "sidebar",
       "Linked": {
         "Children": [
-          "lg168kyuhh7wxa9mua"
+          "lg168kyuhh7wxa9mua",
+          "lg169zdwogls7aoz6o"
         ],
         "Components": []
       },
@@ -6120,6 +6121,16 @@
     {
       "ID": "lg168kyuhh7wxa9mua",
       "Name": "collapsed by default, expanded is a hover drawer?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lg165qnwu5j8bjldxur"
+    },
+    {
+      "ID": "lg169zdwogls7aoz6o",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
