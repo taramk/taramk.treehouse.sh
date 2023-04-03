@@ -66,7 +66,9 @@
     },
     "lfr352f2qvlne4r6z4l": {},
     "lfr352f192zrbemigio": {},
-    "lfr2peq607qzl7po94d6": {},
+    "lfr2peq607qzl7po94d6": {
+      "lg165qnwu5j8bjldxur": true
+    },
     "lfr2qatseqy6c9f8v": {},
     "leesnc63hxw2lko10ci": {},
     "leesnjxy3k8fn4h7fct": {},
@@ -5925,7 +5927,6 @@
           "lg164qkkr6wnt1bjpm8",
           "lg164sslcnfzn29l4u6",
           "lg165qnwu5j8bjldxur",
-          "lg168kyuhh7wxa9mua",
           "lg1673t2o2vu0tkuaq"
         ],
         "Components": []
@@ -6076,7 +6077,9 @@
       "ID": "lg165qnwu5j8bjldxur",
       "Name": "sidebar",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lg168kyuhh7wxa9mua"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6122,7 +6125,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lfr2peq607qzl7po94d6"
+      "Parent": "lg165qnwu5j8bjldxur"
     }
   ]
 }
