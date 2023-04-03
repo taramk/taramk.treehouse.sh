@@ -4173,8 +4173,7 @@
           "lezxprxr0qwc06nln86",
           "lf9ymy6tk2uygy4xx4",
           "lfh1pcxgtmdyx6ptmb",
-          "lfr2peq607qzl7po94d6",
-          "lfr2qatseqy6c9f8v"
+          "lfr2peq607qzl7po94d6"
         ],
         "Components": []
       },
@@ -5951,31 +5950,6 @@
       "Parent": "lfr2pgusuwvp5t31hd"
     },
     {
-      "ID": "lfr2qatseqy6c9f8v",
-      "Name": "checkboxes test two",
-      "Linked": {
-        "Children": [
-          "lfr2qdslgle8jl9ll4m",
-          "lfr2y3dhwewjmctn4m"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lfr2qdslgle8jl9ll4m",
-      "Name": "two",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lfr2ql6oarkcipvxbh8"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lfr2qatseqy6c9f8v"
-    },
-    {
       "ID": "lfr2ql6oarkcipvxbh8",
       "Name": "evaluate@[native code].Checkbox",
       "Value": {
@@ -6000,18 +5974,6 @@
       },
       "Attrs": {},
       "Parent": "lfr2qcw88a5haeqd9g"
-    },
-    {
-      "ID": "lfr2y3dhwewjmctn4m",
-      "Name": "one",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lfr2y8wh7blbgda8uzg"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lfr2qatseqy6c9f8v"
     },
     {
       "ID": "lfr2y8wh7blbgda8uzg",
