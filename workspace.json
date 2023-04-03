@@ -71,7 +71,8 @@
       "lg16ane322e7f5181gg": true,
       "lg16aji92mvxzrmsthg": true,
       "lfr2peq607qzl7po94d6": true,
-      "lg16bi8kwiucbe2ur1q": true
+      "lg16bi8kwiucbe2ur1q": true,
+      "lg16bgu89b5q540jwhf": true
     },
     "lfr2qatseqy6c9f8v": {},
     "leesnc63hxw2lko10ci": {},
@@ -5933,8 +5934,7 @@
           "lg165qnwu5j8bjldxur",
           "lg1673t2o2vu0tkuaq",
           "lg16aji92mvxzrmsthg",
-          "lg16bgu89b5q540jwhf",
-          "lg16bi8kwiucbe2ur1q"
+          "lg16bgu89b5q540jwhf"
         ],
         "Components": []
       },
@@ -6171,7 +6171,9 @@
       "ID": "lg16bgu89b5q540jwhf",
       "Name": "ideas",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lg16bi8kwiucbe2ur1q"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6185,7 +6187,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lfr2peq607qzl7po94d6"
+      "Parent": "lg16bgu89b5q540jwhf"
     }
   ]
 }
