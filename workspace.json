@@ -5925,6 +5925,7 @@
           "lg164qkkr6wnt1bjpm8",
           "lg164sslcnfzn29l4u6",
           "lg165qnwu5j8bjldxur",
+          "lg168kyuhh7wxa9mua",
           "lg1673t2o2vu0tkuaq"
         ],
         "Components": []
@@ -6073,7 +6074,7 @@
     },
     {
       "ID": "lg165qnwu5j8bjldxur",
-      "Name": "sidebar behavior - collapsed by default, expanded is a hover drawer?",
+      "Name": "sidebar",
       "Linked": {
         "Children": [],
         "Components": []
@@ -6112,6 +6113,16 @@
       },
       "Attrs": {},
       "Parent": "lg167bsty9bwgocanpc"
+    },
+    {
+      "ID": "lg168kyuhh7wxa9mua",
+      "Name": "collapsed by default, expanded is a hover drawer?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2peq607qzl7po94d6"
     }
   ]
 }
