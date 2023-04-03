@@ -68,7 +68,8 @@
     "lfr352f192zrbemigio": {},
     "lfr2peq607qzl7po94d6": {
       "lg165qnwu5j8bjldxur": true,
-      "lg16ane322e7f5181gg": true
+      "lg16ane322e7f5181gg": true,
+      "lg16aji92mvxzrmsthg": true
     },
     "lfr2qatseqy6c9f8v": {},
     "leesnc63hxw2lko10ci": {},
@@ -5929,8 +5930,7 @@
           "lg164sslcnfzn29l4u6",
           "lg165qnwu5j8bjldxur",
           "lg1673t2o2vu0tkuaq",
-          "lg16aji92mvxzrmsthg",
-          "lg16ane322e7f5181gg"
+          "lg16aji92mvxzrmsthg"
         ],
         "Components": []
       },
@@ -6145,7 +6145,9 @@
       "ID": "lg16aji92mvxzrmsthg",
       "Name": "page body",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lg16ane322e7f5181gg"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6153,13 +6155,13 @@
     },
     {
       "ID": "lg16ane322e7f5181gg",
-      "Name": "",
+      "Name": "responsive",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lfr2peq607qzl7po94d6"
+      "Parent": "lg16aji92mvxzrmsthg"
     }
   ]
 }
