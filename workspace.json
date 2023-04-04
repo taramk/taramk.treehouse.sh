@@ -5929,6 +5929,7 @@
       "Linked": {
         "Children": [
           "lg163w620so1qrncuzfn",
+          "lg2j4qu29fezcml7mcs",
           "lg164qkkr6wnt1bjpm8",
           "lg16dibunhhrx8lnbt",
           "lg164sslcnfzn29l4u6",
@@ -6193,6 +6194,16 @@
     {
       "ID": "lg16dibunhhrx8lnbt",
       "Name": "search  - not visible?",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lfr2peq607qzl7po94d6"
+    },
+    {
+      "ID": "lg2j4qu29fezcml7mcs",
+      "Name": "hide/disable \"open in new panel\" functionality",
       "Linked": {
         "Children": [],
         "Components": []
