@@ -138,28 +138,6 @@
       "Parent": "@workspace"
     },
     {
-      "ID": "le3801xcvbpqjm9qsc",
-      "Name": "Font research",
-      "Linked": {
-        "Children": [
-          "le7emhm0pkxklo1j46s"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "le7fh1a3as0solndlii"
-    },
-    {
-      "ID": "le7emhm0pkxklo1j46s",
-      "Name": "we should probably switch the app to Figtree, though i need to mock it up and i'm feeling kind of lazy",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "le3801xcvbpqjm9qsc"
-    },
-    {
       "ID": "le7fwmlli98u85t3et",
       "Name": "2023",
       "Linked": {
@@ -218,16 +196,6 @@
         "Components": []
       },
       "Attrs": {}
-    },
-    {
-      "ID": "ledd9jbhdjlii0qigob",
-      "Name": "a",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "ledd9ksw7spn2zqpfz"
     },
     {
       "ID": "leepl91uzbplns6kuwg",
