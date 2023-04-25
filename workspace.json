@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lf9ymy6tk2uygy4xx4",
+  "lastopen": "lgwtxvra4dez9vsbr28",
   "expanded": {
     "@workspace": {
       "lezxprxr0qwc06nln86": false,
@@ -15,7 +15,9 @@
       "lfr2qatseqy6c9f8v": true,
       "lfh1pcxgtmdyx6ptmb": false,
       "lfh1pmsxkasw8fvdhrn": true,
-      "lg163w620so1qrncuzfn": false
+      "lg163w620so1qrncuzfn": false,
+      "lgwtxt7xj2dz1ewv07": true,
+      "lgwtxvra4dez9vsbr28": false
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -2277,7 +2279,8 @@
           "lezxprxr0qwc06nln86",
           "lf9ymy6tk2uygy4xx4",
           "lfh1pcxgtmdyx6ptmb",
-          "lfr2peq607qzl7po94d6"
+          "lfr2peq607qzl7po94d6",
+          "lgwtxt7xj2dz1ewv07"
         ],
         "Components": []
       },
@@ -4175,6 +4178,28 @@
       "Attrs": {},
       "Parent": "lf9yvhqpzfd1nrzhk6d",
       "Rel": "Components"
+    },
+    {
+      "ID": "lgwtxt7xj2dz1ewv07",
+      "Name": "Recipes",
+      "Linked": {
+        "Children": [
+          "lgwtxvra4dez9vsbr28"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lgwtxvra4dez9vsbr28",
+      "Name": "Cookie Recipe",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgwtxt7xj2dz1ewv07"
     }
   ]
 }
