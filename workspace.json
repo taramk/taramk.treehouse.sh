@@ -4196,7 +4196,8 @@
       "Name": "Cookie Recipe",
       "Linked": {
         "Children": [
-          "lgwtyoyosvutcuh90k"
+          "lgwtyoyosvutcuh90k",
+          "lgwtywl867z68gozhw6"
         ],
         "Components": []
       },
@@ -4206,6 +4207,16 @@
     {
       "ID": "lgwtyoyosvutcuh90k",
       "Name": "8T (1 stick) butter",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgwtxvra4dez9vsbr28"
+    },
+    {
+      "ID": "lgwtywl867z68gozhw6",
+      "Name": "1C sugar",
       "Linked": {
         "Children": [],
         "Components": []
