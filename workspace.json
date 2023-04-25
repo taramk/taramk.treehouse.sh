@@ -3412,7 +3412,9 @@
         "Children": [],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "list"
+      },
       "Parent": "lf9yvhqpzfd1nrzhk6d"
     },
     {
