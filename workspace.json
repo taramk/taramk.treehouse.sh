@@ -4205,7 +4205,8 @@
           "lgwtzmpo9hl1f9hcfx",
           "lgwtzs2lwr5egpypr2",
           "lgwtzvpuodl9ka0g6c",
-          "lgwu1hrnxhbdcpzxl3r"
+          "lgwu1hrnxhbdcpzxl3r",
+          "lgwu1wbo5wx1r01t83"
         ],
         "Components": []
       },
@@ -4305,6 +4306,16 @@
     {
       "ID": "lgwu1hrnxhbdcpzxl3r",
       "Name": "5oz chocolate chips",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgwtxvra4dez9vsbr28"
+    },
+    {
+      "ID": "lgwu1wbo5wx1r01t83",
+      "Name": "Preheat oven to 375F.",
       "Linked": {
         "Children": [],
         "Components": []
