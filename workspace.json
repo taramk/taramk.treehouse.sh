@@ -3339,7 +3339,6 @@
       "Linked": {
         "Children": [
           "lf9yoiiq6tuqj7l4zda",
-          "lf9yrf890ajzh37o82jw",
           "lf9yvhqpzfd1nrzhk6d",
           "lfa0k1tor0g4c4xnteo"
         ],
@@ -3350,7 +3349,7 @@
     },
     {
       "ID": "lf9yoiiq6tuqj7l4zda",
-      "Name": "Discharge printing",
+      "Name": "Discharge printing\n",
       "Linked": {
         "Children": [
           "lf9yolfew22bxziqgic",
@@ -3370,72 +3369,6 @@
       },
       "Attrs": {},
       "Parent": "lf9yoiiq6tuqj7l4zda"
-    },
-    {
-      "ID": "lf9yrf890ajzh37o82jw",
-      "Name": "Adhesive",
-      "Linked": {
-        "Children": [
-          "lf9yrmri2jasxw392d7",
-          "lf9yrwj8u229q76ns1m",
-          "lf9ys0e9cs7b9qq49ia",
-          "lf9ys39pr53yzk2gfrg",
-          "lf9ysn7jbto5pfamwjc"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4"
-    },
-    {
-      "ID": "lf9yrmri2jasxw392d7",
-      "Name": "Mist a\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yrf890ajzh37o82jw"
-    },
-    {
-      "ID": "lf9yrwj8u229q76ns1m",
-      "Name": "Web adhesive. Same product as the mist, but it comes out of the can in a web rather than a mist. I'm not a fan but you do have more control of the spray.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yrf890ajzh37o82jw"
-    },
-    {
-      "ID": "lf9ys0e9cs7b9qq49ia",
-      "Name": "Liquid pallet adhesive. Looks like Elmers glue. Not as convenient but it works with no aerosol to worry about.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yrf890ajzh37o82jw"
-    },
-    {
-      "ID": "lf9ys39pr53yzk2gfrg",
-      "Name": "Double sided pallet tape. Doesn't make sense economically for me.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yrf890ajzh37o82jw"
-    },
-    {
-      "ID": "lf9ysn7jbto5pfamwjc",
-      "Name": "I personally use Tekbond TB-HV water based pallet adhesive, (tekmarltd.com) can easily keep 150+ t's bonded without having to re-apply once.. and when the lint builds up I just simply spray water on my pallet and rub clean with a brush. The key to using the adhesive is letting it set first after you apply it, for a good 5-10 minutes.\n",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yrf890ajzh37o82jw"
     },
     {
       "ID": "lf9yvhqpzfd1nrzhk6d",
