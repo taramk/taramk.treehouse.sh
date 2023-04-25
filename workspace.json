@@ -17,7 +17,7 @@
       "lfh1pmsxkasw8fvdhrn": true,
       "lg163w620so1qrncuzfn": false,
       "lgwtxt7xj2dz1ewv07": true,
-      "lgwtxvra4dez9vsbr28": false
+      "lgwtxvra4dez9vsbr28": true
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -4195,11 +4195,23 @@
       "ID": "lgwtxvra4dez9vsbr28",
       "Name": "Cookie Recipe",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lgwtyoyosvutcuh90k"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lgwtxt7xj2dz1ewv07"
+    },
+    {
+      "ID": "lgwtyoyosvutcuh90k",
+      "Name": "8T (1 stick) butter",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lgwtxvra4dez9vsbr28"
     }
   ]
 }
