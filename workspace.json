@@ -229,7 +229,7 @@
     },
     {
       "ID": "leeplfwb1o9xamkyjbp",
-      "Name": "evaluate@[native code].p",
+      "Name": "treehouse.Page",
       "Value": {
         "markdown": "",
         "checked": false
@@ -1751,7 +1751,7 @@
     },
     {
       "ID": "leg68k2epw9gkiai91",
-      "Name": "evaluate@[native code].Checkbox",
+      "Name": "treehouse.Checkbox",
       "Value": {
         "checked": false
       },
@@ -1764,7 +1764,7 @@
     },
     {
       "ID": "leg68m3i17wtuz4igp1",
-      "Name": "evaluate@[native code].Checkbox",
+      "Name": "treehouse.Checkbox",
       "Value": {
         "checked": false
       },
@@ -1777,7 +1777,7 @@
     },
     {
       "ID": "leg68nx5muqlhrtg7zh",
-      "Name": "evaluate@[native code].Checkbox",
+      "Name": "treehouse.Checkbox",
       "Value": {
         "checked": false
       },
@@ -2187,7 +2187,7 @@
     },
     {
       "ID": "lepzwiuib31zmaf2twp",
-      "Name": "evaluate@[native code].Page",
+      "Name": "treehouse.Page",
       "Value": {
         "markdown": ""
       },
@@ -2200,7 +2200,7 @@
     },
     {
       "ID": "lepzx1vpkhhumzuf41",
-      "Name": "evaluate@[native code].Page",
+      "Name": "treehouse.Page",
       "Value": {
         "markdown": ""
       },
@@ -4154,7 +4154,7 @@
     },
     {
       "ID": "lgwtpstuy69f6gfzy1s",
-      "Name": "evaluate@[native code].g",
+      "Name": "treehouse.Checkbox",
       "Value": {
         "checked": false
       },
@@ -4168,7 +4168,7 @@
     },
     {
       "ID": "lgwtq1wbpyaa8cu2rmj",
-      "Name": "evaluate@[native code].g",
+      "Name": "treehouse.Checkbox",
       "Value": {
         "checked": false
       },
