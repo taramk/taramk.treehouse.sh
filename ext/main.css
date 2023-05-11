@@ -1,4 +1,4 @@
-  --black: #E45C1B;
+:root {
   --gray-900: red;
   --gray-800: blue;
   --gray-700: green;
@@ -8,3 +8,4 @@
   --gray-300: #D2D5D5;
   --gray-200: #E8EBEB;
   --gray-100: #F6F7F7;
+}
