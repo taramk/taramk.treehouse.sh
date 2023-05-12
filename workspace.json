@@ -49,7 +49,7 @@
       "lgwtkicvhhfvg5gj6mv": true
     },
     "@quickadd": {
-      "@quickadd": false
+      "@quickadd": true
     },
     "lfr2peq607qzl7po94d6": {
       "lg165qnwu5j8bjldxur": true,
@@ -170,7 +170,9 @@
       "ID": "@quickadd",
       "Name": "@quickadd",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lhkty64dgo2h1oaaa5"
+        ],
         "Components": []
       },
       "Attrs": {}
@@ -4249,6 +4251,16 @@
       },
       "Attrs": {},
       "Parent": "lgwtxvra4dez9vsbr28"
+    },
+    {
+      "ID": "lhkty64dgo2h1oaaa5",
+      "Name": "friday friday",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
     }
   ]
 }
