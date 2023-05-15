@@ -9,10 +9,12 @@
   --gray-200: #B889FF;
   --gray-100: #3F3F3B;
   --white: #2B2C26;
+  --node-icon-color: #878783;
+  --node-icon-accent-color: #72DDF3;
 }
 
 body, textarea, input {
-  font-family: monospace;
+  font-family: ui-monospace;
 }
 
 .topbar-item svg, .search svg {
