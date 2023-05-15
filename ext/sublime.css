@@ -11,6 +11,10 @@
   --white: #2B2C26;
 }
 
+html {
+  font-family: monospace;
+}
+
 .topbar-item svg, .search svg {
   color: #FDA100;
 }
