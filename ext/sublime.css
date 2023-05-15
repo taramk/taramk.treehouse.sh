@@ -10,3 +10,7 @@
   --gray-100: #3F3F3B;
   --white: #2B2C26;
 }
+
+.topbar-item svg {
+  color: #FDA100;
+}
