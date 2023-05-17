@@ -527,7 +527,6 @@
       "Name": "Research",
       "Linked": {
         "Children": [
-          "lhs5klmqfrzibklhktu",
           "leesulocj597exk224",
           "leesvhf1537uh850eae"
         ],
@@ -4293,16 +4292,6 @@
       },
       "Attrs": {},
       "Parent": "lhktyfn22prx01qf3vn"
-    },
-    {
-      "ID": "lhs5klmqfrzibklhktu",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "leesueyrk2tavedfykc"
     }
   ]
 }
