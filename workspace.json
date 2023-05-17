@@ -2280,8 +2280,7 @@
         "Children": [
           "lezxpyrkx1xrv12hek",
           "lezxq1c4qzphhgyhcxg",
-          "lezxqjdpvitxi6v5t4",
-          "lf08ycdvkbyzokjp59"
+          "lezxqjdpvitxi6v5t4"
         ],
         "Components": []
       },
@@ -2361,63 +2360,6 @@
       },
       "Attrs": {},
       "Parent": "lezxpyrkx1xrv12hek"
-    },
-    {
-      "ID": "lf08ycdvkbyzokjp59",
-      "Name": "House prep",
-      "Linked": {
-        "Children": [
-          "lf08ylokwf6m8jgred",
-          "lf08z0lw6auu44lgtvt",
-          "lf08z3r1ggjf0iwf1ul",
-          "lf08z80kgboym8wtvdu"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lezxprxr0qwc06nln86"
-    },
-    {
-      "ID": "lf08ylokwf6m8jgred",
-      "Name": "Vacuum all rooms",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf08ycdvkbyzokjp59"
-    },
-    {
-      "ID": "lf08z0lw6auu44lgtvt",
-      "Name": "",
-      "Linked": {
-        "Children": [
-          "lfr26oxjqut378d6eo"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf08ycdvkbyzokjp59"
-    },
-    {
-      "ID": "lf08z3r1ggjf0iwf1ul",
-      "Name": "Clean shower, toilet",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf08ycdvkbyzokjp59"
-    },
-    {
-      "ID": "lf08z80kgboym8wtvdu",
-      "Name": "Make bed with fresh sheets and pillows",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf08ycdvkbyzokjp59"
     },
     {
       "ID": "lf475l4txmdqo6s6rxm",
@@ -3816,7 +3758,7 @@
     },
     {
       "ID": "lfr22rwslhnu6pjij2",
-      "Name": "",
+      "Name": "House prep",
       "Linked": {
         "Children": [
           "lflc9e5b22k5vl2roka",
@@ -3831,16 +3773,6 @@
       },
       "Attrs": {},
       "Parent": "lezxqjdpvitxi6v5t4"
-    },
-    {
-      "ID": "lfr26oxjqut378d6eo",
-      "Name": "dust all rooms",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf08z0lw6auu44lgtvt"
     },
     {
       "ID": "lfr2peq607qzl7po94d6",
