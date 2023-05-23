@@ -8,7 +8,7 @@
   --color-background-sidebar: var(--gray-800);
 
   --color-icon: var(--white);
-  --color-secondary-icon: var(--gray-400);
+  --color-icon-secondary: var(--gray-400);
   
   --color-nav-label: var(--white);
 
