@@ -25,9 +25,9 @@
 
   --color-highlight: var(--sublime-pink);
 
-  --color-node-handle: var(--sublime-medium-gray);
-  --color-secondary-node-handle: var(--sublime-orange);
+  --color-node-handle: var(--sublime-white);
+  --color-secondary-node-handle: var(--sublime-purple);
 
   --color-outline: var(--sublime-orange);
-  --color-secondary-outline: var(--sublime-pink);
+  --color-secondary-outline: var(--sublime-purple);
 }
