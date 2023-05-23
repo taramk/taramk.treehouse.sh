@@ -15,19 +15,22 @@
   --color-primary: var(--sublime-purple);
 
   --color-background: var(--sublime-black);
-  --color-sidebar-background: var(--sublime-dark-gray);
+  --color-background-sidebar: var(--sublime-dark-gray);
 
-  --color-secondary-icon: var(--sublime-blue);
+  --color-icon: var(--sublime-pink);
+  --color-icon-secondary: var(--sublime-blue);
+  
+  --color-nav-label: var(--sublime-purple);
 
   --color-text: var(--white);
-  --color-placeholder-text: var(--sublime-lime);
-  --color-secondary-text: var(--sublime-yellow);
+  --color-text-placeholder: var(--sublime-lime);
+  --color-text-secondary: var(--sublime-yellow);
 
   --color-highlight: var(--sublime-pink);
 
   --color-node-handle: var(--sublime-white);
-  --color-secondary-node-handle: var(--sublime-purple);
+  --color-node-handle-secondary: var(--sublime-purple);
 
   --color-outline: var(--sublime-orange);
-  --color-secondary-outline: var(--sublime-purple);
+  --color-outline-secondary: var(--sublime-purple);
 }
