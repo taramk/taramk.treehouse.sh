@@ -91,7 +91,8 @@
       "li3gkk3ckpgkdzzuwjc": false,
       "li3glk2myynvas6ykb": false,
       "li3gm9248vpd8rvwx83": false,
-      "li3gmpyboq3i9ovyldq": false
+      "li3gmpyboq3i9ovyldq": false,
+      "li3gocw1489oc5m0scb": false
     }
   },
   "nodes": [
@@ -4052,12 +4053,14 @@
     },
     {
       "ID": "li3giuwjri57d4ep19",
-      "Name": "Test table",
+      "Name": "Fictional Disneyland food",
       "Linked": {
         "Children": [
           "li3gkk3ckpgkdzzuwjc",
           "li3glk2myynvas6ykb",
           "li3gmpyboq3i9ovyldq",
+          "li3gocw1489oc5m0scb",
+          "li3goqpw9b32bs5hi45",
           "li3gnys62vth1yyy1aj"
         ],
         "Components": [],
@@ -4266,6 +4269,82 @@
     },
     {
       "ID": "li3gnys62vth1yyy1aj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3giuwjri57d4ep19"
+    },
+    {
+      "ID": "li3gocw1489oc5m0scb",
+      "Name": "popcorn",
+      "Linked": {
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "li3goiwb80cc2g5v6sf",
+          "li3goo5oavy4z23fv44"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3giuwjri57d4ep19"
+    },
+    {
+      "ID": "li3goiwb80cc2g5v6sf",
+      "Name": "type",
+      "Value": "savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3goiwbx63ud3n077"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gocw1489oc5m0scb",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3goiwbx63ud3n077",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3goiwb80cc2g5v6sf",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3goo5oavy4z23fv44",
+      "Name": "location",
+      "Value": "popcorn cart",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3goo5o7hv05fn3gto"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gocw1489oc5m0scb",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3goo5o7hv05fn3gto",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3goo5oavy4z23fv44",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3goqpw9b32bs5hi45",
       "Name": "",
       "Linked": {
         "Children": [],
