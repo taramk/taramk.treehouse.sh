@@ -86,7 +86,8 @@
       "lhktyk71qi8d7nyeuta": true,
       "lhkuig47vt9foa24do": true,
       "lhkuihm9022zzqo32ig7": true
-    }
+    },
+    "li3giuwjri57d4ep19": {}
   },
   "nodes": [
     {
@@ -4048,11 +4049,52 @@
       "ID": "li3giuwjri57d4ep19",
       "Name": "Test table",
       "Linked": {
+        "Children": [
+          "li3gkk3ckpgkdzzuwjc"
+        ],
+        "Components": [],
+        "Fields": [
+          "li3gks93u7oxx51v61a"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "li3gkk3ckpgkdzzuwjc",
+      "Name": "smores churro",
+      "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "li3giuwjri57d4ep19"
+    },
+    {
+      "ID": "li3gks93u7oxx51v61a",
+      "Name": "type",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gks94j63k7pljbk7"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3giuwjri57d4ep19",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gks94j63k7pljbk7",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gks93u7oxx51v61a",
+      "Rel": "Components"
     }
   ]
 }
