@@ -88,7 +88,7 @@
       "lhkuihm9022zzqo32ig7": true
     },
     "li3giuwjri57d4ep19": {
-      "li3gkk3ckpgkdzzuwjc": true
+      "li3gkk3ckpgkdzzuwjc": false
     }
   },
   "nodes": [
@@ -4052,7 +4052,8 @@
       "Name": "Test table",
       "Linked": {
         "Children": [
-          "li3gkk3ckpgkdzzuwjc"
+          "li3gkk3ckpgkdzzuwjc",
+          "li3glk2myynvas6ykb"
         ],
         "Components": [],
         "Fields": []
@@ -4064,12 +4065,11 @@
       "ID": "li3gkk3ckpgkdzzuwjc",
       "Name": "smores churro",
       "Linked": {
-        "Children": [
-          "li3gl86w72ayetmc1sx"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "li3gl61zeosveztmzj"
+          "li3gl61zeosveztmzj",
+          "li3glginw1vh5u7rap9"
         ]
       },
       "Attrs": {},
@@ -4102,14 +4102,40 @@
       "Rel": "Components"
     },
     {
-      "ID": "li3gl86w72ayetmc1sx",
+      "ID": "li3glginw1vh5u7rap9",
       "Name": "location",
+      "Value": "churro cart",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3glginy5mkfj4qaqi"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gkk3ckpgkdzzuwjc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3glginy5mkfj4qaqi",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "li3gkk3ckpgkdzzuwjc"
+      "Parent": "li3glginw1vh5u7rap9",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3glk2myynvas6ykb",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3giuwjri57d4ep19"
     }
   ]
 }
