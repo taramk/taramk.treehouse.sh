@@ -93,7 +93,7 @@
       "li3gm9248vpd8rvwx83": false,
       "li3gmpyboq3i9ovyldq": false,
       "li3gocw1489oc5m0scb": false,
-      "li3goqpw9b32bs5hi45": true
+      "li3goqpw9b32bs5hi45": false
     }
   },
   "nodes": [
@@ -4387,7 +4387,7 @@
     {
       "ID": "li3gpaynb867xj2i4s6",
       "Name": "location",
-      "Value": "",
+      "Value": "walt's cafe",
       "Linked": {
         "Children": [],
         "Components": [
