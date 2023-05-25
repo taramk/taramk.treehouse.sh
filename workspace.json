@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "lastopen": "leest6yog9hid2tza9",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "lezxprxr0qwc06nln86": true,
+      "lezxprxr0qwc06nln86": false,
       "lezxqjdpvitxi6v5t4": true,
       "lezxpyrkx1xrv12hek": true,
       "lezxr1wd6ldfhf6lzw7": false,
@@ -14,7 +14,7 @@
       "lg163w620so1qrncuzfn": false,
       "lgwtxt7xj2dz1ewv07": false,
       "lgwtxvra4dez9vsbr28": true,
-      "leest6yog9hid2tza9": true,
+      "leest6yog9hid2tza9": false,
       "leesueyrk2tavedfykc": true,
       "lfr22rwslhnu6pjij2": true,
       "le37qibhsmc73hj4gsp": false
@@ -36,14 +36,14 @@
       "lehew1oiwf45w9rbh3": false
     },
     "leest6yog9hid2tza9": {
-      "leestd7mxqbe7ki8cd": true,
+      "leestd7mxqbe7ki8cd": false,
       "leestmbs2mpam6brjhk": true,
       "leevfcgpeznnw2g9rb": true,
       "leevfzvejdxf9b9oa5c": true,
       "leet25vjylq6n3y52k": false,
       "leet3j85g7rxpgyfxji": true,
       "leet4b5b9hjr9kjkgm4": true,
-      "leesu336718k7ir80dl": true
+      "leesu336718k7ir80dl": false
     },
     "lf9ymy6tk2uygy4xx4": {
       "lf9yoiiq6tuqj7l4zda": true,
@@ -2262,7 +2262,7 @@
           "leetcs1d3qtqctzx9fx",
           "lergsnypsig99uy8p3q",
           "lezxprxr0qwc06nln86",
-          "lf9ymy6tk2uygy4xx4",
+          "li3gioa7x4jgve4tup",
           "lfh1pcxgtmdyx6ptmb",
           "lfr2peq607qzl7po94d6",
           "lgwtxt7xj2dz1ewv07"
@@ -3259,203 +3259,6 @@
       "Parent": "lergsnypsig99uy8p3q"
     },
     {
-      "ID": "lf9ymy6tk2uygy4xx4",
-      "Name": "Screenprinting",
-      "Linked": {
-        "Children": [
-          "lf9yoiiq6tuqj7l4zda",
-          "lf9yvhqpzfd1nrzhk6d",
-          "lfa0k1tor0g4c4xnteo",
-          "lgwtkicvhhfvg5gj6mv"
-        ],
-        "Components": [
-          "lgwtpstuy69f6gfzy1s"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "@workspace"
-    },
-    {
-      "ID": "lf9yoiiq6tuqj7l4zda",
-      "Name": "Discharge printing\n",
-      "Linked": {
-        "Children": [
-          "lf9yolfew22bxziqgic",
-          "lf9z1ftni71itogpna"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4"
-    },
-    {
-      "ID": "lf9yolfew22bxziqgic",
-      "Name": "You can do wet-on-wet with multiple colors",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yoiiq6tuqj7l4zda"
-    },
-    {
-      "ID": "lf9yvhqpzfd1nrzhk6d",
-      "Name": "Water-based printing",
-      "Linked": {
-        "Children": [
-          "lf9yvjy4cz2k57kwmm",
-          "lf9yz3bspht47zskiz",
-          "lf9z5v0xu5duvi4y0og",
-          "lfa08er5gvy96faltk6",
-          "lfa0atyytexd00pzn4",
-          "lfa0g04i5yi9r2kdmmi",
-          "lfa0ge188aoe74igjeo",
-          "lfa3z4wha74htvswwhc",
-          "lfa41undeb8w684h327",
-          "lfa44a9j98cxpbtywno"
-        ],
-        "Components": [
-          "lgwtq1wbpyaa8cu2rmj"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4"
-    },
-    {
-      "ID": "lf9yvjy4cz2k57kwmm",
-      "Name": "If you just print harder and more with water base (without flashing in between) you can push the ink all the way though and out the back of the fabric, and still have a crappy looking print on the front side.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lf9yz3bspht47zskiz",
-      "Name": "\"Speedball Acrylic Fabric Ink\"...something like that, the little white pigments that are in the ink are \"thicker\" or \"bigger\" so when you go to push them through the mesh, they clog up in spots, especially with higher mesh screens (for example, in the image posted by the OP, I bet that mesh is 155-230) if the mesh the OP used was 110 it would be a little, if not completely, uniform. but that's all speculation..",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "view": "list"
-      },
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lf9z1ftni71itogpna",
-      "Name": "if you're using a low tech press and want to stick with waterbase inks for easy cleanup and also want a thick bright white that will lay down opaque on dark fabric, I like permaset supercover white. another fun thing to do is print your design with softscrub with bleach and you'll get a discharge effect. rinse your screen right away after using softscrub or it will break down your stencil. Rinse the shirt in a white vinegar solution before washing to stop the bleaching action before you wash.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yoiiq6tuqj7l4zda"
-    },
-    {
-      "ID": "lf9z5v0xu5duvi4y0og",
-      "Name": "My results increased dramaticallllly after ditching Speedball inks. These days I really only print with Permaset",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa08er5gvy96faltk6",
-      "Name": "Use a higher count mesh to get a thinner, less \"caked-on\" feel",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa0atyytexd00pzn4",
-      "Name": "The key, in my opinion, is to have a good size reservoir of ink on your screen to do your flood stroke. The thicker the ink layer on your flood the less chance you have of the ink locking in your screen. \nIf it does end up locking up in your screen keep a spray bottle of water handy to spray the screen on press and with a paper towel work at the clog until it disappears... run two or three test prints on pellons or scrap shirts, and then keep going with the run. ",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa0g04i5yi9r2kdmmi",
-      "Name": "You need to DRIVE wb ink INTO the shirt. Not lay it on top like a plastisol. So..press harder.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa0ge188aoe74igjeo",
-      "Name": "If the ink is sticking to your ink knife - then it IS going to stick to your squeegee which is going to make flooding much more difficul",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa0k1tor0g4c4xnteo",
-      "Name": "Screen emulsion",
-      "Linked": {
-        "Children": [
-          "lfa27ea8eh5zhnllpf"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4"
-    },
-    {
-      "ID": "lfa27ea8eh5zhnllpf",
-      "Name": "uv-blocking black ink in printer",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lfa0k1tor0g4c4xnteo"
-    },
-    {
-      "ID": "lfa3z4wha74htvswwhc",
-      "Name": "Yes i use that green galaxy white. It's great. Behaves better than plastisol (thinner but still opaque). Just keep it flooded and mist occasionally. You might consider a bottle of warp drive or whatever it is - it lowers the cure temp. You just add a few drips into the batch of ink you're about to use not the full container of ink.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa41undeb8w684h327",
-      "Name": "wet your screen with a mister bottle before your first flood. Wipe it in with a cloth, it helps a ton. Keep that spray bottle handy, because misting your screen once in a while during your print run (on top of the flood, if that makes sense) helps keep it wet and avoids screen clogging. At least on a manual press, it’s helped me a ton.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
-      "ID": "lfa44a9j98cxpbtywno",
-      "Name": "Water base is not like Plastisol, where you must get the ink up to a very specific temp and you're done. With water base, you must get the water out of the ink, which takes a combination of time and heat and/or airflow, with more heat not being a direct replacement for more time, but there is a relationship.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d"
-    },
-    {
       "ID": "lfcstmjeh6t8nx08kxj",
       "Name": "Field \"Celebration Roast\"",
       "Linked": {
@@ -3987,67 +3790,6 @@
       "Parent": "lfr2peq607qzl7po94d6"
     },
     {
-      "ID": "lgwtkicvhhfvg5gj6mv",
-      "Name": "Testing",
-      "Linked": {
-        "Children": [
-          "lgwtkql5b6lacwszec4",
-          "lgwtkr3p6gv1twuz5fh"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4"
-    },
-    {
-      "ID": "lgwtkql5b6lacwszec4",
-      "Name": "two",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lgwtkicvhhfvg5gj6mv"
-    },
-    {
-      "ID": "lgwtkr3p6gv1twuz5fh",
-      "Name": "three",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lgwtkicvhhfvg5gj6mv"
-    },
-    {
-      "ID": "lgwtpstuy69f6gfzy1s",
-      "Name": "treehouse.Checkbox",
-      "Value": {
-        "checked": false
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9ymy6tk2uygy4xx4",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lgwtq1wbpyaa8cu2rmj",
-      "Name": "treehouse.Checkbox",
-      "Value": {
-        "checked": false
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lf9yvhqpzfd1nrzhk6d",
-      "Rel": "Components"
-    },
-    {
       "ID": "lgwtxt7xj2dz1ewv07",
       "Name": "Recipes",
       "Linked": {
@@ -4289,6 +4031,16 @@
       },
       "Attrs": {},
       "Parent": "lhktyfn22prx01qf3vn"
+    },
+    {
+      "ID": "li3gioa7x4jgve4tup",
+      "Name": "Screenprinting",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ]
 }
