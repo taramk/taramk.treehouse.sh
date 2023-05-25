@@ -4065,16 +4065,45 @@
       "Name": "smores churro",
       "Linked": {
         "Children": [
-          "li3gl0ign39ip8thd2b"
+          "li3gl86w72ayetmc1sx"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "li3gl61zeosveztmzj"
+        ]
       },
       "Attrs": {},
       "Parent": "li3giuwjri57d4ep19"
     },
     {
-      "ID": "li3gl0ign39ip8thd2b",
-      "Name": "",
+      "ID": "li3gl61zeosveztmzj",
+      "Name": "type",
+      "Value": "sweet",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gl61zfcw5t8calnt"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gkk3ckpgkdzzuwjc",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gl61zfcw5t8calnt",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gl61zeosveztmzj",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3gl86w72ayetmc1sx",
+      "Name": "location",
       "Linked": {
         "Children": [],
         "Components": []
