@@ -87,7 +87,9 @@
       "lhkuig47vt9foa24do": true,
       "lhkuihm9022zzqo32ig7": true
     },
-    "li3giuwjri57d4ep19": {}
+    "li3giuwjri57d4ep19": {
+      "li3gkk3ckpgkdzzuwjc": true
+    }
   },
   "nodes": [
     {
@@ -4053,9 +4055,7 @@
           "li3gkk3ckpgkdzzuwjc"
         ],
         "Components": [],
-        "Fields": [
-          "li3gks93u7oxx51v61a"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "@workspace"
@@ -4064,37 +4064,23 @@
       "ID": "li3gkk3ckpgkdzzuwjc",
       "Name": "smores churro",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "li3gl0ign39ip8thd2b"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "li3giuwjri57d4ep19"
     },
     {
-      "ID": "li3gks93u7oxx51v61a",
-      "Name": "type",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "li3gks94j63k7pljbk7"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "li3giuwjri57d4ep19",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "li3gks94j63k7pljbk7",
-      "Name": "treehouse.TextField",
-      "Value": {},
+      "ID": "li3gl0ign39ip8thd2b",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "li3gks93u7oxx51v61a",
-      "Rel": "Components"
+      "Parent": "li3gkk3ckpgkdzzuwjc"
     }
   ]
 }
