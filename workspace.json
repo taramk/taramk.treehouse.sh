@@ -18,7 +18,7 @@
       "leesueyrk2tavedfykc": true,
       "lfr22rwslhnu6pjij2": true,
       "le37qibhsmc73hj4gsp": false,
-      "li3giuwjri57d4ep19": false
+      "li3giuwjri57d4ep19": true
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -4067,7 +4067,9 @@
         "Components": [],
         "Fields": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "@workspace"
     },
     {
