@@ -89,7 +89,8 @@
     },
     "li3giuwjri57d4ep19": {
       "li3gkk3ckpgkdzzuwjc": false,
-      "li3glk2myynvas6ykb": true
+      "li3glk2myynvas6ykb": true,
+      "li3gm9248vpd8rvwx83": false
     }
   },
   "nodes": [
@@ -4133,15 +4134,44 @@
       "Name": "daisy's pizza",
       "Linked": {
         "Children": [
-          "li3gluj9utd7zcva92t"
+          "li3gmc8sgj9mralmbsi"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "li3gm9248vpd8rvwx83"
+        ]
       },
       "Attrs": {},
       "Parent": "li3giuwjri57d4ep19"
     },
     {
-      "ID": "li3gluj9utd7zcva92t",
+      "ID": "li3gm9248vpd8rvwx83",
+      "Name": "type",
+      "Value": "savory",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gm924ql9vjhcix5h"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3glk2myynvas6ykb",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gm924ql9vjhcix5h",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gm9248vpd8rvwx83",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3gmc8sgj9mralmbsi",
       "Name": "",
       "Linked": {
         "Children": [],
