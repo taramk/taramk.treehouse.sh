@@ -89,7 +89,7 @@
     },
     "li3giuwjri57d4ep19": {
       "li3gkk3ckpgkdzzuwjc": false,
-      "li3glk2myynvas6ykb": true,
+      "li3glk2myynvas6ykb": false,
       "li3gm9248vpd8rvwx83": false
     }
   },
@@ -4055,7 +4055,8 @@
       "Linked": {
         "Children": [
           "li3gkk3ckpgkdzzuwjc",
-          "li3glk2myynvas6ykb"
+          "li3glk2myynvas6ykb",
+          "li3gmpyboq3i9ovyldq"
         ],
         "Components": [],
         "Fields": []
@@ -4133,12 +4134,11 @@
       "ID": "li3glk2myynvas6ykb",
       "Name": "daisy's pizza",
       "Linked": {
-        "Children": [
-          "li3gmc8sgj9mralmbsi"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "li3gm9248vpd8rvwx83"
+          "li3gm9248vpd8rvwx83",
+          "li3gmlrapkc5yrfwdjk"
         ]
       },
       "Attrs": {},
@@ -4171,14 +4171,40 @@
       "Rel": "Components"
     },
     {
-      "ID": "li3gmc8sgj9mralmbsi",
+      "ID": "li3gmlrapkc5yrfwdjk",
+      "Name": "location",
+      "Value": "daisy's cafe",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gmlra843ovqe6p16"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3glk2myynvas6ykb",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gmlra843ovqe6p16",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gmlrapkc5yrfwdjk",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3gmpyboq3i9ovyldq",
       "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "li3glk2myynvas6ykb"
+      "Parent": "li3giuwjri57d4ep19"
     }
   ]
 }
