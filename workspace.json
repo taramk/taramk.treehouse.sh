@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "li3giuwjri57d4ep19",
   "expanded": {
     "@workspace": {
       "lezxprxr0qwc06nln86": false,
@@ -17,7 +17,8 @@
       "leest6yog9hid2tza9": false,
       "leesueyrk2tavedfykc": true,
       "lfr22rwslhnu6pjij2": true,
-      "le37qibhsmc73hj4gsp": false
+      "le37qibhsmc73hj4gsp": false,
+      "li3giuwjri57d4ep19": false
     },
     "lezxprxr0qwc06nln86": {
       "lezxqjdpvitxi6v5t4": true,
@@ -2265,7 +2266,8 @@
           "li3gioa7x4jgve4tup",
           "lfh1pcxgtmdyx6ptmb",
           "lfr2peq607qzl7po94d6",
-          "lgwtxt7xj2dz1ewv07"
+          "lgwtxt7xj2dz1ewv07",
+          "li3giuwjri57d4ep19"
         ],
         "Components": []
       },
@@ -4035,6 +4037,16 @@
     {
       "ID": "li3gioa7x4jgve4tup",
       "Name": "Screenprinting",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "li3giuwjri57d4ep19",
+      "Name": "Test table",
       "Linked": {
         "Children": [],
         "Components": []
