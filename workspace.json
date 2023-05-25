@@ -91,7 +91,7 @@
       "li3gkk3ckpgkdzzuwjc": false,
       "li3glk2myynvas6ykb": false,
       "li3gm9248vpd8rvwx83": false,
-      "li3gmpyboq3i9ovyldq": true
+      "li3gmpyboq3i9ovyldq": false
     }
   },
   "nodes": [
@@ -4057,7 +4057,8 @@
         "Children": [
           "li3gkk3ckpgkdzzuwjc",
           "li3glk2myynvas6ykb",
-          "li3gmpyboq3i9ovyldq"
+          "li3gmpyboq3i9ovyldq",
+          "li3gnys62vth1yyy1aj"
         ],
         "Components": [],
         "Fields": []
@@ -4201,23 +4202,77 @@
       "ID": "li3gmpyboq3i9ovyldq",
       "Name": "chai iced coffee",
       "Linked": {
-        "Children": [
-          "li3gmz8ms7bulv9n2no"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "li3gno2uyjzl798uunn",
+          "li3gnujucoq6crq7x57"
+        ]
       },
       "Attrs": {},
       "Parent": "li3giuwjri57d4ep19"
     },
     {
-      "ID": "li3gmz8ms7bulv9n2no",
+      "ID": "li3gno2uyjzl798uunn",
+      "Name": "type",
+      "Value": "sweet",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gno2uckp7p4ziiwn"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gmpyboq3i9ovyldq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gno2uckp7p4ziiwn",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gno2uyjzl798uunn",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3gnujucoq6crq7x57",
+      "Name": "location",
+      "Value": "main street cafe",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li3gnuju53vhg2wccc4"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "li3gmpyboq3i9ovyldq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li3gnuju53vhg2wccc4",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li3gnujucoq6crq7x57",
+      "Rel": "Components"
+    },
+    {
+      "ID": "li3gnys62vth1yyy1aj",
       "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "li3gmpyboq3i9ovyldq"
+      "Parent": "li3giuwjri57d4ep19"
     }
   ]
 }
