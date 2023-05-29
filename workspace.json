@@ -2034,7 +2034,9 @@
       "ID": "lhs5mglb7r5ugewh7qr",
       "Name": "test",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "li9elg0d5mmcj1pvp9t"
+        ],
         "Components": [],
         "Fields": [
           "li9el9bvr73r2xchdi"
@@ -2346,6 +2348,16 @@
       "Attrs": {},
       "Parent": "li9el9bvr73r2xchdi",
       "Rel": "Components"
+    },
+    {
+      "ID": "li9elg0d5mmcj1pvp9t",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr"
     }
   ]
 }
