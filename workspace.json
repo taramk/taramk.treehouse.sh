@@ -2034,23 +2034,14 @@
       "ID": "lhs5mglb7r5ugewh7qr",
       "Name": "test",
       "Linked": {
-        "Children": [
-          "lhs5mhy2hdo27ewd7j"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "li9el9bvr73r2xchdi"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lhs5mhy2hdo27ewd7j",
-      "Name": "test",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lhs5mglb7r5ugewh7qr"
     },
     {
       "ID": "lhutc510rp83191r4l",
@@ -2329,6 +2320,32 @@
         "refTo": "lhqu7dmpp9lcs8klsg"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "li9el9bvr73r2xchdi",
+      "Name": "test",
+      "Value": "test value",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "li9el9bv52z1fd2g0fm"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhs5mglb7r5ugewh7qr",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "li9el9bv52z1fd2g0fm",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "li9el9bvr73r2xchdi",
+      "Rel": "Components"
     }
   ]
 }
