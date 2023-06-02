@@ -25,7 +25,8 @@
       "lhs0md9mrhm6lzh8jzh": false,
       "lhs5mglb7r5ugewh7qr": true,
       "li9el9bvr73r2xchdi": false,
-      "lhqugfzz5ux6ybz4ei4": true
+      "lhqugfzz5ux6ybz4ei4": true,
+      "lhqui9m8n85frc2odm": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -1888,7 +1889,9 @@
       "ID": "lhqui9m8n85frc2odm",
       "Name": "High Republic Trilogy",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lierspsk6j086xu6ntp"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -2166,6 +2169,196 @@
       "Attrs": {},
       "Parent": "li9el9bvr73r2xchdi",
       "Rel": "Components"
+    },
+    {
+      "ID": "lierspsk6j086xu6ntp",
+      "Name": "high republic child node",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqui9m8n85frc2odm"
+    },
+    {
+      "ID": "liersqro12ymb4mf6br",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgpqbdb74479bcyx44"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqron9rwy1xicxk",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq29i8yeojytlis8"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqrpn12sn97b0bj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq4ex8uhuu9pf036h"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqrpbkwzwet5suu",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgr0ixt44a6vyf0tpk"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqrp1irnf7u5swq",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgr225npnbcvs2hsdd"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqrqqd401t415xe",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhjos3uyag1mzyt477"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersqrqcxst3akoj9c",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqu7dmpp9lcs8klsg"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfk4ej4wult2iv",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgpqbdb74479bcyx44"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfktjcvu1gvgs9",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgprwnm7e0bxentrrn"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfl46863uxtg56",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq29i8yeojytlis8"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfl6f5tah1ed5e",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgq4ex8uhuu9pf036h"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfl31o4mpzgy1s",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgqgiczwh9b64ys4aq"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfmunazz898qx",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgr0ixt44a6vyf0tpk"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfmdo9n3zoiyz",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhgr225npnbcvs2hsdd"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "liersvfm4fsigzf7rab",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqu7dmpp9lcs8klsg"
+      },
+      "Parent": "@tmp"
     }
   ]
 }
