@@ -140,7 +140,8 @@
     },
     "lhs0lx2fy9fhqqcpbl9": {
       "lhqugck2ppqhg5lia7": true,
-      "lhqugfzz5ux6ybz4ei4": true
+      "lhqugfzz5ux6ybz4ei4": true,
+      "lhqugl1zs7srlcrcvo": true
     }
   },
   "nodes": [
@@ -1844,7 +1845,10 @@
       "Name": "Go-to rec for beginners: Lost Stars",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "livz0qu96suu3oagm3d"
+        ]
       },
       "Attrs": {},
       "Parent": "lhqugfzz5ux6ybz4ei4"
@@ -6739,6 +6743,32 @@
         "refTo": "lic14ps61umn5elwxyt"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "livz0qu96suu3oagm3d",
+      "Name": "Author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "livz0qu9ufs6ji6kjje"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqugl1zs7srlcrcvo",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "livz0qu9ufs6ji6kjje",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "livz0qu96suu3oagm3d",
+      "Rel": "Components"
     }
   ]
 }
