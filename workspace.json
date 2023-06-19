@@ -37,7 +37,9 @@
       "liezgk56c5fwp2rfp7g": true,
       "liezgk57ddqpsafmpak": true,
       "lic2ngah1pgzx436mws": true,
-      "lic7bzqv4u7w34zbs7": true
+      "lic7bzqv4u7w34zbs7": true,
+      "lic2nloaeeazm01jq8": false,
+      "lic2nrhp15lt3bteaup": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": true,
@@ -4904,37 +4906,11 @@
         "Components": [],
         "Fields": [
           "lic2nrhp15lt3bteaup",
-          "lic2nloaeeazm01jq8"
+          "lj33h88zqb2qptq2w1"
         ]
       },
       "Attrs": {},
       "Parent": "lhs5mglb7r5ugewh7qr"
-    },
-    {
-      "ID": "lic2nloaeeazm01jq8",
-      "Name": "type",
-      "Value": "sharp",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lic2nloa98ametf9nks"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lic2ngah1pgzx436mws",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lic2nloa98ametf9nks",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lic2nloaeeazm01jq8",
-      "Rel": "Components"
     },
     {
       "ID": "lic2nrhp15lt3bteaup",
@@ -6808,6 +6784,32 @@
         "refTo": "lic14pvqdcpd3waxk6h"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lj33h88zqb2qptq2w1",
+      "Name": "type",
+      "Value": "sharp",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lj33h88zxcg3ivxcqhi"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lic2ngah1pgzx436mws",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lj33h88zxcg3ivxcqhi",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lj33h88zqb2qptq2w1",
+      "Rel": "Components"
     }
   ],
   "settings": {
