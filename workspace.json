@@ -1888,10 +1888,12 @@
       "Name": "Travel",
       "Linked": {
         "Children": [
-          "lj33kp0o7swbnxrj9q5",
           "lhgpj9lhufzcr161fvh"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lj33ksn2gm5x9jwrm1n"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
@@ -6826,14 +6828,30 @@
       "Parent": "@workspace"
     },
     {
-      "ID": "lj33kp0o7swbnxrj9q5",
-      "Name": "",
+      "ID": "lj33ksn2gm5x9jwrm1n",
+      "Name": "hello",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lj33ksn2o4q4c1htuli"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhs0lj299konwvjcjz5",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lj33ksn2o4q4c1htuli",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lhs0lj299konwvjcjz5"
+      "Parent": "lj33ksn2gm5x9jwrm1n",
+      "Rel": "Components"
     }
   ],
   "settings": {
