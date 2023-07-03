@@ -1844,7 +1844,7 @@
     },
     {
       "ID": "lhquju0xr16iykhtlfd",
-      "Name": "Dark Disciple - Christy Golden",
+      "Name": "Dark Disciple",
       "Linked": {
         "Children": [],
         "Components": [],
@@ -6849,7 +6849,7 @@
     {
       "ID": "ljn5wcqui68nj35uw6d",
       "Name": "author",
-      "Value": "",
+      "Value": "Christy Golden",
       "Linked": {
         "Children": [],
         "Components": [
