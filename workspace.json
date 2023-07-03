@@ -1791,9 +1791,7 @@
           "lhqumix27ja39ms94rf"
         ],
         "Components": [],
-        "Fields": [
-          "livyi9boig08v32szxs"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lhqugck2ppqhg5lia7"
@@ -5724,32 +5722,6 @@
       },
       "Attrs": {},
       "Parent": "liezgk57ddqpsafmpak"
-    },
-    {
-      "ID": "livyi9boig08v32szxs",
-      "Name": "Author",
-      "Value": "test",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "livyi9boghq2jugewbu"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lhqugfzz5ux6ybz4ei4",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "livyi9boghq2jugewbu",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "livyi9boig08v32szxs",
-      "Rel": "Components"
     },
     {
       "ID": "livyjb8dirv5z306wht",
