@@ -1776,7 +1776,8 @@
       "Name": "Books",
       "Linked": {
         "Children": [
-          "lhqugfzz5ux6ybz4ei4"
+          "lhqugfzz5ux6ybz4ei4",
+          "lk1mro71asebq1dyixv"
         ],
         "Components": []
       },
@@ -5968,7 +5969,33 @@
       "Rel": "Components"
     },
     {
-      "ID": "lk1mpdnt812uxqqhbqn",
+      "ID": "lk1mro71asebq1dyixv",
+      "Name": "Blindsight",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lk1mrrjto45mzu6c76k"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lhqugck2ppqhg5lia7"
+    },
+    {
+      "ID": "lk1mrrjto45mzu6c76k",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "book"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1mro71asebq1dyixv",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lk1mrsbsroobb4mdwhj",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -5976,6 +6003,18 @@
       },
       "Attrs": {
         "refTo": "lhqugfzz5ux6ybz4ei4"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lk1mrsbu95qnjy6p1j",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lk1mro71asebq1dyixv"
       },
       "Parent": "@tmp"
     }
