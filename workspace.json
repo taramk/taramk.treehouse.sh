@@ -39,7 +39,8 @@
       "lhutc6fw89fh0z3tijn": false,
       "@workspace": true,
       "lk1moeefrfc4dwcffch": true,
-      "lk1mta2pk31qapijie": true
+      "lk1mta2pk31qapijie": true,
+      "lk1mwpa6l9jy91w6gmq": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -6002,12 +6003,6 @@
       "Linked": {
         "Children": [
           "lk1mwpa6l9jy91w6gmq",
-          "lk1my2f8qd5pnxmmg4",
-          "lk1mx9kyyce5sjrru3c",
-          "lk1mwzuaey0llxmawyu",
-          "lk1mxh2ykc2jjwwbnb8",
-          "lk1mxkyw1tdby2g8squ",
-          "lk1mxwn6zss6ujbqit",
           "lk1mtchi2a23ftu72rs"
         ],
         "Components": []
@@ -6053,7 +6048,14 @@
       "ID": "lk1mwpa6l9jy91w6gmq",
       "Name": "Title: The Power of Human Connection in the Digital Age",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lk1my2f8qd5pnxmmg4",
+          "lk1mx9kyyce5sjrru3c",
+          "lk1mwzuaey0llxmawyu",
+          "lk1mxh2ykc2jjwwbnb8",
+          "lk1mxkyw1tdby2g8squ",
+          "lk1mxwn6zss6ujbqit"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6067,7 +6069,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     },
     {
       "ID": "lk1mx9kyyce5sjrru3c",
@@ -6077,7 +6079,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     },
     {
       "ID": "lk1mxh2ykc2jjwwbnb8",
@@ -6087,7 +6089,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     },
     {
       "ID": "lk1mxkyw1tdby2g8squ",
@@ -6097,7 +6099,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     },
     {
       "ID": "lk1mxwn6zss6ujbqit",
@@ -6107,7 +6109,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     },
     {
       "ID": "lk1my2f8qd5pnxmmg4",
@@ -6117,7 +6119,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
+      "Parent": "lk1mwpa6l9jy91w6gmq"
     }
   ],
   "settings": {
