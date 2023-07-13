@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "lk1n18z2d5acnh0582a",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -6135,9 +6135,13 @@
           "lk1n1zms2cm2jxbdd58",
           "lk1n22ab8kyvl0c98lr"
         ],
-        "Components": []
+        "Components": [
+          "lk1n2wierveuyi0zvec"
+        ]
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "document"
+      },
       "Parent": "lk1mta2pk31qapijie"
     },
     {
@@ -6199,6 +6203,18 @@
       },
       "Attrs": {},
       "Parent": "lk1n18z2d5acnh0582a"
+    },
+    {
+      "ID": "lk1n2wierveuyi0zvec",
+      "Name": "treehouse.Document",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1n18z2d5acnh0582a",
+      "Rel": "Components"
     }
   ],
   "settings": {
