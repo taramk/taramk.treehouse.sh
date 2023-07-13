@@ -36,7 +36,8 @@
       "lic7bzqv4u7w34zbs7": true,
       "lic2nrhp15lt3bteaup": false,
       "lic2stpit57m1077kmg": true,
-      "lhutc6fw89fh0z3tijn": false
+      "lhutc6fw89fh0z3tijn": false,
+      "@workspace": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -180,7 +181,8 @@
           "lhs0lj299konwvjcjz5",
           "lhs0m96r961vkb9687u",
           "lhs0md9mrhm6lzh8jzh",
-          "lhs0lx2fy9fhqqcpbl9"
+          "lhs0lx2fy9fhqqcpbl9",
+          "lk1moeefrfc4dwcffch"
         ],
         "Components": []
       },
@@ -5921,6 +5923,16 @@
       "Attrs": {},
       "Parent": "ljn5wcqui68nj35uw6d",
       "Rel": "Components"
+    },
+    {
+      "ID": "lk1moeefrfc4dwcffch",
+      "Name": "test",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ],
   "settings": {
