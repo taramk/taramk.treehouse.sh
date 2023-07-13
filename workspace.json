@@ -1795,7 +1795,9 @@
           "lhquju0xr16iykhtlfd",
           "lhqumix27ja39ms94rf"
         ],
-        "Components": [],
+        "Components": [
+          "lk1mpcvtm1dbu9w241p"
+        ],
         "Fields": []
       },
       "Attrs": {},
@@ -5950,6 +5952,32 @@
       "Attrs": {},
       "Parent": "lk1moeefrfc4dwcffch",
       "Rel": "Components"
+    },
+    {
+      "ID": "lk1mpcvtm1dbu9w241p",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "book"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lhqugfzz5ux6ybz4ei4",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lk1mpdnt812uxqqhbqn",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqugfzz5ux6ybz4ei4"
+      },
+      "Parent": "@tmp"
     }
   ],
   "settings": {
