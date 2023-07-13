@@ -37,7 +37,8 @@
       "lic2nrhp15lt3bteaup": false,
       "lic2stpit57m1077kmg": true,
       "lhutc6fw89fh0z3tijn": false,
-      "@workspace": true
+      "@workspace": true,
+      "lk1moeefrfc4dwcffch": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -5929,10 +5930,26 @@
       "Name": "test",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lk1molvn57hiahi3o73"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lk1molvn57hiahi3o73",
+      "Name": "treehouse.SmartNode",
+      "Value": {
+        "query": ""
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1moeefrfc4dwcffch",
+      "Rel": "Components"
     }
   ],
   "settings": {
