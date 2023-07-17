@@ -6023,7 +6023,9 @@
           "lk1n18z2d5acnh0582a",
           "lk1n93mhj5z5u22haco"
         ],
-        "Components": []
+        "Components": [
+          "lk76cdxpbwqibjhe6cg"
+        ]
       },
       "Attrs": {},
       "Parent": "@workspace"
@@ -6415,6 +6417,20 @@
       },
       "Attrs": {},
       "Parent": "lk1n18z2d5acnh0582a",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lk76cdxpbwqibjhe6cg",
+      "Name": "treehouse.Page",
+      "Value": {
+        "markdown": "what the hekck is add page?"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1mta2pk31qapijie",
       "Rel": "Components"
     }
   ],
