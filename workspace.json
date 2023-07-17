@@ -6111,6 +6111,7 @@
       "Name": "The Power of Empathy: Building Bridges in a Divided World",
       "Linked": {
         "Children": [
+          "lk77f6bsrvs7jqmhg8",
           "lk1n1kzw2o45rs87cvs",
           "lk77ccugx774t27v0x",
           "lk1n1x2ow4r00370z6",
@@ -6391,6 +6392,16 @@
         "refTo": "lk1mro71asebq1dyixv"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lk77f6bsrvs7jqmhg8",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1n18z2d5acnh0582a"
     }
   ],
   "settings": {
