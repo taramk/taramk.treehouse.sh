@@ -6114,6 +6114,7 @@
         "Children": [
           "lk1n1ccwut646ricgi",
           "lk770aqu3qdexrt4twi",
+          "lk77cw5ti06oyswy6p",
           "lk1n1kzw2o45rs87cvs",
           "lk77ccugx774t27v0x",
           "lk1n1x2ow4r00370z6",
@@ -6382,7 +6383,17 @@
       "Parent": "lk1n18z2d5acnh0582a"
     },
     {
-      "ID": "lk77alt0n2moslbaki",
+      "ID": "lk77ccugx774t27v0x",
+      "Name": "Empathy plays a vital role in promoting social justice and equality. It enables us to recognize and challenge systemic injustices by understanding the experiences of marginalized communities. Through empathy, we can stand alongside those who face discrimination and advocate for their rights. By amplifying their voices and taking action, empathy empowers us to create a fairer and more equitable society for all.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lk1n18z2d5acnh0582a"
+    },
+    {
+      "ID": "lk77cu9z3ecskodu50x",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -6394,7 +6405,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lk77alt1r9huwcanvko",
+      "ID": "lk77cua2unq0dslaod",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -6406,8 +6417,8 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lk77ccugx774t27v0x",
-      "Name": "Empathy plays a vital role in promoting social justice and equality. It enables us to recognize and challenge systemic injustices by understanding the experiences of marginalized communities. Through empathy, we can stand alongside those who face discrimination and advocate for their rights. By amplifying their voices and taking action, empathy empowers us to create a fairer and more equitable society for all.",
+      "ID": "lk77cw5ti06oyswy6p",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
