@@ -176,7 +176,9 @@
       "lk1navmdsgvcdx9xdb9": true,
       "lk1navmd1xp9svhfqeg": false
     },
-    "lk1n18z2d5acnh0582a": {}
+    "lk1n18z2d5acnh0582a": {
+      "lk1n1ccwut646ricgi": true
+    }
   },
   "nodes": [
     {
@@ -6109,7 +6111,6 @@
       "Linked": {
         "Children": [
           "lk1n1ccwut646ricgi",
-          "lk1n1kzw2o45rs87cvs",
           "lk1n1usj2sfhlrux5ss",
           "lk1n1x2ow4r00370z6",
           "lk1n1zms2cm2jxbdd58",
@@ -6128,7 +6129,9 @@
       "ID": "lk1n1ccwut646ricgi",
       "Name": "In today's fast-paced and interconnected world, it is more crucial than ever to embrace the power of empathy. Empathy, defined as the ability to understand and share the feelings of others, has the potential to bridge the gaps that divide us, foster meaningful connections, and create positive change. This essay explores the significance of empathy in a divided world and highlights its transformative impact on individuals and society.",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lk1n1kzw2o45rs87cvs"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -6142,7 +6145,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
+      "Parent": "lk1n1ccwut646ricgi"
     },
     {
       "ID": "lk1n1usj2sfhlrux5ss",
