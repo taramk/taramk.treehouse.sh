@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "lk1mta2pk31qapijie",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -163,6 +163,7 @@
     "lhqugfzz5ux6ybz4ei4": {
       "lhquju0xr16iykhtlfd": true
     },
+    "lk1n18z2d5acnh0582a": {},
     "lk1mta2pk31qapijie": {
       "lk1mwpa6l9jy91w6gmq": false,
       "lk1n18z2d5acnh0582a": false,
@@ -172,12 +173,11 @@
       "lk1n89qr8b9plvzg7yo": false,
       "lk1n8skzc5jra5hkyju": true,
       "lk1n93mhj5z5u22haco": true,
+      "lk1na8yv69ijz2euuwr": false,
+      "lk1na8ywxsbxkq1863": true,
       "lk1na39lzgoq0o5wcc": false,
       "lk1navmdsgvcdx9xdb9": true,
       "lk1navmd1xp9svhfqeg": false
-    },
-    "lk1n18z2d5acnh0582a": {
-      "lk1n1ccwut646ricgi": false
     }
   },
   "nodes": [
@@ -6023,12 +6023,34 @@
           "lk1n18z2d5acnh0582a",
           "lk1n93mhj5z5u22haco"
         ],
-        "Components": [
-          "lk76cdxpbwqibjhe6cg"
-        ]
+        "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lk1mwboos4xqrjoa2c",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqugfzz5ux6ybz4ei4"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lk1mwbopcn0d6fpy01",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lk1mro71asebq1dyixv"
+      },
+      "Parent": "@tmp"
     },
     {
       "ID": "lk1mwpa6l9jy91w6gmq",
@@ -6120,8 +6142,7 @@
           "lk1n22ab8kyvl0c98lr"
         ],
         "Components": [
-          "lk1n2wierveuyi0zvec",
-          "lk76bvi8aboh5ld6ob8"
+          "lk1n2wierveuyi0zvec"
         ]
       },
       "Attrs": {
@@ -6141,7 +6162,7 @@
     },
     {
       "ID": "lk1n1kzw2o45rs87cvs",
-      "Name": "Empathy serves as a powerful tool in breaking down barriers and fostering understanding between individuals with different backgrounds, cultures, and perspectives. By stepping into another person's shoes and seeking to understand their experiences and emotions, we cultivate a sense of compassion and tolerance. This understanding promotes inclusivity and dismantles the walls that separate us, enabling constructive dialogue and **collaboration**.Empathy is the cornerstone of healthy and fulfilling relationships. When we empathize with others, we forge deeper connections, build trust, and enhance our ability to communicate effectively. By acknowledging and valuing the emotions of those around us, we create an environment that promotes emotional well-being and mutual support. These relationships contribute to a stronger sense of community and enable us to weather the challenges of life together.",
+      "Name": "Empathy serves as a powerful tool in breaking down barriers and fostering understanding between individuals with different backgrounds, cultures, and perspectives. By stepping into another person's shoes and seeking to understand their experiences and emotions, we cultivate a sense of compassion and tolerance. This understanding promotes inclusivity and dismantles the walls that separate us, enabling constructive dialogue and collaboration.Empathy is the cornerstone of healthy and fulfilling relationships. When we empathize with others, we forge deeper connections, build trust, and enhance our ability to communicate effectively. By acknowledging and valuing the emotions of those around us, we create an environment that promotes emotional well-being and mutual support. These relationships contribute to a stronger sense of community and enable us to weather the challenges of life together.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -6380,58 +6401,6 @@
       },
       "Attrs": {},
       "Parent": "lk1navmdsgvcdx9xdb9"
-    },
-    {
-      "ID": "lk76bvi8aboh5ld6ob8",
-      "Name": "treehouse.Page",
-      "Value": {
-        "markdown": "what is going on?"
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lk76cdxpbwqibjhe6cg",
-      "Name": "treehouse.Page",
-      "Value": {
-        "markdown": "what the hekck is add page?"
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lk76wjm5bcw4hl1xge",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lhqugfzz5ux6ybz4ei4"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lk76wjm7styfzezukw",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lk1mro71asebq1dyixv"
-      },
-      "Parent": "@tmp"
     }
   ],
   "settings": {
