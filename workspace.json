@@ -5544,7 +5544,7 @@
       "ID": "lidmj1m4r87mdma483s",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": ""
+        "query": "park:California_Adventure type:sweet"
       },
       "Linked": {
         "Children": [],
@@ -5783,6 +5783,78 @@
       },
       "Attrs": {},
       "Parent": "lidqhtyq77i5qvyachj"
+    },
+    {
+      "ID": "lka3vfnd4ybcmssfzh3",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqu4v8ih84ivjdwvz9"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lka3vfnd8i3fvvy2jkg",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqtvsvwz83przw2gz9"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lka3vfne22t88bxf5dlh",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqtyu3ipeyblietqho"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lka3vfnejfme9nbajed",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lhqu19qg98iv8ueuaqc"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lka3vfnf4pykl7qlbqu",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic05soj6u8w7w560xd"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lka3vfnfbod5a01c0o",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lic14pvqdcpd3waxk6h"
+      },
+      "Parent": "@tmp"
     }
   ],
   "settings": {}
