@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lk1mta2pk31qapijie",
+  "lastopen": "lhs0lx2fy9fhqqcpbl9",
   "expanded": {
     "@workspace": {
       "@calendar": false,
@@ -166,7 +166,7 @@
     "lk1mta2pk31qapijie": {
       "lk1mwpa6l9jy91w6gmq": false,
       "lk1n18z2d5acnh0582a": false,
-      "lk1mta2pk31qapijie": true,
+      "lk1mta2pk31qapijie": false,
       "lk1n7e1y8151430ft9i": true,
       "lk1n7wvq53vg15lzco": true,
       "lk1n89qr8b9plvzg7yo": false,
@@ -6021,154 +6021,11 @@
       "ID": "lk1mta2pk31qapijie",
       "Name": "Documents",
       "Linked": {
-        "Children": [
-          "lk1mwpa6l9jy91w6gmq",
-          "lk1n18z2d5acnh0582a",
-          "lk1n93mhj5z5u22haco"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
-    },
-    {
-      "ID": "lk1mwpa6l9jy91w6gmq",
-      "Name": "The Power of Human Connection in the Digital Age",
-      "Linked": {
-        "Children": [
-          "lk1my2f8qd5pnxmmg4",
-          "lk1mx9kyyce5sjrru3c",
-          "lk1mwzuaey0llxmawyu",
-          "lk1mxh2ykc2jjwwbnb8",
-          "lk1mxkyw1tdby2g8squ",
-          "lk1mxwn6zss6ujbqit"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
-    },
-    {
-      "ID": "lk1mwzuaey0llxmawyu",
-      "Name": "Meaningful human connections serve as catalysts for personal growth and self-discovery. Interacting with diverse individuals allows us to broaden our perspectives, challenge our preconceived notions, and expand our knowledge. Through genuine conversations and interactions, we gain insights into different cultures, beliefs, and values, fostering empathy and promoting personal development. Additionally, the guidance and mentorship of others can provide invaluable opportunities for learning and skill development.\nHuman connection nurtures empathy and compassion, essential qualities for building a harmonious society. Virtual interactions often lack the visual cues and nonverbal communication that enable us to understand the emotions and needs of others fully. Genuine human connections, on the other hand, allow us to develop a deeper understanding of the human experience and connect on a more profound level. By actively listening, empathizing, and offering support, we cultivate a more compassionate and inclusive society, fostering unity and cooperation.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1mx9kyyce5sjrru3c",
-      "Name": "Human connection is a fundamental aspect of our emotional well-being. While digital platforms provide avenues for communication, they often lack the depth and authenticity that come with face-to-face interactions. Genuine human connections involve empathy, understanding, and emotional support, which are difficult to fully convey through screens and text messages. By engaging in meaningful conversations and sharing experiences with others, we can foster a sense of belonging and emotional fulfillment, promoting mental health and overall well-being.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1mxh2ykc2jjwwbnb8",
-      "Name": "The digital age has paradoxically led to increased social isolation and loneliness. As people spend more time engrossed in their digital devices, face-to-face interactions have become scarce. Human connection, however, is a fundamental need, and isolation can have detrimental effects on our mental and physical health. By prioritizing genuine human connections, whether through community involvement, shared activities, or meaningful relationships, we can counteract the negative consequences of social isolation and strengthen our social fabric.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1mxkyw1tdby2g8squ",
-      "Name": "Genuine human connections form the foundation of meaningful relationships. While digital platforms allow us to connect with a vast network of people, they often promote superficial interactions and surface-level relationships. By investing time and effort into cultivating deep connections, we establish relationships that provide emotional support, intimacy, and companionship. These relationships contribute to our happiness and contribute to a sense of fulfillment and belonging.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1mxwn6zss6ujbqit",
-      "Name": "In a world increasingly dominated by digital communication, the power of genuine human connections should not be overlooked. By prioritizing face-to-face interactions, active listening, and empathy, we can enrich our emotional well-being, foster personal growth, and build a more compassionate and connected society. As individuals, it is crucial to recognize the value of human connection and actively seek opportunities to cultivate meaningful relationships. Only by embracing the power of genuine human connections can we truly thrive in the digital age and create a more fulfilling and harmonious world.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1my2f8qd5pnxmmg4",
-      "Name": "In an era defined by technological advancements and virtual interactions, the importance of human connection cannot be overstated. While the digital age has undeniably brought convenience and efficiency to our lives, it has also created a sense of isolation and disconnectedness. This essay explores the significance of fostering genuine human connections amidst the prevalence of digital communication, highlighting the profound impact such connections have on our well-being, personal growth, and societal cohesion.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mwpa6l9jy91w6gmq"
-    },
-    {
-      "ID": "lk1n18z2d5acnh0582a",
-      "Name": "The Power of Empathy: Building Bridges in a Divided World",
-      "Linked": {
-        "Children": [
-          "lk77l8zu5wvh1aszi1m",
-          "lk77ccugx774t27v0x",
-          "lk1n1x2ow4r00370z6",
-          "lk1n1zms2cm2jxbdd58",
-          "lk1n22ab8kyvl0c98lr"
-        ],
-        "Components": [
-          "lk1n2wierveuyi0zvec"
-        ]
-      },
-      "Attrs": {
-        "view": "document"
-      },
-      "Parent": "lk1mta2pk31qapijie"
-    },
-    {
-      "ID": "lk1n1x2ow4r00370z6",
-      "Name": "In a world riddled with conflicts, empathy offers a path towards resolution. By empathizing with opposing viewpoints, we can move beyond rigid positions and explore common ground. Empathy allows us to grasp the underlying motivations and fears of others, facilitating constructive dialogue and negotiation. It humanizes conflicts, reminding us that behind every disagreement, there are individuals with valid concerns and emotions. Through empathy, we can find peaceful resolutions and build a more harmonious world.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
-    },
-    {
-      "ID": "lk1n1zms2cm2jxbdd58",
-      "Name": "Effective leadership hinges on empathy. Leaders who p chossess empathy can understand the needs and aspirations of their team members, fostering a supportive and inclusive work environment. Empathetic leaders inspire trust and loyalty, nurturing the personal growth of their employees and encouraging innovation. By prioritizing the well-being of their team members, empathetic leaders create a positive organizational culture that drives success and collective achievement.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
-    },
-    {
-      "ID": "lk1n22ab8kyvl0c98lr",
-      "Name": "Empathy holds immense transformative power in today's divided world. By fostering understanding, nurturing relationships, promoting social justice, resolving conflicts, and enhancing leadership, empathy paves the way for a more compassionate and harmonious society. It is incumbent upon us to cultivate empathy in our interactions, valuing the perspectives and emotions of others. Through empathy, we can build bridges where divisions once stood, creating a world that thrives on unity, understanding, and mutual respect.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
-    },
-    {
-      "ID": "lk1n2wierveuyi0zvec",
-      "Name": "treehouse.Document",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a",
-      "Rel": "Components"
     },
     {
       "ID": "lk1n7e1y8151430ft9i",
@@ -6263,21 +6120,6 @@
       "Parent": "lk1n8skzc5jra5hkyju"
     },
     {
-      "ID": "lk1n93mhj5z5u22haco",
-      "Name": "test1",
-      "Linked": {
-        "Children": [
-          "lk1na39lzgoq0o5wcc",
-          "lk1naqck5s13lkuzx8",
-          "lk1navmdsgvcdx9xdb9",
-          "lk1natmfosdfbtzk7g9"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1mta2pk31qapijie"
-    },
-    {
       "ID": "lk1n9pocd3ort2rmr5h",
       "Name": "",
       "Linked": {
@@ -6286,89 +6128,6 @@
       },
       "Attrs": {},
       "Parent": "lk1n8skzc5jra5hkyju"
-    },
-    {
-      "ID": "lk1na39lzgoq0o5wcc",
-      "Name": "test2",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n93mhj5z5u22haco"
-    },
-    {
-      "ID": "lk1naqck5s13lkuzx8",
-      "Name": "test3",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n93mhj5z5u22haco"
-    },
-    {
-      "ID": "lk1natmfosdfbtzk7g9",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n93mhj5z5u22haco"
-    },
-    {
-      "ID": "lk1navmdsgvcdx9xdb9",
-      "Name": "test1",
-      "Linked": {
-        "Children": [
-          "lk1navmd1xp9svhfqeg",
-          "lk1navmds8tddy63ky"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n93mhj5z5u22haco"
-    },
-    {
-      "ID": "lk1navmd1xp9svhfqeg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1navmdsgvcdx9xdb9"
-    },
-    {
-      "ID": "lk1navmds8tddy63ky",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1navmdsgvcdx9xdb9"
-    },
-    {
-      "ID": "lk77ccugx774t27v0x",
-      "Name": "Empathy plays a vital role in promoting social justice and equality. It enables us to recognize and challenge systemic injustices by understanding the experiences of marginalized communities. Through empathy, we can stand alongside those who face discrimination and advocate for their rights. By amplifying their voices and taking action, empathy empowers us to create a fairer and more equitable society for all.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
-    },
-    {
-      "ID": "lk77l8zu5wvh1aszi1m",
-      "Name": "Empathy serves as a powerful tool in breaking down barriers and fostering understanding between individuals with different backgrounds, cultures, and perspectives. By stepping into another person's shoes and seeking to understand their experiences and emotions, we cultivate a sense of compassion and tolerance. This understanding promotes inclusivity and dismantles the walls that separate us, enabling constructive dialogue and collaboration.Empathy is the cornerstone of healthy and fulfilling relationships. When we empathize with others, we forge deeper connections, build trust, and enhance our ability to communicate effectively. By acknowledging and valuing the emotions of those around us, we create an environment that promotes emotional well-being and mutual support. These relationships contribute to a stronger sense of community and enable us to weather the challenges of life together.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lk1n18z2d5acnh0582a"
     },
     {
       "ID": "lka3plh4st04sac3ijo",
