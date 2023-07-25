@@ -4187,7 +4187,9 @@
           "lkiopzem55zpyh7s092",
           "lkioq25jzyyfyk5toki",
           "lkioqfq68ysfq2nlfqb",
-          "lkioqn9ou04rybk2uk"
+          "lkioqn9ou04rybk2uk",
+          "lkior7hemg0ywis2zr",
+          "lkiorasw810oa04jg8d"
         ],
         "Components": []
       },
@@ -4358,6 +4360,26 @@
     {
       "ID": "lkioqn9ou04rybk2uk",
       "Name": "Campfires of the Dead",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkior7hemg0ywis2zr",
+      "Name": "The Informers",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkiorasw810oa04jg8d",
+      "Name": "The Safety of Objects",
       "Linked": {
         "Children": [],
         "Components": []
