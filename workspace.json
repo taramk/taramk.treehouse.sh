@@ -32,7 +32,8 @@
       "lkiohyln5p0s63vz2ql": true,
       "lkiokcjlmzsivuzrs6": true,
       "lkiokg5n9nj46omk6xf": true,
-      "lkioof0l7ufac2w1g2w": true
+      "lkioof0l7ufac2w1g2w": true,
+      "lkiohgjzjawjoaz1qwl": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4181,7 +4182,9 @@
       "ID": "lkiohgjzjawjoaz1qwl",
       "Name": "Books",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkiopvbaplg10gypnzq"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -4307,6 +4310,16 @@
       },
       "Attrs": {},
       "Parent": "lkioof0l7ufac2w1g2w"
+    },
+    {
+      "ID": "lkiopvbaplg10gypnzq",
+      "Name": "The Artist's Way",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
     }
   ],
   "settings": {}
