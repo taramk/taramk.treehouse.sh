@@ -4876,7 +4876,7 @@
     {
       "ID": "lkip6anri19x0fxyol",
       "Name": "travel by",
-      "Value": "",
+      "Value": "car",
       "Linked": {
         "Children": [],
         "Components": [
@@ -4902,7 +4902,7 @@
     {
       "ID": "lkip6anrmvfo8owpzmk",
       "Name": "travel time (hrs)",
-      "Value": "",
+      "Value": "1",
       "Linked": {
         "Children": [],
         "Components": [
