@@ -26,7 +26,8 @@
       "lidmih3jtaoczw5jg6t": true,
       "lidmivbm4pgd6lhkghr": true,
       "lidmjcysqxd8rwbb907": true,
-      "lidmjmps0oypur5ru0xf": false
+      "lidmjmps0oypur5ru0xf": false,
+      "lka3wxo0gpy4x9vq78b": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -5731,7 +5732,7 @@
     },
     {
       "ID": "lka3wxo0gpy4x9vq78b",
-      "Name": "Unnamed Smart Node",
+      "Name": "Disneyland",
       "Linked": {
         "Children": [],
         "Components": [
