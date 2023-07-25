@@ -5207,7 +5207,7 @@
       "ID": "lkipd4k32ablw26px62",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": ""
+        "query": "\"travel by\":car"
       },
       "Linked": {
         "Children": [],
