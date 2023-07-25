@@ -42,8 +42,9 @@
       "lkiovw25ugem2cteawc": true,
       "lkiowgyl4frjaah1aua": true,
       "lkiozkilmq8ctdtlfiq": true,
-      "lkiouhjq4rahbw9o5fe": false,
-      "lkiour0dahy437cnee7": true
+      "lkiouhjq4rahbw9o5fe": true,
+      "lkiour0dahy437cnee7": true,
+      "lkip6anrmvfo8owpzmk": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4509,8 +4510,7 @@
         "Fields": [
           "lkip6anqnhasx48xcq8",
           "lkip6anri19x0fxyol",
-          "lkip6anrmvfo8owpzmk",
-          "lkip6rc6r2eougdu5po"
+          "lkip6anrmvfo8owpzmk"
         ]
       },
       "Attrs": {},
@@ -4757,7 +4757,7 @@
     },
     {
       "ID": "lkip3edezg21dm0z5si",
-      "Name": "points of interest",
+      "Name": "features",
       "Value": "beach, trails, Fiscalini Ranch Preserve",
       "Linked": {
         "Children": [],
@@ -4849,7 +4849,7 @@
     },
     {
       "ID": "lkip6anqnhasx48xcq8",
-      "Name": "points of interest",
+      "Name": "features",
       "Value": "charming downtown,",
       "Linked": {
         "Children": [],
@@ -4924,32 +4924,6 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkip6anrmvfo8owpzmk"
-    },
-    {
-      "ID": "lkip6rc6r2eougdu5po",
-      "Name": "features",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lkip6rc65i3ly5ir8ym"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiour0dahy437cnee7"
-    },
-    {
-      "ID": "lkip6rc65i3ly5ir8ym",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lkip6rc6r2eougdu5po"
     }
   ],
   "settings": {}
