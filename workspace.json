@@ -156,7 +156,8 @@
       "Name": "Workspace",
       "Linked": {
         "Children": [
-          "@calendar"
+          "@calendar",
+          "lkioh9zgtej285fef3h"
         ],
         "Components": []
       },
@@ -4152,6 +4153,16 @@
       "Attrs": {},
       "Parent": "lic7d72tdjpe7xm3byt",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkioh9zgtej285fef3h",
+      "Name": "Media",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ],
   "settings": {}
