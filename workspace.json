@@ -4564,7 +4564,9 @@
       "ID": "lkiozkilmq8ctdtlfiq",
       "Name": "trip",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkip2w3o1lnxgvfbc69"
+        ],
         "Components": [
           "lkip25cqxmppigvvaz"
         ],
@@ -4769,6 +4771,16 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkip2enznre5kbikaw9"
+    },
+    {
+      "ID": "lkip2w3o1lnxgvfbc69",
+      "Name": "travel time",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiozkilmq8ctdtlfiq"
     }
   ],
   "settings": {}
