@@ -4555,34 +4555,15 @@
       "ID": "lkiozkilmq8ctdtlfiq",
       "Name": "trip",
       "Linked": {
-        "Children": [
-          "lkip0ds39izvin0kr5j",
-          "lkip0gbr0rnpnlvbmokm"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lkip1c9cniv4f9ta2v",
+          "lkip1gdkzqy0xosd3e"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
-    },
-    {
-      "ID": "lkip0ds39izvin0kr5j",
-      "Name": "points of interest",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiozkilmq8ctdtlfiq"
-    },
-    {
-      "ID": "lkip0gbr0rnpnlvbmokm",
-      "Name": "travel by",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiozkilmq8ctdtlfiq"
     },
     {
       "ID": "lkip12v9kho5k1fqxz",
@@ -4634,6 +4615,58 @@
       },
       "Attrs": {},
       "Parent": "lkip164j8uy086ppv3",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip1c9cniv4f9ta2v",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip1c9cf5rzlu37e1"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiozkilmq8ctdtlfiq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkip1c9cf5rzlu37e1",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkip1c9cniv4f9ta2v",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip1gdkzqy0xosd3e",
+      "Name": "travel by",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip1gdkxskgpdr2nsj"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiozkilmq8ctdtlfiq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkip1gdkxskgpdr2nsj",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkip1gdkzqy0xosd3e",
       "Rel": "Components"
     }
   ],
