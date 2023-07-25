@@ -4189,7 +4189,8 @@
           "lkioqfq68ysfq2nlfqb",
           "lkioqn9ou04rybk2uk",
           "lkior7hemg0ywis2zr",
-          "lkiorasw810oa04jg8d"
+          "lkiorasw810oa04jg8d",
+          "lkiorj4m8et8om9oja6"
         ],
         "Components": []
       },
@@ -4380,6 +4381,16 @@
     {
       "ID": "lkiorasw810oa04jg8d",
       "Name": "The Safety of Objects",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkiorj4m8et8om9oja6",
+      "Name": "Collected Stories",
       "Linked": {
         "Children": [],
         "Components": []
