@@ -4489,7 +4489,6 @@
           "lkip3eddxyoz4z826rm"
         ],
         "Fields": [
-          "lkip2enyj80vyq2ux4m",
           "lkip2enznre5kbikaw9",
           "lkip3edezg21dm0z5si",
           "lkip3edepvcsb7mu7y",
@@ -4707,32 +4706,6 @@
       "Attrs": {},
       "Parent": "lkiokg5n9nj46omk6xf",
       "Rel": "Components"
-    },
-    {
-      "ID": "lkip2enyj80vyq2ux4m",
-      "Name": "points of interest",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lkip2enyr53vlk4snl"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiouhjq4rahbw9o5fe"
-    },
-    {
-      "ID": "lkip2enyr53vlk4snl",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lkip2enyj80vyq2ux4m"
     },
     {
       "ID": "lkip2enznre5kbikaw9",
