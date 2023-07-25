@@ -4272,7 +4272,9 @@
         "Children": [
           "lkiokqs26ss54glv5fj"
         ],
-        "Components": [],
+        "Components": [
+          "lkip27uliav8q8nzyd8"
+        ],
         "Fields": [
           "lkip12v9kho5k1fqxz",
           "lkip164j8uy086ppv3"
@@ -4556,7 +4558,9 @@
       "Name": "trip",
       "Linked": {
         "Children": [],
-        "Components": [],
+        "Components": [
+          "lkip25cqxmppigvvaz"
+        ],
         "Fields": [
           "lkip1c9cniv4f9ta2v",
           "lkip1gdkzqy0xosd3e"
@@ -4667,6 +4671,30 @@
       },
       "Attrs": {},
       "Parent": "lkip1gdkzqy0xosd3e",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip25cqxmppigvvaz",
+      "Name": "treehouse.Template",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiozkilmq8ctdtlfiq",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip27uliav8q8nzyd8",
+      "Name": "treehouse.Template",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf",
       "Rel": "Components"
     }
   ],
