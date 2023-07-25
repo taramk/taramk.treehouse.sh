@@ -4486,11 +4486,14 @@
       "Linked": {
         "Children": [],
         "Components": [
-          "lkip2enxdwpgqa2p34a"
+          "lkip3eddxyoz4z826rm"
         ],
         "Fields": [
           "lkip2enyj80vyq2ux4m",
-          "lkip2enznre5kbikaw9"
+          "lkip2enznre5kbikaw9",
+          "lkip3edezg21dm0z5si",
+          "lkip3edepvcsb7mu7y",
+          "lkip3edf4i14iqm4nb4"
         ]
       },
       "Attrs": {},
@@ -4564,15 +4567,14 @@
       "ID": "lkiozkilmq8ctdtlfiq",
       "Name": "trip",
       "Linked": {
-        "Children": [
-          "lkip2w3o1lnxgvfbc69"
-        ],
+        "Children": [],
         "Components": [
           "lkip25cqxmppigvvaz"
         ],
         "Fields": [
           "lkip1c9cniv4f9ta2v",
-          "lkip1gdkzqy0xosd3e"
+          "lkip1gdkzqy0xosd3e",
+          "lkip33x2okvc0dmvo6"
         ]
       },
       "Attrs": {},
@@ -4707,20 +4709,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkip2enxdwpgqa2p34a",
-      "Name": "treehouse.Tag",
-      "Value": {
-        "name": "trip"
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiouhjq4rahbw9o5fe",
-      "Rel": "Components"
-    },
-    {
       "ID": "lkip2enyj80vyq2ux4m",
       "Name": "points of interest",
       "Value": "",
@@ -4773,14 +4761,122 @@
       "Parent": "lkip2enznre5kbikaw9"
     },
     {
-      "ID": "lkip2w3o1lnxgvfbc69",
+      "ID": "lkip33x2okvc0dmvo6",
       "Name": "travel time",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip33x2ffha924rhqc"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiozkilmq8ctdtlfiq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkip33x2ffha924rhqc",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkiozkilmq8ctdtlfiq"
+      "Parent": "lkip33x2okvc0dmvo6",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip3eddxyoz4z826rm",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "trip"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiouhjq4rahbw9o5fe",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip3edezg21dm0z5si",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip3edek8uphuh1zge"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lkip3edek8uphuh1zge",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip3edezg21dm0z5si"
+    },
+    {
+      "ID": "lkip3edepvcsb7mu7y",
+      "Name": "travel by",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip3edeh9qjoedg4y"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lkip3edeh9qjoedg4y",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip3edepvcsb7mu7y"
+    },
+    {
+      "ID": "lkip3edf4i14iqm4nb4",
+      "Name": "travel time",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip3edf35qlcdvtraj"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lkip3edf35qlcdvtraj",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip3edf4i14iqm4nb4"
     }
   ],
   "settings": {}
