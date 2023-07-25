@@ -41,7 +41,8 @@
       "lkiou7m5r3pd9hzejno": true,
       "lkiovw25ugem2cteawc": true,
       "lkiowgyl4frjaah1aua": true,
-      "lkiozkilmq8ctdtlfiq": true
+      "lkiozkilmq8ctdtlfiq": true,
+      "lkiouhjq4rahbw9o5fe": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4484,7 +4485,13 @@
       "Name": "Cambria, CA",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkip2enxdwpgqa2p34a"
+        ],
+        "Fields": [
+          "lkip2enyj80vyq2ux4m",
+          "lkip2enznre5kbikaw9"
+        ]
       },
       "Attrs": {},
       "Parent": "lkioszh081mhgu24sv2"
@@ -4696,6 +4703,72 @@
       "Attrs": {},
       "Parent": "lkiokg5n9nj46omk6xf",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkip2enxdwpgqa2p34a",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "trip"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiouhjq4rahbw9o5fe",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip2enyj80vyq2ux4m",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip2enyr53vlk4snl"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lkip2enyr53vlk4snl",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip2enyj80vyq2ux4m"
+    },
+    {
+      "ID": "lkip2enznre5kbikaw9",
+      "Name": "travel by",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip2enz45jggibex48"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lkip2enz45jggibex48",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip2enznre5kbikaw9"
     }
   ],
   "settings": {}
