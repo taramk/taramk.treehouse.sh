@@ -1103,7 +1103,7 @@
       "ID": "lkipd4k32ablw26px62",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": "car"
+        "query": "\"travel by\":car"
       },
       "Linked": {
         "Children": [],
@@ -1112,54 +1112,6 @@
       "Attrs": {},
       "Parent": "lkipcyd5llrciulhcgi",
       "Rel": "Components"
-    },
-    {
-      "ID": "lkiph9amy8l8fh1a37p",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiouhjq4rahbw9o5fe"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkiph9anrdcfoct8thg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiour0dahy437cnee7"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkiph9anwk4id4lvuv",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiow9rc1tgvn7yk21d"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkiph9anhd80rqljnp6",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiowgyl4frjaah1aua"
-      },
-      "Parent": "@tmp"
     }
   ],
   "settings": {}
