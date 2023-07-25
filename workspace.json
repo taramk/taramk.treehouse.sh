@@ -21,7 +21,8 @@
       "lkip6anrmvfo8owpzmk": false,
       "lkiow9rc1tgvn7yk21d": false,
       "lkipcyd5llrciulhcgi": true,
-      "lkipn4kruvu2set0rti": true
+      "lkipn4kruvu2set0rti": true,
+      "lkiq3fh8d8s6oq77ql8": true
     },
     "@quickadd": {
       "@quickadd": true
@@ -49,6 +50,7 @@
           "lkipn4kruvu2set0rti",
           "lkiosus24aqczs7ycuh",
           "lkioh9zgtej285fef3h",
+          "lkiq3fh8d8s6oq77ql8",
           "lkiohyln5p0s63vz2ql",
           "lkiokcjlmzsivuzrs6"
         ],
@@ -1207,6 +1209,28 @@
       "Attrs": {},
       "Parent": "lkipoc8y5jyaf3sj38a",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkiq3fh8d8s6oq77ql8",
+      "Name": "Finances",
+      "Linked": {
+        "Children": [
+          "lkiq3hb38mlsu3oxc09"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lkiq3hb38mlsu3oxc09",
+      "Name": "Subscriptions",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3fh8d8s6oq77ql8"
     }
   ],
   "settings": {}
