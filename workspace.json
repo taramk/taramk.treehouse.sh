@@ -4509,7 +4509,8 @@
         "Fields": [
           "lkip6anqnhasx48xcq8",
           "lkip6anri19x0fxyol",
-          "lkip6anrmvfo8owpzmk"
+          "lkip6anrmvfo8owpzmk",
+          "lkip6rc6r2eougdu5po"
         ]
       },
       "Attrs": {},
@@ -4640,7 +4641,7 @@
     },
     {
       "ID": "lkip1c9cniv4f9ta2v",
-      "Name": "features",
+      "Name": "points of interest",
       "Value": "",
       "Linked": {
         "Children": [],
@@ -4923,6 +4924,32 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkip6anrmvfo8owpzmk"
+    },
+    {
+      "ID": "lkip6rc6r2eougdu5po",
+      "Name": "features",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip6rc65i3ly5ir8ym"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiour0dahy437cnee7"
+    },
+    {
+      "ID": "lkip6rc65i3ly5ir8ym",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip6rc6r2eougdu5po"
     }
   ],
   "settings": {}
