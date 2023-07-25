@@ -4243,7 +4243,8 @@
       "Name": "book",
       "Linked": {
         "Children": [
-          "lkioki1984boohdaofu"
+          "lkioki1984boohdaofu",
+          "lkiokqs26ss54glv5fj"
         ],
         "Components": []
       },
@@ -4252,7 +4253,17 @@
     },
     {
       "ID": "lkioki1984boohdaofu",
-      "Name": "",
+      "Name": "Author",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf"
+    },
+    {
+      "ID": "lkiokqs26ss54glv5fj",
+      "Name": "Description",
       "Linked": {
         "Children": [],
         "Components": []
