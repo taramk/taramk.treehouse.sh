@@ -1121,7 +1121,8 @@
       "Linked": {
         "Children": [
           "lkipn8duo5thxdnrkzs",
-          "lkipnuadcaz32t4ku9"
+          "lkipnuadcaz32t4ku9",
+          "lkipoc8y5jyaf3sj38a"
         ],
         "Components": []
       },
@@ -1156,7 +1157,7 @@
     },
     {
       "ID": "lkipnuadcaz32t4ku9",
-      "Name": "",
+      "Name": "Research flights for summer trip",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1178,6 +1179,32 @@
       },
       "Attrs": {},
       "Parent": "lkipnuadcaz32t4ku9",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkipoc8y5jyaf3sj38a",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkipoecqlxv6cl9i87a"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkipn4kruvu2set0rti"
+    },
+    {
+      "ID": "lkipoecqlxv6cl9i87a",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkipoc8y5jyaf3sj38a",
       "Rel": "Components"
     }
   ],
