@@ -4172,7 +4172,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "tabs"
+      },
       "Parent": "@workspace"
     },
     {
