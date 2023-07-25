@@ -1132,10 +1132,26 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkipnmbr60e7iwb9q3q"
+        ]
       },
       "Attrs": {},
       "Parent": "lkipn4kruvu2set0rti"
+    },
+    {
+      "ID": "lkipnmbr60e7iwb9q3q",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkipn8duo5thxdnrkzs",
+      "Rel": "Components"
     }
   ],
   "settings": {}
