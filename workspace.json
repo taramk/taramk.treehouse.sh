@@ -4190,7 +4190,8 @@
           "lkioqn9ou04rybk2uk",
           "lkior7hemg0ywis2zr",
           "lkiorasw810oa04jg8d",
-          "lkiorj4m8et8om9oja6"
+          "lkiorj4m8et8om9oja6",
+          "lkiort269gofme33q65"
         ],
         "Components": []
       },
@@ -4391,6 +4392,16 @@
     {
       "ID": "lkiorj4m8et8om9oja6",
       "Name": "Collected Stories",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkiort269gofme33q65",
+      "Name": "Slouching Towards Bethlehem",
       "Linked": {
         "Children": [],
         "Components": []
