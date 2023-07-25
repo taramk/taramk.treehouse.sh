@@ -4489,7 +4489,6 @@
           "lkip3eddxyoz4z826rm"
         ],
         "Fields": [
-          "lkip2enznre5kbikaw9",
           "lkip3edezg21dm0z5si",
           "lkip3edepvcsb7mu7y",
           "lkip3edf4i14iqm4nb4"
@@ -4706,32 +4705,6 @@
       "Attrs": {},
       "Parent": "lkiokg5n9nj46omk6xf",
       "Rel": "Components"
-    },
-    {
-      "ID": "lkip2enznre5kbikaw9",
-      "Name": "travel by",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lkip2enz45jggibex48"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiouhjq4rahbw9o5fe"
-    },
-    {
-      "ID": "lkip2enz45jggibex48",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lkip2enznre5kbikaw9"
     },
     {
       "ID": "lkip33x2okvc0dmvo6",
