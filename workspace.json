@@ -27,7 +27,8 @@
       "lidmivbm4pgd6lhkghr": true,
       "lidmjcysqxd8rwbb907": true,
       "lidmjmps0oypur5ru0xf": false,
-      "lka3wxo0gpy4x9vq78b": false
+      "lka3wxo0gpy4x9vq78b": false,
+      "lkioh9zgtej285fef3h": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4158,11 +4159,45 @@
       "ID": "lkioh9zgtej285fef3h",
       "Name": "Media",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkiohgjzjawjoaz1qwl",
+          "lkiohhpbs2yzafvkmea",
+          "lkiohim89vssvc7zgdc"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lkiohgjzjawjoaz1qwl",
+      "Name": "Books",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkioh9zgtej285fef3h"
+    },
+    {
+      "ID": "lkiohhpbs2yzafvkmea",
+      "Name": "Movies",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkioh9zgtej285fef3h"
+    },
+    {
+      "ID": "lkiohim89vssvc7zgdc",
+      "Name": "TV Shows",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkioh9zgtej285fef3h"
     }
   ],
   "settings": {}
