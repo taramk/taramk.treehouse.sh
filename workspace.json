@@ -4186,7 +4186,8 @@
           "lkiopvbaplg10gypnzq",
           "lkiopzem55zpyh7s092",
           "lkioq25jzyyfyk5toki",
-          "lkioqfq68ysfq2nlfqb"
+          "lkioqfq68ysfq2nlfqb",
+          "lkioqn9ou04rybk2uk"
         ],
         "Components": []
       },
@@ -4347,6 +4348,16 @@
     {
       "ID": "lkioqfq68ysfq2nlfqb",
       "Name": "Babylon Revisited and Other Stories",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkioqn9ou04rybk2uk",
+      "Name": "Campfires of the Dead",
       "Linked": {
         "Children": [],
         "Components": []
