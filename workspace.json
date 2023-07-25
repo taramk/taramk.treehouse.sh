@@ -22,7 +22,8 @@
       "lkiow9rc1tgvn7yk21d": false,
       "lkipcyd5llrciulhcgi": true,
       "lkipn4kruvu2set0rti": true,
-      "lkiq3fh8d8s6oq77ql8": true
+      "lkiq3fh8d8s6oq77ql8": true,
+      "lkiq3hb38mlsu3oxc09": true
     },
     "@quickadd": {
       "@quickadd": true
@@ -1226,11 +1227,45 @@
       "ID": "lkiq3hb38mlsu3oxc09",
       "Name": "Subscriptions",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkiq4h0mydollph5k08",
+          "lkiq4jos0z70hqbfrgoo",
+          "lkiq4ld9icn3dl5leqp"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lkiq3fh8d8s6oq77ql8"
+    },
+    {
+      "ID": "lkiq4h0mydollph5k08",
+      "Name": "HBO Max",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lkiq4jos0z70hqbfrgoo",
+      "Name": "Netflix",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lkiq4ld9icn3dl5leqp",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
     }
   ],
   "settings": {}
