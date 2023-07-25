@@ -158,7 +158,8 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lkioh9zgtej285fef3h"
+          "lkioh9zgtej285fef3h",
+          "lkiohyln5p0s63vz2ql"
         ],
         "Components": []
       },
@@ -4198,6 +4199,16 @@
       },
       "Attrs": {},
       "Parent": "lkioh9zgtej285fef3h"
+    },
+    {
+      "ID": "lkiohyln5p0s63vz2ql",
+      "Name": "Projects",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ],
   "settings": {}
