@@ -44,7 +44,8 @@
       "lkiozkilmq8ctdtlfiq": true,
       "lkiouhjq4rahbw9o5fe": true,
       "lkiour0dahy437cnee7": true,
-      "lkip6anrmvfo8owpzmk": false
+      "lkip6anrmvfo8owpzmk": false,
+      "lkiow9rc1tgvn7yk21d": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4543,7 +4544,14 @@
       "Name": "Bodie, CA",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkip8s9dgvqzf1fht47"
+        ],
+        "Fields": [
+          "lkip8s9eykoqmguwbp",
+          "lkip8s9fg6t55r5w908",
+          "lkip8s9gbbgxb8e3xzu"
+        ]
       },
       "Attrs": {},
       "Parent": "lkioszh081mhgu24sv2"
@@ -4924,6 +4932,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkip6anrmvfo8owpzmk"
+    },
+    {
+      "ID": "lkip8s9dgvqzf1fht47",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "trip"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiow9rc1tgvn7yk21d",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip8s9eykoqmguwbp",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip8s9eb999e6tj8u"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiow9rc1tgvn7yk21d"
+    },
+    {
+      "ID": "lkip8s9eb999e6tj8u",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip8s9eykoqmguwbp"
+    },
+    {
+      "ID": "lkip8s9fg6t55r5w908",
+      "Name": "travel by",
+      "Value": "car",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip8s9fx92w6j511ro"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiow9rc1tgvn7yk21d"
+    },
+    {
+      "ID": "lkip8s9fx92w6j511ro",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip8s9fg6t55r5w908"
+    },
+    {
+      "ID": "lkip8s9gbbgxb8e3xzu",
+      "Name": "travel time (hrs)",
+      "Value": "5",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip8s9gijw2mqzrjdg"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiow9rc1tgvn7yk21d"
+    },
+    {
+      "ID": "lkip8s9gijw2mqzrjdg",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip8s9gbbgxb8e3xzu"
     }
   ],
   "settings": {}
