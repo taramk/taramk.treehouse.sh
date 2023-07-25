@@ -47,7 +47,7 @@
       "lkip6anrmvfo8owpzmk": false,
       "lkiow9rc1tgvn7yk21d": false,
       "lkiouehy5i2274rz1fr": false,
-      "lkipcyd5llrciulhcgi": true
+      "lkipcyd5llrciulhcgi": false
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -5193,7 +5193,7 @@
     },
     {
       "ID": "lkipcyd5llrciulhcgi",
-      "Name": "Unnamed Smart Node",
+      "Name": "Road trips",
       "Linked": {
         "Children": [],
         "Components": [
