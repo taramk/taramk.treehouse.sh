@@ -4563,7 +4563,14 @@
         "Children": [
           "lkiowj56y8n7mzsezef"
         ],
-        "Components": []
+        "Components": [
+          "lkip98ay83etfj8goet"
+        ],
+        "Fields": [
+          "lkip98azbzt1zb9mwa",
+          "lkip98b0mvjykw1u7p",
+          "lkip98b1mjwu1opcgv"
+        ]
       },
       "Attrs": {},
       "Parent": "lkioszh081mhgu24sv2"
@@ -5024,6 +5031,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkip8s9gbbgxb8e3xzu"
+    },
+    {
+      "ID": "lkip98ay83etfj8goet",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "trip"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiowgyl4frjaah1aua",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip98azbzt1zb9mwa",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip98az668tc8brh42"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiowgyl4frjaah1aua"
+    },
+    {
+      "ID": "lkip98az668tc8brh42",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip98azbzt1zb9mwa"
+    },
+    {
+      "ID": "lkip98b0mvjykw1u7p",
+      "Name": "travel by",
+      "Value": "car",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip98b03lxsdg9cads"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiowgyl4frjaah1aua"
+    },
+    {
+      "ID": "lkip98b03lxsdg9cads",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip98b0mvjykw1u7p"
+    },
+    {
+      "ID": "lkip98b1mjwu1opcgv",
+      "Name": "travel time (hrs)",
+      "Value": "0.5",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip98b1pwq4gcnh46"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiowgyl4frjaah1aua"
+    },
+    {
+      "ID": "lkip98b1pwq4gcnh46",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkip98b1mjwu1opcgv"
     }
   ],
   "settings": {}
