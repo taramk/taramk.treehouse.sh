@@ -28,7 +28,10 @@
       "lidmjcysqxd8rwbb907": true,
       "lidmjmps0oypur5ru0xf": false,
       "lka3wxo0gpy4x9vq78b": false,
-      "lkioh9zgtej285fef3h": true
+      "lkioh9zgtej285fef3h": true,
+      "lkiohyln5p0s63vz2ql": true,
+      "lkiokcjlmzsivuzrs6": true,
+      "lkiokg5n9nj46omk6xf": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -159,7 +162,8 @@
         "Children": [
           "@calendar",
           "lkioh9zgtej285fef3h",
-          "lkiohyln5p0s63vz2ql"
+          "lkiohyln5p0s63vz2ql",
+          "lkiokcjlmzsivuzrs6"
         ],
         "Components": []
       },
@@ -4204,11 +4208,57 @@
       "ID": "lkiohyln5p0s63vz2ql",
       "Name": "Projects",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkiok9zdewhqsh6ue9b"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lkiok9zdewhqsh6ue9b",
+      "Name": "Data Analysis",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohyln5p0s63vz2ql"
+    },
+    {
+      "ID": "lkiokcjlmzsivuzrs6",
+      "Name": "Templates",
+      "Linked": {
+        "Children": [
+          "lkiokg5n9nj46omk6xf"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
+    },
+    {
+      "ID": "lkiokg5n9nj46omk6xf",
+      "Name": "book",
+      "Linked": {
+        "Children": [
+          "lkioki1984boohdaofu"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokcjlmzsivuzrs6"
+    },
+    {
+      "ID": "lkioki1984boohdaofu",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf"
     }
   ],
   "settings": {}
