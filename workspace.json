@@ -4270,38 +4270,20 @@
       "Name": "book",
       "Linked": {
         "Children": [
-          "lkioki1984boohdaofu",
-          "lkiol797gkpve6wvr9p",
           "lkiokqs26ss54glv5fj"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lkip12v9kho5k1fqxz",
+          "lkip164j8uy086ppv3"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
     },
     {
-      "ID": "lkioki1984boohdaofu",
-      "Name": "author",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiokg5n9nj46omk6xf"
-    },
-    {
       "ID": "lkiokqs26ss54glv5fj",
       "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiokg5n9nj46omk6xf"
-    },
-    {
-      "ID": "lkiol797gkpve6wvr9p",
-      "Name": "genre",
       "Linked": {
         "Children": [],
         "Components": []
@@ -4594,13 +4576,65 @@
     },
     {
       "ID": "lkip0gbr0rnpnlvbmokm",
-      "Name": "",
+      "Name": "travel by",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lkiozkilmq8ctdtlfiq"
+    },
+    {
+      "ID": "lkip12v9kho5k1fqxz",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip12v9khiw420mhvl"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkip12v9khiw420mhvl",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkip12v9kho5k1fqxz",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkip164j8uy086ppv3",
+      "Name": "genre",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkip164kyytwfukkjja"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkip164kyytwfukkjja",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkip164j8uy086ppv3",
+      "Rel": "Components"
     }
   ],
   "settings": {}
