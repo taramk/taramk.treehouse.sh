@@ -4436,7 +4436,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "tabs"
+        "view": "list"
       },
       "Parent": "@workspace"
     },
