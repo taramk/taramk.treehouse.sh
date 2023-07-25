@@ -1276,16 +1276,45 @@
       "Name": "subscription",
       "Linked": {
         "Children": [
-          "lkiq4xj64x8c63iocio"
+          "lkiq58rc2ro7z5xplcx"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lkiq57o53i8klo77e6e"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
     },
     {
-      "ID": "lkiq4xj64x8c63iocio",
+      "ID": "lkiq57o53i8klo77e6e",
       "Name": "cost",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkiq57o5bdqdvn0pjgd"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkiq57o5bdqdvn0pjgd",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq57o53i8klo77e6e",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkiq58rc2ro7z5xplcx",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
