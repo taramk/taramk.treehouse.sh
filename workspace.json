@@ -4451,7 +4451,8 @@
         "Children": [
           "lkiouhjq4rahbw9o5fe",
           "lkiour0dahy437cnee7",
-          "lkiovw25ugem2cteawc"
+          "lkiovw25ugem2cteawc",
+          "lkiow9rc1tgvn7yk21d"
         ],
         "Components": []
       },
@@ -4531,6 +4532,16 @@
       },
       "Attrs": {},
       "Parent": "lkiovw25ugem2cteawc"
+    },
+    {
+      "ID": "lkiow9rc1tgvn7yk21d",
+      "Name": "Bodie, CA",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkioszh081mhgu24sv2"
     }
   ],
   "settings": {}
