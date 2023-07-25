@@ -23,7 +23,10 @@
       "lkipcyd5llrciulhcgi": true,
       "lkipn4kruvu2set0rti": true,
       "lkiq3fh8d8s6oq77ql8": true,
-      "lkiq3hb38mlsu3oxc09": true
+      "lkiq3hb38mlsu3oxc09": true,
+      "@workspace": true,
+      "lkip33x2okvc0dmvo6": false,
+      "lkiq4uo40h12fh4q5b1t": true
     },
     "@quickadd": {
       "@quickadd": true
@@ -166,7 +169,8 @@
       "Linked": {
         "Children": [
           "lkiokg5n9nj46omk6xf",
-          "lkiozkilmq8ctdtlfiq"
+          "lkiozkilmq8ctdtlfiq",
+          "lkiq4uo40h12fh4q5b1t"
         ],
         "Components": []
       },
@@ -1266,6 +1270,28 @@
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lkiq4uo40h12fh4q5b1t",
+      "Name": "subscription",
+      "Linked": {
+        "Children": [
+          "lkiq4xj64x8c63iocio"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokcjlmzsivuzrs6"
+    },
+    {
+      "ID": "lkiq4xj64x8c63iocio",
+      "Name": "cost",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t"
     }
   ],
   "settings": {}
