@@ -38,7 +38,8 @@
       "lkiosus24aqczs7ycuh": true,
       "lkioszh081mhgu24sv2": true,
       "lkiotcdsohckgfzkzt9": false,
-      "lkiou7m5r3pd9hzejno": true
+      "lkiou7m5r3pd9hzejno": true,
+      "lkiovw25ugem2cteawc": true
     },
     "lhgpj9lhufzcr161fvh": {
       "lhgpjk0igshzz075pa5": false,
@@ -4449,7 +4450,8 @@
       "Linked": {
         "Children": [
           "lkiouhjq4rahbw9o5fe",
-          "lkiour0dahy437cnee7"
+          "lkiour0dahy437cnee7",
+          "lkiovw25ugem2cteawc"
         ],
         "Components": []
       },
@@ -4507,6 +4509,28 @@
       },
       "Attrs": {},
       "Parent": "lkioszh081mhgu24sv2"
+    },
+    {
+      "ID": "lkiovw25ugem2cteawc",
+      "Name": "Stockton",
+      "Linked": {
+        "Children": [
+          "lkiovy7zwzup4bean6m"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkioszh081mhgu24sv2"
+    },
+    {
+      "ID": "lkiovy7zwzup4bean6m",
+      "Name": "Haggin Museum",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiovw25ugem2cteawc"
     }
   ],
   "settings": {}
