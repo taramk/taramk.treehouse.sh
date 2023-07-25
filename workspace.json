@@ -4183,7 +4183,9 @@
       "Name": "Books",
       "Linked": {
         "Children": [
-          "lkiopvbaplg10gypnzq"
+          "lkiopvbaplg10gypnzq",
+          "lkiopzem55zpyh7s092",
+          "lkioq25jzyyfyk5toki"
         ],
         "Components": []
       },
@@ -4314,6 +4316,26 @@
     {
       "ID": "lkiopvbaplg10gypnzq",
       "Name": "The Artist's Way",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkiopzem55zpyh7s092",
+      "Name": "Bird by Bird",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkioq25jzyyfyk5toki",
+      "Name": "The Mysteries of Pittsburgh",
       "Linked": {
         "Children": [],
         "Components": []
