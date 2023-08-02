@@ -1229,6 +1229,8 @@
         "Children": [
           "lkiq4h0mydollph5k08",
           "lkiq4jos0z70hqbfrgoo",
+          "lku2lqg5clrp0qzdv8d",
+          "lku2ls4vupk6t119j4",
           "lkiq4ld9icn3dl5leqp"
         ],
         "Components": []
@@ -1333,6 +1335,26 @@
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lku2lqg5clrp0qzdv8d",
+      "Name": "1Password",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lku2ls4vupk6t119j4",
+      "Name": "Notion",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
     }
   ],
   "settings": {}
