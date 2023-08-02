@@ -1292,15 +1292,14 @@
       "ID": "lkiq4uo40h12fh4q5b1t",
       "Name": "subscription",
       "Linked": {
-        "Children": [
-          "lkiq58rc2ro7z5xplcx",
-          "lku2nzbvhjfddku8cf"
-        ],
+        "Children": [],
         "Components": [
           "lku2oktimb4k6lj993"
         ],
         "Fields": [
-          "lkiq57o53i8klo77e6e"
+          "lkiq57o53i8klo77e6e",
+          "lku2zdrr5g5nmdirng7",
+          "lku2zgocw6mh38ke18n"
         ]
       },
       "Attrs": {},
@@ -1331,16 +1330,6 @@
       "Attrs": {},
       "Parent": "lkiq57o53i8klo77e6e",
       "Rel": "Components"
-    },
-    {
-      "ID": "lkiq58rc2ro7z5xplcx",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4uo40h12fh4q5b1t"
     },
     {
       "ID": "lku2ilf8t7ic2d64qqk",
@@ -1448,16 +1437,6 @@
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
-    },
-    {
-      "ID": "lku2nzbvhjfddku8cf",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4uo40h12fh4q5b1t"
     },
     {
       "ID": "lku2oktimb4k6lj993",
@@ -1890,6 +1869,58 @@
       },
       "Attrs": {},
       "Parent": "lku2mpmabdjg8txi13"
+    },
+    {
+      "ID": "lku2zdrr5g5nmdirng7",
+      "Name": "type",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku2zdrrce7iimnol85"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lku2zdrrce7iimnol85",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku2zdrr5g5nmdirng7",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku2zgocw6mh38ke18n",
+      "Name": "notes",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku2zgocxa47mpctnu"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lku2zgocxa47mpctnu",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku2zgocw6mh38ke18n",
+      "Rel": "Components"
     }
   ],
   "settings": {}
