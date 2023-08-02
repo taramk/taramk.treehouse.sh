@@ -39,7 +39,7 @@
       "lku2yqs46rjqiwa2c88": false,
       "lku2yqs34l35wvdism8": false,
       "lku2ytfgh00cpr2f3fr": false,
-      "lkiq4jos0z70hqbfrgoo": false,
+      "lkiq4jos0z70hqbfrgoo": true,
       "lku2nf96gek0u99ezm": false,
       "lku2mpmabdjg8txi13": false
     },
@@ -1801,7 +1801,7 @@
     {
       "ID": "lku321mdzg118wbh2p",
       "Name": "cost in $",
-      "Value": "",
+      "Value": "10.00",
       "Linked": {
         "Children": [],
         "Components": [
