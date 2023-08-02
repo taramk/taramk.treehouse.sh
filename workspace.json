@@ -28,20 +28,21 @@
       "lkip33x2okvc0dmvo6": false,
       "lkiq4uo40h12fh4q5b1t": true,
       "lku2ilf8t7ic2d64qqk": true,
-      "lku2lqg5clrp0qzdv8d": true,
+      "lku2lqg5clrp0qzdv8d": false,
       "lku2yg7xeje2gafg8wn": false,
       "lku2yg7w4ru5zfuu7th": false,
-      "lku2ls4vupk6t119j4": true,
+      "lku2ls4vupk6t119j4": false,
       "lku2yntvuy2gyupbrj": false,
       "lku2yntruxa2fex0098": false,
-      "lkiq4h0mydollph5k08": true,
-      "lku2m1s6aedopco9jl": true,
+      "lkiq4h0mydollph5k08": false,
+      "lku2m1s6aedopco9jl": false,
       "lku2yqs46rjqiwa2c88": false,
       "lku2yqs34l35wvdism8": false,
       "lku2ytfgh00cpr2f3fr": false,
-      "lkiq4jos0z70hqbfrgoo": true,
-      "lku2nf96gek0u99ezm": true,
-      "lku2mpmabdjg8txi13": true
+      "lkiq4jos0z70hqbfrgoo": false,
+      "lku2nf96gek0u99ezm": false,
+      "lku2mpmabdjg8txi13": false,
+      "lkiq4ld9icn3dl5leqp": false
     },
     "@quickadd": {
       "@quickadd": true
@@ -1252,7 +1253,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "lkiq3fh8d8s6oq77ql8"
     },
     {
