@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "@workspace",
+  "lastopen": "lku38gr35ae9ro1wvdm",
   "expanded": {
     "@workspace": {
       "@calendar": true,
@@ -2145,13 +2145,29 @@
     },
     {
       "ID": "lku38gr35ae9ro1wvdm",
-      "Name": "",
+      "Name": "adfasdf",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku38mlxkc97k4u2z38"
+        ]
+      },
+      "Attrs": {
+        "view": "document"
+      },
+      "Parent": "lku38ehdub6phujo7j8"
+    },
+    {
+      "ID": "lku38mlxkc97k4u2z38",
+      "Name": "treehouse.Document",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lku38ehdub6phujo7j8"
+      "Parent": "lku38gr35ae9ro1wvdm",
+      "Rel": "Components"
     }
   ],
   "settings": {}
