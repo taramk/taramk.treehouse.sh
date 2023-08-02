@@ -65,7 +65,8 @@
       "lkiouhjq4rahbw9o5fe": true,
       "lkiokcjlmzsivuzrs6": true,
       "lkiozkilmq8ctdtlfiq": true,
-      "lkip3edf4i14iqm4nb4": false
+      "lkip3edf4i14iqm4nb4": false,
+      "lkip6anrmvfo8owpzmk": false
     }
   },
   "nodes": [
@@ -678,7 +679,7 @@
     },
     {
       "ID": "lkip3edezg21dm0z5si",
-      "Name": "points of interest",
+      "Name": "features",
       "Value": "beach, trails, Fiscalini Ranch Preserve",
       "Linked": {
         "Children": [],
@@ -770,7 +771,7 @@
     },
     {
       "ID": "lkip6anqnhasx48xcq8",
-      "Name": "features",
+      "Name": "points of interest",
       "Value": "charming downtown, history",
       "Linked": {
         "Children": [],
