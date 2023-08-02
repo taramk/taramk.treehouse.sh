@@ -56,18 +56,19 @@
     "lku2ilf8t7ic2d64qqk": {
       "lkipn4kruvu2set0rti": true,
       "lkiosus24aqczs7ycuh": true,
-      "lkiovw25ugem2cteawc": true,
-      "lkiou7m5r3pd9hzejno": true,
-      "lkiour0dahy437cnee7": true,
+      "lkiovw25ugem2cteawc": false,
+      "lkiou7m5r3pd9hzejno": false,
+      "lkiour0dahy437cnee7": false,
       "lku3fi4srfmqswxftha": false,
-      "lkiow9rc1tgvn7yk21d": true,
-      "lkiowgyl4frjaah1aua": true,
+      "lkiow9rc1tgvn7yk21d": false,
+      "lkiowgyl4frjaah1aua": false,
       "lkiouhjq4rahbw9o5fe": false,
       "lkiokcjlmzsivuzrs6": true,
       "lkiozkilmq8ctdtlfiq": true,
       "lkip3edf4i14iqm4nb4": false,
       "lkip6anrmvfo8owpzmk": false,
-      "lkipcyd5llrciulhcgi": true
+      "lkipcyd5llrciulhcgi": true,
+      "lkip98b1mjwu1opcgv": false
     }
   },
   "nodes": [
@@ -468,9 +469,7 @@
       "ID": "lkiowgyl4frjaah1aua",
       "Name": "Redwood City",
       "Linked": {
-        "Children": [
-          "lkiowj56y8n7mzsezef"
-        ],
+        "Children": [],
         "Components": [
           "lkip98ay83etfj8goet"
         ],
@@ -482,16 +481,6 @@
       },
       "Attrs": {},
       "Parent": "lkiosus24aqczs7ycuh"
-    },
-    {
-      "ID": "lkiowj56y8n7mzsezef",
-      "Name": "Edgewood Park and Natural Preserve",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiowgyl4frjaah1aua"
     },
     {
       "ID": "lkiozkilmq8ctdtlfiq",
@@ -706,7 +695,7 @@
     },
     {
       "ID": "lkip3edepvcsb7mu7y",
-      "Name": "travel by",
+      "Name": "travel_by",
       "Value": "car",
       "Linked": {
         "Children": [],
@@ -957,7 +946,7 @@
     {
       "ID": "lkip98azbzt1zb9mwa",
       "Name": "points of interest",
-      "Value": "Pulgas Water Temple, nature preserve",
+      "Value": "Pulgas Water Temple, nature preserve, Edgewood Park and Natural Preserve",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2454,7 +2443,7 @@
       "Parent": "lku3fi4srfmqswxftha"
     },
     {
-      "ID": "lku3krfoujwmovc0l2",
+      "ID": "lku3l3sln71pylapau8",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -2466,7 +2455,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lku3krfpec4e2ggcfom",
+      "ID": "lku3l3slr085chfvu7m",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -2478,7 +2467,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lku3krfpxdzqo9jmxo",
+      "ID": "lku3l3slg40jah5yw2c",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -2490,7 +2479,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lku3krfqc3cwk90wql6",
+      "ID": "lku3l3slwdqt8vbxujq",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -2498,6 +2487,18 @@
       },
       "Attrs": {
         "refTo": "lkiowgyl4frjaah1aua"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lku3l3sl7nqfqfxpwp",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkiouhjq4rahbw9o5fe"
       },
       "Parent": "@tmp"
     }
