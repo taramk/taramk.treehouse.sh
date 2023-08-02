@@ -48,6 +48,9 @@
     },
     "@quickadd": {
       "@quickadd": true
+    },
+    "lku38gr35ae9ro1wvdm": {
+      "lku38gr35ae9ro1wvdm": true
     }
   },
   "nodes": [
@@ -2147,7 +2150,9 @@
       "ID": "lku38gr35ae9ro1wvdm",
       "Name": "adfasdf",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lku38vfo7vb28d6qdkh"
+        ],
         "Components": [
           "lku38mlxkc97k4u2z38"
         ]
@@ -2168,6 +2173,16 @@
       "Attrs": {},
       "Parent": "lku38gr35ae9ro1wvdm",
       "Rel": "Components"
+    },
+    {
+      "ID": "lku38vfo7vb28d6qdkh",
+      "Name": "Design and Prepare: Begin by creating or selecting the design you wish to print on the t-shirt. Using computer software or hand-drawing, ensure the design is appropriately sized and ready for printing. Once done, print the design on a transparency or trace it onto a screen printing mesh using a light table. Assemble the Screen: To create your screen, you'll need a wooden or aluminum frame and screen printing mesh. Attach the mesh tightly to the frame using staples or screen printing tape. Make sure the mesh is taut and free from any wrinkles or bumps. Coating the Screen: Apply a light-sensitive emulsion coating to the screen on both sides. Use a squeegee to spread the emulsion evenly, covering the entire mesh. Let it dry in a dark room, away from any light exposure, until the emulsion is completely dry. Expose the Design: Place the prepared transparency or the traced design on the emulsion-coated screen. Secure it with glass or a clean, transparent material. Expose the screen to a bright light source for the recommended time based on the emulsion manufacturer's instructions. The light will harden the emulsion, except where the design blocks the light. Rinse the Screen: After exposure, rinse the screen gently with a low-pressure hose or a soft showerhead. The unexposed emulsion will wash away, leaving a clean stencil of your design on the screen. Allow the screen to dry in a dark place once again. Set Up Printing Area: Choose a well-ventilated and clean area for printing. Lay down newspapers or plastic sheets to protect your workspace. Place the t-shirt on a flat surface and slide a cardboard or plastic sheet inside to prevent ink from bleeding through to the other side. Printing the T-Shirt: Position the screen on the t-shirt where you want the design to be printed. Pour a small amount of water-based ink along one end of the screen and hold the screen firmly with one hand. Use a squeegee in your other hand to spread the ink evenly across the design area. Apply even pressure as you drag the squeegee across the screen, ensuring the ink passes through the mesh onto the fabric. Drying and Curing: Once you finish printing, carefully lift the screen to reveal your design. Allow the ink to air-dry on the t-shirt or use a heat gun to speed up the drying process. To ensure the print's permanence, follow the ink manufacturer's instructions for heat-curing or use an iron to set the ink.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku38gr35ae9ro1wvdm"
     }
   ],
   "settings": {}
