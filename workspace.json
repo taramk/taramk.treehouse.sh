@@ -1735,7 +1735,7 @@
     {
       "ID": "lku31zgluje6y3sk7e",
       "Name": "type",
-      "Value": "",
+      "Value": "entertainment",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1827,7 +1827,7 @@
     {
       "ID": "lku321mdh4xcnnqi0jf",
       "Name": "type",
-      "Value": "",
+      "Value": "utility",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1919,7 +1919,7 @@
     {
       "ID": "lku32447ehb9pwl23ie",
       "Name": "type",
-      "Value": "",
+      "Value": "entertainment",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2011,7 +2011,7 @@
     {
       "ID": "lku326ghqcwohib3x5f",
       "Name": "type",
-      "Value": "",
+      "Value": "entertainment",
       "Linked": {
         "Children": [],
         "Components": [
