@@ -2077,7 +2077,7 @@
     {
       "ID": "lku328mp5fmom2e33yi",
       "Name": "cost in $",
-      "Value": "",
+      "Value": "9.99",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2103,7 +2103,7 @@
     {
       "ID": "lku328mpm4kjpv51ikr",
       "Name": "type",
-      "Value": "",
+      "Value": "entertainment",
       "Linked": {
         "Children": [],
         "Components": [
