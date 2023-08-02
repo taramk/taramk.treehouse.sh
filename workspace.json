@@ -1276,7 +1276,8 @@
       "Name": "subscription",
       "Linked": {
         "Children": [
-          "lkiq58rc2ro7z5xplcx"
+          "lkiq58rc2ro7z5xplcx",
+          "lku2nzbvhjfddku8cf"
         ],
         "Components": [],
         "Fields": [
@@ -1388,6 +1389,16 @@
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lku2nzbvhjfddku8cf",
+      "Name": "notes",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t"
     }
   ],
   "settings": {}
