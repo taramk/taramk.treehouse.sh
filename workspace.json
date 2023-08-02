@@ -56,13 +56,13 @@
     "lku2ilf8t7ic2d64qqk": {
       "lkipn4kruvu2set0rti": true,
       "lkiosus24aqczs7ycuh": true,
-      "lkiovw25ugem2cteawc": true,
+      "lkiovw25ugem2cteawc": false,
       "lkiou7m5r3pd9hzejno": false,
-      "lkiour0dahy437cnee7": true,
+      "lkiour0dahy437cnee7": false,
       "lku3fi4srfmqswxftha": false,
-      "lkiow9rc1tgvn7yk21d": true,
-      "lkiowgyl4frjaah1aua": true,
-      "lkiouhjq4rahbw9o5fe": true,
+      "lkiow9rc1tgvn7yk21d": false,
+      "lkiowgyl4frjaah1aua": false,
+      "lkiouhjq4rahbw9o5fe": false,
       "lkiokcjlmzsivuzrs6": true,
       "lkiozkilmq8ctdtlfiq": true,
       "lkip3edf4i14iqm4nb4": false,
@@ -1140,7 +1140,7 @@
       "ID": "lkipd4k32ablw26px62",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": "\"travel by\":car"
+        "query": "\"travel_by:car"
       },
       "Linked": {
         "Children": [],
