@@ -28,7 +28,20 @@
       "lkip33x2okvc0dmvo6": false,
       "lkiq4uo40h12fh4q5b1t": true,
       "lku2ilf8t7ic2d64qqk": true,
-      "lku2lqg5clrp0qzdv8d": true
+      "lku2lqg5clrp0qzdv8d": false,
+      "lku2yg7xeje2gafg8wn": false,
+      "lku2yg7w4ru5zfuu7th": false,
+      "lku2ls4vupk6t119j4": false,
+      "lku2yntvuy2gyupbrj": false,
+      "lku2yntruxa2fex0098": false,
+      "lkiq4h0mydollph5k08": false,
+      "lku2m1s6aedopco9jl": false,
+      "lku2yqs46rjqiwa2c88": false,
+      "lku2yqs34l35wvdism8": false,
+      "lku2ytfgh00cpr2f3fr": false,
+      "lkiq4jos0z70hqbfrgoo": false,
+      "lku2nf96gek0u99ezm": false,
+      "lku2mpmabdjg8txi13": false
     },
     "@quickadd": {
       "@quickadd": true
@@ -1246,14 +1259,9 @@
       "ID": "lkiq4h0mydollph5k08",
       "Name": "HBO Max",
       "Linked": {
-        "Children": [
-          "lku2yqs46rjqiwa2c88",
-          "lku2yqs4m0f5adfork"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2yqs34l35wvdism8"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1262,14 +1270,9 @@
       "ID": "lkiq4jos0z70hqbfrgoo",
       "Name": "Netflix",
       "Linked": {
-        "Children": [
-          "lku2yw4mlorvz6ogl9p",
-          "lku2yw4ml90z9w8mtne"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2yw4lvba0kz90a4b"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1348,14 +1351,9 @@
       "ID": "lku2lqg5clrp0qzdv8d",
       "Name": "1Password",
       "Linked": {
-        "Children": [
-          "lku2yg7xeje2gafg8wn",
-          "lku2yg7xzcva5y6njb"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2yg7w4ru5zfuu7th"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1364,14 +1362,9 @@
       "ID": "lku2ls4vupk6t119j4",
       "Name": "Dropbox",
       "Linked": {
-        "Children": [
-          "lku2yntvuy2gyupbrj",
-          "lku2yntv6osnko2vs55"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2yntruxa2fex0098"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1380,14 +1373,9 @@
       "ID": "lku2m1s6aedopco9jl",
       "Name": "iCloud",
       "Linked": {
-        "Children": [
-          "lku2ytfgh00cpr2f3fr",
-          "lku2ytfgq3fsgr2vdk"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2ytfg3giloku80jt"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1396,14 +1384,9 @@
       "ID": "lku2mpmabdjg8txi13",
       "Name": "Spotify",
       "Linked": {
-        "Children": [
-          "lku2z10a1ru4caiqo5j",
-          "lku2z10atxtdu4ahio"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2z106me07wbcdjf"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1412,14 +1395,9 @@
       "ID": "lku2nf96gek0u99ezm",
       "Name": "Patreon",
       "Linked": {
-        "Children": [
-          "lku2yykeb1mdwtj8rpg",
-          "lku2yykeihzch8t5p3"
-        ],
+        "Children": [],
         "Components": [],
-        "Fields": [
-          "lku2yykd0jywypb9l38"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1435,328 +1413,6 @@
       "Attrs": {},
       "Parent": "lkiq4uo40h12fh4q5b1t",
       "Rel": "Components"
-    },
-    {
-      "ID": "lku2yg7w4ru5zfuu7th",
-      "Name": "cost in $",
-      "Value": "2.99",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2yg7wp4bcvqvls9a"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku2lqg5clrp0qzdv8d"
-    },
-    {
-      "ID": "lku2yg7wp4bcvqvls9a",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2yg7w4ru5zfuu7th"
-    },
-    {
-      "ID": "lku2yg7xeje2gafg8wn",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2lqg5clrp0qzdv8d"
-    },
-    {
-      "ID": "lku2yg7xzcva5y6njb",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2lqg5clrp0qzdv8d"
-    },
-    {
-      "ID": "lku2yntruxa2fex0098",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2yntr50wpu1brpe"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku2ls4vupk6t119j4"
-    },
-    {
-      "ID": "lku2yntr50wpu1brpe",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2yntruxa2fex0098"
-    },
-    {
-      "ID": "lku2yntvuy2gyupbrj",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2ls4vupk6t119j4"
-    },
-    {
-      "ID": "lku2yntv6osnko2vs55",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2ls4vupk6t119j4"
-    },
-    {
-      "ID": "lku2yqs34l35wvdism8",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2yqs3wkm7xyahlcf"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiq4h0mydollph5k08"
-    },
-    {
-      "ID": "lku2yqs3wkm7xyahlcf",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2yqs34l35wvdism8"
-    },
-    {
-      "ID": "lku2yqs46rjqiwa2c88",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4h0mydollph5k08"
-    },
-    {
-      "ID": "lku2yqs4m0f5adfork",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4h0mydollph5k08"
-    },
-    {
-      "ID": "lku2ytfg3giloku80jt",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2ytfgy7bme6lq8ii"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku2m1s6aedopco9jl"
-    },
-    {
-      "ID": "lku2ytfgy7bme6lq8ii",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2ytfg3giloku80jt"
-    },
-    {
-      "ID": "lku2ytfgh00cpr2f3fr",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2m1s6aedopco9jl"
-    },
-    {
-      "ID": "lku2ytfgq3fsgr2vdk",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2m1s6aedopco9jl"
-    },
-    {
-      "ID": "lku2yw4lvba0kz90a4b",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2yw4lgyb781i3gjt"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiq4jos0z70hqbfrgoo"
-    },
-    {
-      "ID": "lku2yw4lgyb781i3gjt",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2yw4lvba0kz90a4b"
-    },
-    {
-      "ID": "lku2yw4mlorvz6ogl9p",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4jos0z70hqbfrgoo"
-    },
-    {
-      "ID": "lku2yw4ml90z9w8mtne",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiq4jos0z70hqbfrgoo"
-    },
-    {
-      "ID": "lku2yykd0jywypb9l38",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2yykdv88i04gxpgh"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku2nf96gek0u99ezm"
-    },
-    {
-      "ID": "lku2yykdv88i04gxpgh",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2yykd0jywypb9l38"
-    },
-    {
-      "ID": "lku2yykeb1mdwtj8rpg",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2nf96gek0u99ezm"
-    },
-    {
-      "ID": "lku2yykeihzch8t5p3",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2nf96gek0u99ezm"
-    },
-    {
-      "ID": "lku2z106me07wbcdjf",
-      "Name": "cost in $",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku2z10607ifr19kkg9n"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku2mpmabdjg8txi13"
-    },
-    {
-      "ID": "lku2z10607ifr19kkg9n",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku2z106me07wbcdjf"
-    },
-    {
-      "ID": "lku2z10a1ru4caiqo5j",
-      "Name": "type",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2mpmabdjg8txi13"
-    },
-    {
-      "ID": "lku2z10atxtdu4ahio",
-      "Name": "notes",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku2mpmabdjg8txi13"
     },
     {
       "ID": "lku2zdrr5g5nmdirng7",
