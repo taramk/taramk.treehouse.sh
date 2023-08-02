@@ -1232,6 +1232,7 @@
           "lkiq4h0mydollph5k08",
           "lku2m1s6aedopco9jl",
           "lkiq4jos0z70hqbfrgoo",
+          "lku2nf96gek0u99ezm",
           "lku2mpmabdjg8txi13",
           "lkiq4ld9icn3dl5leqp"
         ],
@@ -1371,6 +1372,16 @@
     {
       "ID": "lku2mpmabdjg8txi13",
       "Name": "Spotify",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq3hb38mlsu3oxc09"
+    },
+    {
+      "ID": "lku2nf96gek0u99ezm",
+      "Name": "Patreon",
       "Linked": {
         "Children": [],
         "Components": []
