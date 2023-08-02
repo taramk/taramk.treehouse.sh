@@ -31,7 +31,7 @@
       "lku2lqg5clrp0qzdv8d": false,
       "lku2yg7xeje2gafg8wn": false,
       "lku2yg7w4ru5zfuu7th": false,
-      "lku2ls4vupk6t119j4": false,
+      "lku2ls4vupk6t119j4": true,
       "lku2yntvuy2gyupbrj": false,
       "lku2yntruxa2fex0098": false,
       "lkiq4h0mydollph5k08": false,
@@ -1525,7 +1525,7 @@
     {
       "ID": "lku31speqy3lj592plk",
       "Name": "cost in $",
-      "Value": "",
+      "Value": "2.99",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1551,7 +1551,7 @@
     {
       "ID": "lku31spetzgzd8le5hc",
       "Name": "type",
-      "Value": "",
+      "Value": "utility",
       "Linked": {
         "Children": [],
         "Components": [
