@@ -40,7 +40,7 @@
       "lku2yqs34l35wvdism8": false,
       "lku2ytfgh00cpr2f3fr": false,
       "lkiq4jos0z70hqbfrgoo": true,
-      "lku2nf96gek0u99ezm": false,
+      "lku2nf96gek0u99ezm": true,
       "lku2mpmabdjg8txi13": false
     },
     "@quickadd": {
@@ -1893,7 +1893,7 @@
     {
       "ID": "lku32447qdfmcn52i2t",
       "Name": "cost in $",
-      "Value": "",
+      "Value": "15.99",
       "Linked": {
         "Children": [],
         "Components": [
