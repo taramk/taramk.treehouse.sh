@@ -74,7 +74,8 @@
       "lku3l3slg40jah5yw2c": false,
       "lku3l3slwdqt8vbxujq": false,
       "lku3l3sl7nqfqfxpwp": false,
-      "lkioh9zgtej285fef3h": true
+      "lkioh9zgtej285fef3h": true,
+      "lkiohim89vssvc7zgdc": true
     }
   },
   "nodes": [
@@ -171,7 +172,9 @@
       "ID": "lkiohim89vssvc7zgdc",
       "Name": "TV Shows",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lku3onh5t4p35cci71s"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -2509,6 +2512,16 @@
         "refTo": "lkiouhjq4rahbw9o5fe"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lku3onh5t4p35cci71s",
+      "Name": "Yellowjackets",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohim89vssvc7zgdc"
     }
   ],
   "settings": {}
