@@ -1279,7 +1279,9 @@
           "lkiq58rc2ro7z5xplcx",
           "lku2nzbvhjfddku8cf"
         ],
-        "Components": [],
+        "Components": [
+          "lku2oktimb4k6lj993"
+        ],
         "Fields": [
           "lkiq57o53i8klo77e6e"
         ]
@@ -1399,6 +1401,18 @@
       },
       "Attrs": {},
       "Parent": "lkiq4uo40h12fh4q5b1t"
+    },
+    {
+      "ID": "lku2oktimb4k6lj993",
+      "Name": "treehouse.Template",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiq4uo40h12fh4q5b1t",
+      "Rel": "Components"
     }
   ],
   "settings": {}
