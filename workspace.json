@@ -3,7 +3,7 @@
   "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
-      "@calendar": false,
+      "@calendar": true,
       "lkioh9zgtej285fef3h": false,
       "lkiohyln5p0s63vz2ql": false,
       "lkiokcjlmzsivuzrs6": true,
@@ -26,7 +26,8 @@
       "lkiq3hb38mlsu3oxc09": true,
       "@workspace": true,
       "lkip33x2okvc0dmvo6": false,
-      "lkiq4uo40h12fh4q5b1t": true
+      "lkiq4uo40h12fh4q5b1t": true,
+      "lku2ilf8t7ic2d64qqk": true
     },
     "@quickadd": {
       "@quickadd": true
@@ -50,11 +51,7 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lkipn4kruvu2set0rti",
-          "lkiosus24aqczs7ycuh",
-          "lkioh9zgtej285fef3h",
-          "lkiq3fh8d8s6oq77ql8",
-          "lkiohyln5p0s63vz2ql",
+          "lku2ilf8t7ic2d64qqk",
           "lkiokcjlmzsivuzrs6"
         ],
         "Components": []
@@ -95,7 +92,7 @@
       "Attrs": {
         "view": "tabs"
       },
-      "Parent": "@workspace"
+      "Parent": "lku2ilf8t7ic2d64qqk"
     },
     {
       "ID": "lkiohgjzjawjoaz1qwl",
@@ -148,7 +145,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lku2ilf8t7ic2d64qqk"
     },
     {
       "ID": "lkiok9zdewhqsh6ue9b",
@@ -344,7 +341,7 @@
       "Attrs": {
         "view": "list"
       },
-      "Parent": "@workspace"
+      "Parent": "lku2ilf8t7ic2d64qqk"
     },
     {
       "ID": "lkiou7m5r3pd9hzejno",
@@ -1134,7 +1131,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lku2ilf8t7ic2d64qqk"
     },
     {
       "ID": "lkipn8duo5thxdnrkzs",
@@ -1224,7 +1221,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "@workspace"
+      "Parent": "lku2ilf8t7ic2d64qqk"
     },
     {
       "ID": "lkiq3hb38mlsu3oxc09",
@@ -1320,6 +1317,22 @@
       },
       "Attrs": {},
       "Parent": "lkiq4uo40h12fh4q5b1t"
+    },
+    {
+      "ID": "lku2ilf8t7ic2d64qqk",
+      "Name": "Demo Content",
+      "Linked": {
+        "Children": [
+          "lkipn4kruvu2set0rti",
+          "lkiosus24aqczs7ycuh",
+          "lkioh9zgtej285fef3h",
+          "lkiq3fh8d8s6oq77ql8",
+          "lkiohyln5p0s63vz2ql"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ],
   "settings": {}
