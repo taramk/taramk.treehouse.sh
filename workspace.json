@@ -404,7 +404,8 @@
         "Fields": [
           "lkip3edezg21dm0z5si",
           "lkip3edepvcsb7mu7y",
-          "lkip3edf4i14iqm4nb4"
+          "lkip3edf4i14iqm4nb4",
+          "lku3gzdaozyk1e4hzkq"
         ]
       },
       "Attrs": {},
@@ -2449,6 +2450,32 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lku3fi4srfmqswxftha"
+    },
+    {
+      "ID": "lku3gzdaozyk1e4hzkq",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3gzdblrf1r2opek9"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiouhjq4rahbw9o5fe"
+    },
+    {
+      "ID": "lku3gzdblrf1r2opek9",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lku3gzdaozyk1e4hzkq"
     }
   ],
   "settings": {}
