@@ -56,7 +56,9 @@
     "lku2ilf8t7ic2d64qqk": {
       "lkipn4kruvu2set0rti": true,
       "lkiosus24aqczs7ycuh": true,
-      "lkiovw25ugem2cteawc": true
+      "lkiovw25ugem2cteawc": true,
+      "lkiou7m5r3pd9hzejno": true,
+      "lkiour0dahy437cnee7": true
     }
   },
   "nodes": [
@@ -2405,7 +2407,7 @@
     {
       "ID": "lku3fi4r9frjnqa9lon",
       "Name": "travel by",
-      "Value": "",
+      "Value": "car",
       "Linked": {
         "Children": [],
         "Components": [
