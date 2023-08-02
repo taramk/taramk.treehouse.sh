@@ -27,7 +27,8 @@
       "@workspace": true,
       "lkip33x2okvc0dmvo6": false,
       "lkiq4uo40h12fh4q5b1t": true,
-      "lku2ilf8t7ic2d64qqk": true
+      "lku2ilf8t7ic2d64qqk": true,
+      "lku2lqg5clrp0qzdv8d": false
     },
     "@quickadd": {
       "@quickadd": true
@@ -1346,8 +1347,16 @@
       "ID": "lku2lqg5clrp0qzdv8d",
       "Name": "1Password",
       "Linked": {
-        "Children": [],
-        "Components": []
+        "Children": [
+          "lku2yg7xeje2gafg8wn",
+          "lku2yg7xzcva5y6njb"
+        ],
+        "Components": [
+          "lku2yg7vdo60cnibopn"
+        ],
+        "Fields": [
+          "lku2yg7w4ru5zfuu7th"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiq3hb38mlsu3oxc09"
@@ -1413,6 +1422,66 @@
       "Attrs": {},
       "Parent": "lkiq4uo40h12fh4q5b1t",
       "Rel": "Components"
+    },
+    {
+      "ID": "lku2yg7vdo60cnibopn",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "subscription"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku2lqg5clrp0qzdv8d",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku2yg7w4ru5zfuu7th",
+      "Name": "cost in $",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku2yg7wp4bcvqvls9a"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lku2lqg5clrp0qzdv8d"
+    },
+    {
+      "ID": "lku2yg7wp4bcvqvls9a",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lku2yg7w4ru5zfuu7th"
+    },
+    {
+      "ID": "lku2yg7xeje2gafg8wn",
+      "Name": "type",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku2lqg5clrp0qzdv8d"
+    },
+    {
+      "ID": "lku2yg7xzcva5y6njb",
+      "Name": "notes",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku2lqg5clrp0qzdv8d"
     }
   ],
   "settings": {}
