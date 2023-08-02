@@ -67,7 +67,7 @@
       "lkiozkilmq8ctdtlfiq": true,
       "lkip3edf4i14iqm4nb4": false,
       "lkip6anrmvfo8owpzmk": false,
-      "lkipcyd5llrciulhcgi": false,
+      "lkipcyd5llrciulhcgi": true,
       "lkip98b1mjwu1opcgv": false,
       "lku3l3sln71pylapau8": false,
       "lku3l3slr085chfvu7m": false,
@@ -380,7 +380,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "tabs"
+        "view": "list"
       },
       "Parent": "lku2ilf8t7ic2d64qqk"
     },
