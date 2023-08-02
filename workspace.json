@@ -2203,7 +2203,7 @@
     },
     {
       "ID": "lku3a84oegm7nwnsbq6",
-      "Name": "Assemble the Screen",
+      "Name": "**Assemble the Screen**",
       "Linked": {
         "Children": [],
         "Components": []
@@ -2223,7 +2223,7 @@
     },
     {
       "ID": "lku3afeka3ai91l0nfp",
-      "Name": "Coating the Screen",
+      "Name": "**Coating the Screen**",
       "Linked": {
         "Children": [],
         "Components": []
@@ -2243,7 +2243,7 @@
     },
     {
       "ID": "lku3ajoh9bfxkujez5j",
-      "Name": "Expose the Design",
+      "Name": "**Expose the Design**",
       "Linked": {
         "Children": [],
         "Components": []
