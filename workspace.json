@@ -77,7 +77,8 @@
       "lkioh9zgtej285fef3h": true,
       "lkiohim89vssvc7zgdc": true,
       "lkiohhpbs2yzafvkmea": true,
-      "lkiokg5n9nj46omk6xf": true
+      "lkiokg5n9nj46omk6xf": true,
+      "lkip164j8uy086ppv3": false
     }
   },
   "nodes": [
@@ -231,9 +232,7 @@
       "ID": "lkiokg5n9nj46omk6xf",
       "Name": "book",
       "Linked": {
-        "Children": [
-          "lkiokqs26ss54glv5fj"
-        ],
+        "Children": [],
         "Components": [
           "lkip27uliav8q8nzyd8"
         ],
@@ -244,16 +243,6 @@
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
-    },
-    {
-      "ID": "lkiokqs26ss54glv5fj",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiokg5n9nj46omk6xf"
     },
     {
       "ID": "lkioof0l7ufac2w1g2w",
