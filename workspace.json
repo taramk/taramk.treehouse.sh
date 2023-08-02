@@ -380,7 +380,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "list"
+        "view": "tabs"
       },
       "Parent": "lku2ilf8t7ic2d64qqk"
     },
