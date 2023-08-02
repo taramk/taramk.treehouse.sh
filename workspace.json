@@ -2160,6 +2160,8 @@
           "lku3ahcfenle2fskmuu",
           "lku3ajoh9bfxkujez5j",
           "lku3alyea38t5jaomx5",
+          "lku3dgmcaibhgh0q0mo",
+          "lku3dm5xbh166d1vy5v",
           "lku3bqtqfm6z94cgpoa",
           "lku3bx0vxuj427k11h",
           "lku3c1cuidg3byubi3",
@@ -2260,7 +2262,7 @@
     },
     {
       "ID": "lku3alyea38t5jaomx5",
-      "Name": "Place the prepared transparency or the traced design on the emulsion-coated screen. Secure it with glass or a clean, transparent material. Expose the screen to a bright light source for the recommended time based on the emulsion manufacturer's instructions. The light will harden the emulsion, except where the design blocks the light. Rinse the Screen: After exposure, rinse the screen gently with a low-pressure hose or a soft showerhead. The unexposed emulsion will wash away, leaving a clean stencil of your design on the screen. Allow the screen to dry in a dark place once again.",
+      "Name": "Place the prepared transparency or the traced design on the emulsion-coated screen. Secure it with glass or a clean, transparent material. Expose the screen to a bright light source for the recommended time based on the emulsion manufacturer's instructions. The light will harden the emulsion, except where the design blocks the light.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -2321,6 +2323,26 @@
     {
       "ID": "lku3cbghp7xi5hfczkf",
       "Name": "Once you finish printing, carefully lift the screen to reveal your design. Allow the ink to air-dry on the t-shirt or use a heat gun to speed up the drying process. To ensure the print's permanence, follow the ink manufacturer's instructions for heat-curing or use an iron to set the ink.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku38gr35ae9ro1wvdm"
+    },
+    {
+      "ID": "lku3dgmcaibhgh0q0mo",
+      "Name": "**Rinse the Screen**",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku38gr35ae9ro1wvdm"
+    },
+    {
+      "ID": "lku3dm5xbh166d1vy5v",
+      "Name": "After exposure, rinse the screen gently with a low-pressure hose or a soft showerhead. The unexposed emulsion will wash away, leaving a clean stencil of your design on the screen. Allow the screen to dry in a dark place once again.",
       "Linked": {
         "Children": [],
         "Components": []
