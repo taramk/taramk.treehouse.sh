@@ -2527,7 +2527,14 @@
       "Name": "Coherence",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lku3xorctwiiuvh9qw9"
+        ],
+        "Fields": [
+          "lku3xorcukpacfhfgy",
+          "lku3xordnrtljasw5nk",
+          "lku3xordddpoun5p88o"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohhpbs2yzafvkmea"
@@ -2576,23 +2583,200 @@
       "ID": "lku3wq3vnfu6eedlkio",
       "Name": "movie",
       "Linked": {
-        "Children": [
-          "lku3wxmcx9ls545vky7"
+        "Children": [],
+        "Components": [
+          "lku3xl5forprr1gcczg"
         ],
-        "Components": []
+        "Fields": [
+          "lku3xeeihgti97qqf1e",
+          "lku3xgn7n3ta7btpibb",
+          "lku3xij60huwlqy0509"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
     },
     {
-      "ID": "lku3wxmcx9ls545vky7",
-      "Name": "",
+      "ID": "lku3xeeihgti97qqf1e",
+      "Name": "released",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xeeiiv97edigkk8"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lku3wq3vnfu6eedlkio",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lku3xeeiiv97edigkk8",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lku3wq3vnfu6eedlkio"
+      "Parent": "lku3xeeihgti97qqf1e",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku3xgn7n3ta7btpibb",
+      "Name": "genre",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xgn71swkidvu6b2i"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lku3wq3vnfu6eedlkio",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lku3xgn71swkidvu6b2i",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku3xgn7n3ta7btpibb",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku3xij60huwlqy0509",
+      "Name": "description",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xij6ql8by76pz2"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lku3wq3vnfu6eedlkio",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lku3xij6ql8by76pz2",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku3xij60huwlqy0509",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku3xl5forprr1gcczg",
+      "Name": "treehouse.Template",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku3wq3vnfu6eedlkio",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku3xorctwiiuvh9qw9",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "movie"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku3r5nferoe63oap9l",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lku3xorcukpacfhfgy",
+      "Name": "released",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xorcj8zl6budt9o"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lku3r5nferoe63oap9l"
+    },
+    {
+      "ID": "lku3xorcj8zl6budt9o",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lku3xorcukpacfhfgy"
+    },
+    {
+      "ID": "lku3xordnrtljasw5nk",
+      "Name": "genre",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xordr1x5s6pnyw8"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lku3r5nferoe63oap9l"
+    },
+    {
+      "ID": "lku3xordr1x5s6pnyw8",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lku3xordnrtljasw5nk"
+    },
+    {
+      "ID": "lku3xordddpoun5p88o",
+      "Name": "description",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lku3xordd5ik1hqsteg"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lku3r5nferoe63oap9l"
+    },
+    {
+      "ID": "lku3xordd5ik1hqsteg",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lku3xordddpoun5p88o"
     }
   ],
   "settings": {}
