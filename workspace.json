@@ -2162,7 +2162,9 @@
           "lku3bqtqfm6z94cgpoa",
           "lku3bx0vxuj427k11h",
           "lku3c1cuidg3byubi3",
-          "lku3c4tzgki7p36lush"
+          "lku3c4tzgki7p36lush",
+          "lku3c8p2d00tiuqrfoi",
+          "lku3cbghp7xi5hfczkf"
         ],
         "Components": [
           "lku38mlxkc97k4u2z38"
@@ -2297,7 +2299,27 @@
     },
     {
       "ID": "lku3c4tzgki7p36lush",
-      "Name": "Position the screen on the t-shirt where you want the design to be printed. Pour a small amount of water-based ink along one end of the screen and hold the screen firmly with one hand. Use a squeegee in your other hand to spread the ink evenly across the design area. Apply even pressure as you drag the squeegee across the screen, ensuring the ink passes through the mesh onto the fabric. Drying and Curing: Once you finish printing, carefully lift the screen to reveal your design. Allow the ink to air-dry on the t-shirt or use a heat gun to speed up the drying process. To ensure the print's permanence, follow the ink manufacturer's instructions for heat-curing or use an iron to set the ink.",
+      "Name": "Position the screen on the t-shirt where you want the design to be printed. Pour a small amount of water-based ink along one end of the screen and hold the screen firmly with one hand. Use a squeegee in your other hand to spread the ink evenly across the design area. Apply even pressure as you drag the squeegee across the screen, ensuring the ink passes through the mesh onto the fabric.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku38gr35ae9ro1wvdm"
+    },
+    {
+      "ID": "lku3c8p2d00tiuqrfoi",
+      "Name": "**Drying and Curing**",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku38gr35ae9ro1wvdm"
+    },
+    {
+      "ID": "lku3cbghp7xi5hfczkf",
+      "Name": "Once you finish printing, carefully lift the screen to reveal your design. Allow the ink to air-dry on the t-shirt or use a heat gun to speed up the drying process. To ensure the print's permanence, follow the ink manufacturer's instructions for heat-curing or use an iron to set the ink.",
       "Linked": {
         "Children": [],
         "Components": []
