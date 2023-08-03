@@ -3379,10 +3379,26 @@
       "Name": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkvee2x9l1swg6xr998"
+        ]
       },
       "Attrs": {},
       "Parent": "lkvecm59cs2vwshax8"
+    },
+    {
+      "ID": "lkvee2x9l1swg6xr998",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "seasons"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkvedw2lbyghxbq9y9d",
+      "Rel": "Components"
     }
   ],
   "settings": {}
