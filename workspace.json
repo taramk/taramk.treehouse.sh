@@ -2348,10 +2348,12 @@
     },
     {
       "ID": "lku3onh5t4p35cci71s",
-      "Name": "Yellowjackets #tv_show",
+      "Name": "Yellowjackets",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkvf5148iknvwiqt3rj"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohim89vssvc7zgdc"
@@ -3565,6 +3567,20 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkvex8o42scn91tiqn5"
+    },
+    {
+      "ID": "lkvf5148iknvwiqt3rj",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "tv_show"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lku3onh5t4p35cci71s",
+      "Rel": "Components"
     }
   ],
   "settings": {}
