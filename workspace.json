@@ -2816,7 +2816,14 @@
       "Name": "Loki: Agent of Asgard",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve8ba8uwvifw2rw1m"
+        ],
+        "Fields": [
+          "lkve8ba9bcwahlterl9",
+          "lkve8baavm4nvivryfl",
+          "lkve8baa7lry1dezhqc"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -3176,7 +3183,7 @@
     {
       "ID": "lkve7fkus7xll5ptcri",
       "Name": "source",
-      "Value": "",
+      "Value": "Hoopla",
       "Linked": {
         "Children": [],
         "Components": [
@@ -3198,6 +3205,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkve7fkus7xll5ptcri"
+    },
+    {
+      "ID": "lkve8ba8uwvifw2rw1m",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkve3a8yb93p71d4zqa",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve8ba9bcwahlterl9",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8ba9ns414kzm7hd"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3a8yb93p71d4zqa"
+    },
+    {
+      "ID": "lkve8ba9ns414kzm7hd",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8ba9bcwahlterl9"
+    },
+    {
+      "ID": "lkve8baavm4nvivryfl",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8baaltghrn8zmrn"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3a8yb93p71d4zqa"
+    },
+    {
+      "ID": "lkve8baaltghrn8zmrn",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8baavm4nvivryfl"
+    },
+    {
+      "ID": "lkve8baa7lry1dezhqc",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8baad3e8v5etr9m"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3a8yb93p71d4zqa"
+    },
+    {
+      "ID": "lkve8baad3e8v5etr9m",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8baa7lry1dezhqc"
     }
   ],
   "settings": {}
