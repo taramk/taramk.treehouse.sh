@@ -2520,7 +2520,8 @@
           "lkiour0dahy437cnee7",
           "lkiow9rc1tgvn7yk21d",
           "lkiowgyl4frjaah1aua",
-          "lkiouhjq4rahbw9o5fe"
+          "lkiouhjq4rahbw9o5fe",
+          "lkvex42am3e1v5mowl"
         ],
         "Components": []
       },
@@ -3454,6 +3455,115 @@
       "Attrs": {},
       "Parent": "lkvejan4s0h5y5nz4",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkvex42am3e1v5mowl",
+      "Name": "Minneapolis",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvex8o2hy4z8guk3uo"
+        ],
+        "Fields": [
+          "lkvex8o35n6bh1ujag6",
+          "lkvex8o4ys018mkvx2k",
+          "lkvex8o42scn91tiqn5"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lku47tk2u636qethv3g"
+    },
+    {
+      "ID": "lkvex8o2hy4z8guk3uo",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "trip"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkvex42am3e1v5mowl",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkvex8o35n6bh1ujag6",
+      "Name": "points of interest",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvex8o3k6mpx1estha"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkvex42am3e1v5mowl"
+    },
+    {
+      "ID": "lkvex8o3k6mpx1estha",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkvex8o35n6bh1ujag6"
+    },
+    {
+      "ID": "lkvex8o4ys018mkvx2k",
+      "Name": "travel_by",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvex8o490js0su5qg"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkvex42am3e1v5mowl"
+    },
+    {
+      "ID": "lkvex8o490js0su5qg",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkvex8o4ys018mkvx2k"
+    },
+    {
+      "ID": "lkvex8o42scn91tiqn5",
+      "Name": "travel time (hrs)",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvex8o4q40kri4zzma"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkvex42am3e1v5mowl"
+    },
+    {
+      "ID": "lkvex8o4q40kri4zzma",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkvex8o42scn91tiqn5"
     }
   ],
   "settings": {}
