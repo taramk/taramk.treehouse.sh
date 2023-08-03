@@ -261,10 +261,12 @@
       "Linked": {
         "Children": [
           "lkveh67x390trijkhhm",
-          "lkvehz88hghazgotbjl",
           "lkvegzjbugo1ar2ppvj"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lkveius2ki3khgnrpjr"
+        ]
       },
       "Attrs": {},
       "Parent": "lkioof0l7ufac2w1g2w"
@@ -3471,14 +3473,30 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkvehz88hghazgotbjl",
-      "Name": "Adding a ",
+      "ID": "lkveius2ki3khgnrpjr",
+      "Name": "Adding a tag linked to a template works",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkveius2umye31o9gt"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiooi8y4867djs1c9t",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkveius2umye31o9gt",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkiooi8y4867djs1c9t"
+      "Parent": "lkveius2ki3khgnrpjr",
+      "Rel": "Components"
     }
   ],
   "settings": {}
