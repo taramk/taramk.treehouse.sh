@@ -3337,7 +3337,9 @@
       "ID": "lkvecm59cs2vwshax8",
       "Name": "tvshow",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkvedw2lbyghxbq9y9d"
+        ],
         "Components": [],
         "Fields": [
           "lkved2xakzb05fr35fs"
@@ -3348,7 +3350,7 @@
     },
     {
       "ID": "lkved2xakzb05fr35fs",
-      "Name": "network",
+      "Name": "availability",
       "Value": "",
       "Linked": {
         "Children": [],
@@ -3371,6 +3373,16 @@
       "Attrs": {},
       "Parent": "lkved2xakzb05fr35fs",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkvedw2lbyghxbq9y9d",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkvecm59cs2vwshax8"
     }
   ],
   "settings": {}
