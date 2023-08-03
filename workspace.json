@@ -2833,7 +2833,14 @@
       "Name": "Trees",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve8mv39ooi3iik02k"
+        ],
+        "Fields": [
+          "lkve8mv4gldwmlofdcu",
+          "lkve8mv5veqpi2w7ap",
+          "lkve8mv6mw8o238h9zg"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -3297,6 +3304,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkve8baa7lry1dezhqc"
+    },
+    {
+      "ID": "lkve8mv39ooi3iik02k",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkve3m0cll8z3x6k33g",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve8mv4gldwmlofdcu",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8mv41uss61smk4t"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3m0cll8z3x6k33g"
+    },
+    {
+      "ID": "lkve8mv41uss61smk4t",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8mv4gldwmlofdcu"
+    },
+    {
+      "ID": "lkve8mv5veqpi2w7ap",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8mv5o4mtjikleu"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3m0cll8z3x6k33g"
+    },
+    {
+      "ID": "lkve8mv5o4mtjikleu",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8mv5veqpi2w7ap"
+    },
+    {
+      "ID": "lkve8mv6mw8o238h9zg",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve8mv62znu27r6ap1"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve3m0cll8z3x6k33g"
+    },
+    {
+      "ID": "lkve8mv62znu27r6ap1",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve8mv6mw8o238h9zg"
     }
   ],
   "settings": {}
