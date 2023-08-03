@@ -77,7 +77,8 @@
       "lkiopzem55zpyh7s092": false,
       "lkiopvbaplg10gypnzq": true,
       "lkve086f03bdtmqwxi8": true,
-      "lkve2wlh7eau8588lrs": true
+      "lkve2wlh7eau8588lrs": true,
+      "lkve37mtj8jdghq1cx": true
     }
   },
   "nodes": [
@@ -2798,7 +2799,14 @@
       "Name": "Harleen",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve7fks5bcp4sfhw7s"
+        ],
+        "Fields": [
+          "lkve7fktkt2p755el9",
+          "lkve7fkukjalfmn6p8k",
+          "lkve7fkus7xll5ptcri"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -3098,6 +3106,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkve6567txrw1brenaq"
+    },
+    {
+      "ID": "lkve7fks5bcp4sfhw7s",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkve37mtj8jdghq1cx",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve7fktkt2p755el9",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve7fktw02tw0dg17"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve37mtj8jdghq1cx"
+    },
+    {
+      "ID": "lkve7fktw02tw0dg17",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve7fktkt2p755el9"
+    },
+    {
+      "ID": "lkve7fkukjalfmn6p8k",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve7fkuapkbzspunop"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve37mtj8jdghq1cx"
+    },
+    {
+      "ID": "lkve7fkuapkbzspunop",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve7fkukjalfmn6p8k"
+    },
+    {
+      "ID": "lkve7fkus7xll5ptcri",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve7fkui5qy7l5qz7"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve37mtj8jdghq1cx"
+    },
+    {
+      "ID": "lkve7fkui5qy7l5qz7",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve7fkus7xll5ptcri"
     }
   ],
   "settings": {}
