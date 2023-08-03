@@ -3517,7 +3517,7 @@
     {
       "ID": "lkvex8o4ys018mkvx2k",
       "Name": "travel_by",
-      "Value": "",
+      "Value": "plane",
       "Linked": {
         "Children": [],
         "Components": [
