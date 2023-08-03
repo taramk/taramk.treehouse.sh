@@ -83,7 +83,7 @@
       "lku3r8zr4lr50bnf9nc": false,
       "lku3r72jw16fvu4ukk8": false,
       "lku3r5nferoe63oap9l": false,
-      "lkve3m0cll8z3x6k33g": false,
+      "lkve3m0cll8z3x6k33g": true,
       "lkve3a8yb93p71d4zqa": true
     }
   },
@@ -3190,7 +3190,7 @@
     {
       "ID": "lkve8baavm4nvivryfl",
       "Name": "year_published",
-      "Value": "",
+      "Value": "2019",
       "Linked": {
         "Children": [],
         "Components": [
@@ -3216,7 +3216,7 @@
     {
       "ID": "lkve8baa7lry1dezhqc",
       "Name": "source",
-      "Value": "",
+      "Value": "Hoopla",
       "Linked": {
         "Children": [],
         "Components": [
