@@ -89,7 +89,8 @@
       "lkiohyln5p0s63vz2ql": true,
       "lkiok9zdewhqsh6ue9b": true,
       "lkioof0l7ufac2w1g2w": true,
-      "lkiooi8y4867djs1c9t": true
+      "lkiooi8y4867djs1c9t": true,
+      "lkvejan4s0h5y5nz4": false
     }
   },
   "nodes": [
@@ -261,12 +262,10 @@
       "Linked": {
         "Children": [
           "lkveh67x390trijkhhm",
-          "lkvegzjbugo1ar2ppvj"
+          "lkvejan4s0h5y5nz4"
         ],
         "Components": [],
-        "Fields": [
-          "lkveius2ki3khgnrpjr"
-        ]
+        "Fields": []
       },
       "Attrs": {},
       "Parent": "lkioof0l7ufac2w1g2w"
@@ -3437,16 +3436,6 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkvegzjbugo1ar2ppvj",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiooi8y4867djs1c9t"
-    },
-    {
       "ID": "lkveh67x390trijkhhm",
       "Name": "Smart node search works",
       "Linked": {
@@ -3473,29 +3462,29 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkveius2ki3khgnrpjr",
+      "ID": "lkvejan4s0h5y5nz4",
       "Name": "Adding a tag linked to a template works",
-      "Value": "",
       "Linked": {
         "Children": [],
         "Components": [
-          "lkveius2umye31o9gt"
+          "lkvejhks132fougt8sj"
         ]
       },
       "Attrs": {},
-      "Parent": "lkiooi8y4867djs1c9t",
-      "Rel": "Fields"
+      "Parent": "lkiooi8y4867djs1c9t"
     },
     {
-      "ID": "lkveius2umye31o9gt",
-      "Name": "treehouse.TextField",
-      "Value": {},
+      "ID": "lkvejhks132fougt8sj",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkveius2ki3khgnrpjr",
+      "Parent": "lkvejan4s0h5y5nz4",
       "Rel": "Components"
     }
   ],
