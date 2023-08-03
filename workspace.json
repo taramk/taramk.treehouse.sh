@@ -3445,13 +3445,29 @@
     },
     {
       "ID": "lkveh67x390trijkhhm",
-      "Name": "",
+      "Name": "Smart node search works",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvehl0fejnk8groppg"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiooi8y4867djs1c9t"
+    },
+    {
+      "ID": "lkvehl0fejnk8groppg",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkiooi8y4867djs1c9t"
+      "Parent": "lkveh67x390trijkhhm",
+      "Rel": "Components"
     }
   ],
   "settings": {}
