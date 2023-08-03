@@ -75,7 +75,7 @@
       "lkioqfq68ysfq2nlfqb": false,
       "lkioq25jzyyfyk5toki": false,
       "lkiopzem55zpyh7s092": false,
-      "lkiopvbaplg10gypnzq": false
+      "lkiopvbaplg10gypnzq": true
     }
   },
   "nodes": [
@@ -269,10 +269,17 @@
     },
     {
       "ID": "lkiopvbaplg10gypnzq",
-      "Name": "Poison Ivy: The Virtuous Circle #comic",
+      "Name": "Poison Ivy: The Virtuous Circle",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve3xge108ohzyu2dbr"
+        ],
+        "Fields": [
+          "lkve3xggws2umv7wf5",
+          "lkve3xgg9ew9ep7ep8o",
+          "lkve3xghsat4opryn"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -2799,6 +2806,98 @@
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
+    },
+    {
+      "ID": "lkve3xge108ohzyu2dbr",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiopvbaplg10gypnzq",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve3xggws2umv7wf5",
+      "Name": "author",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve3xgg97r0rmaisse"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiopvbaplg10gypnzq"
+    },
+    {
+      "ID": "lkve3xgg97r0rmaisse",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve3xggws2umv7wf5"
+    },
+    {
+      "ID": "lkve3xgg9ew9ep7ep8o",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve3xggow0uyooqvd"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiopvbaplg10gypnzq"
+    },
+    {
+      "ID": "lkve3xggow0uyooqvd",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve3xgg9ew9ep7ep8o"
+    },
+    {
+      "ID": "lkve3xghsat4opryn",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve3xgh8ssbluh8ivb"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkiopvbaplg10gypnzq"
+    },
+    {
+      "ID": "lkve3xgh8ssbluh8ivb",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve3xghsat4opryn"
     }
   ],
   "settings": {}
