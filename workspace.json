@@ -2778,7 +2778,7 @@
     },
     {
       "ID": "lkve2wlh7eau8588lrs",
-      "Name": "Descender",
+      "Name": "Descender (Vol 2)",
       "Linked": {
         "Children": [],
         "Components": [
@@ -3050,7 +3050,7 @@
     {
       "ID": "lkve6567vs0pjliyp1e",
       "Name": "year_published",
-      "Value": "",
+      "Value": "2016",
       "Linked": {
         "Children": [],
         "Components": [
