@@ -257,9 +257,10 @@
     },
     {
       "ID": "lkiooi8y4867djs1c9t",
-      "Name": "Playwright test ideas",
+      "Name": "Automated test ideas",
       "Linked": {
         "Children": [
+          "lkveh67x390trijkhhm",
           "lkvegzjbugo1ar2ppvj"
         ],
         "Components": []
@@ -3434,6 +3435,16 @@
     },
     {
       "ID": "lkvegzjbugo1ar2ppvj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiooi8y4867djs1c9t"
+    },
+    {
+      "ID": "lkveh67x390trijkhhm",
       "Name": "",
       "Linked": {
         "Children": [],
