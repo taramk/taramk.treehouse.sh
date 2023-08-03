@@ -75,7 +75,8 @@
       "lkioqfq68ysfq2nlfqb": false,
       "lkioq25jzyyfyk5toki": false,
       "lkiopzem55zpyh7s092": false,
-      "lkiopvbaplg10gypnzq": true
+      "lkiopvbaplg10gypnzq": true,
+      "lkve086f03bdtmqwxi8": true
     }
   },
   "nodes": [
@@ -2686,7 +2687,14 @@
       "Name": "Daredevil",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve4qx1lef4h81s29h"
+        ],
+        "Fields": [
+          "lkve4qx3owhevrzpoe",
+          "lkve4qx350yvdx98lhh",
+          "lkve4qx4xy2bl90okke"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -2850,7 +2858,7 @@
     {
       "ID": "lkve3xgg9ew9ep7ep8o",
       "Name": "year_published",
-      "Value": "",
+      "Value": "2023",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2898,6 +2906,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkve3xghsat4opryn"
+    },
+    {
+      "ID": "lkve4qx1lef4h81s29h",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkve086f03bdtmqwxi8",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve4qx3owhevrzpoe",
+      "Name": "author",
+      "Value": "Chip ",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve4qx3ics2qt44jji"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve086f03bdtmqwxi8"
+    },
+    {
+      "ID": "lkve4qx3ics2qt44jji",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve4qx3owhevrzpoe"
+    },
+    {
+      "ID": "lkve4qx350yvdx98lhh",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve4qx3ybe1npdzaa"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve086f03bdtmqwxi8"
+    },
+    {
+      "ID": "lkve4qx3ybe1npdzaa",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve4qx350yvdx98lhh"
+    },
+    {
+      "ID": "lkve4qx4xy2bl90okke",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve4qx482tqvaeedbq"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve086f03bdtmqwxi8"
+    },
+    {
+      "ID": "lkve4qx482tqvaeedbq",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve4qx4xy2bl90okke"
     }
   ],
   "settings": {}
