@@ -69,7 +69,13 @@
       "lku3wq3vnfu6eedlkio": true,
       "lku47tk2u636qethv3g": false,
       "lkiorasw810oa04jg8d": false,
-      "lkiohgjzjawjoaz1qwl": true
+      "lkiohgjzjawjoaz1qwl": true,
+      "lkior7hemg0ywis2zr": false,
+      "lkioqn9ou04rybk2uk": false,
+      "lkioqfq68ysfq2nlfqb": false,
+      "lkioq25jzyyfyk5toki": false,
+      "lkiopzem55zpyh7s092": false,
+      "lkiopvbaplg10gypnzq": false
     }
   },
   "nodes": [
@@ -134,17 +140,10 @@
     },
     {
       "ID": "lkiohgjzjawjoaz1qwl",
-      "Name": "Books",
+      "Name": "Graphic Novels",
       "Linked": {
         "Children": [
-          "lkiopvbaplg10gypnzq",
-          "lkiopzem55zpyh7s092",
-          "lkioq25jzyyfyk5toki",
-          "lkioqfq68ysfq2nlfqb",
-          "lkioqn9ou04rybk2uk",
-          "lkior7hemg0ywis2zr",
-          "lkiorasw810oa04jg8d",
-          "lkiort269gofme33q65"
+          "lkiopvbaplg10gypnzq"
         ],
         "Components": []
       },
@@ -260,77 +259,7 @@
     },
     {
       "ID": "lkiopvbaplg10gypnzq",
-      "Name": "The Artist's Way",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkiopzem55zpyh7s092",
-      "Name": "Bird by Bird",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkioq25jzyyfyk5toki",
-      "Name": "The Mysteries of Pittsburgh",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkioqfq68ysfq2nlfqb",
-      "Name": "Babylon Revisited and Other Stories",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkioqn9ou04rybk2uk",
-      "Name": "Campfires of the Dead",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkior7hemg0ywis2zr",
-      "Name": "The Informers",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkiorasw810oa04jg8d",
-      "Name": "The Safety of Objects",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiohgjzjawjoaz1qwl"
-    },
-    {
-      "ID": "lkiort269gofme33q65",
-      "Name": "Slouching Towards Bethlehem",
+      "Name": "Poison Ivy: The",
       "Linked": {
         "Children": [],
         "Components": []
