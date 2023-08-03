@@ -2684,7 +2684,7 @@
     },
     {
       "ID": "lkve086f03bdtmqwxi8",
-      "Name": "Daredevil",
+      "Name": "Daredevil by Chip Zdarsky",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2924,7 +2924,7 @@
     {
       "ID": "lkve4qx3owhevrzpoe",
       "Name": "author",
-      "Value": "Chip ",
+      "Value": "Chip Zdarsky",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2950,7 +2950,7 @@
     {
       "ID": "lkve4qx350yvdx98lhh",
       "Name": "year_published",
-      "Value": "",
+      "Value": "2020",
       "Linked": {
         "Children": [],
         "Components": [
@@ -2976,7 +2976,7 @@
     {
       "ID": "lkve4qx4xy2bl90okke",
       "Name": "source",
-      "Value": "",
+      "Value": "Hoopla",
       "Linked": {
         "Children": [],
         "Components": [
