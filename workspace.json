@@ -76,7 +76,8 @@
       "lkioq25jzyyfyk5toki": false,
       "lkiopzem55zpyh7s092": false,
       "lkiopvbaplg10gypnzq": true,
-      "lkve086f03bdtmqwxi8": true
+      "lkve086f03bdtmqwxi8": true,
+      "lkve2wlh7eau8588lrs": true
     }
   },
   "nodes": [
@@ -2780,7 +2781,14 @@
       "Name": "Descender",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkve6565leci7x548ni"
+        ],
+        "Fields": [
+          "lkve6566qpq70g9bgr",
+          "lkve6567vs0pjliyp1e",
+          "lkve6567txrw1brenaq"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiohgjzjawjoaz1qwl"
@@ -2998,6 +3006,98 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkve4qx4xy2bl90okke"
+    },
+    {
+      "ID": "lkve6565leci7x548ni",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "comic"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkve2wlh7eau8588lrs",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkve6566qpq70g9bgr",
+      "Name": "author",
+      "Value": "Jeff Lemire",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve6566qmpgc3sufy"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve2wlh7eau8588lrs"
+    },
+    {
+      "ID": "lkve6566qmpgc3sufy",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve6566qpq70g9bgr"
+    },
+    {
+      "ID": "lkve6567vs0pjliyp1e",
+      "Name": "year_published",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve6567lp5n8l5ln9c"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve2wlh7eau8588lrs"
+    },
+    {
+      "ID": "lkve6567lp5n8l5ln9c",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve6567vs0pjliyp1e"
+    },
+    {
+      "ID": "lkve6567txrw1brenaq",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve6567db3q0mav4h4"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkve2wlh7eau8588lrs"
+    },
+    {
+      "ID": "lkve6567db3q0mav4h4",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkve6567txrw1brenaq"
     }
   ],
   "settings": {}
