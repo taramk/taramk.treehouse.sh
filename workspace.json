@@ -143,7 +143,8 @@
       "Name": "Graphic Novels",
       "Linked": {
         "Children": [
-          "lkiopvbaplg10gypnzq"
+          "lkiopvbaplg10gypnzq",
+          "lkve086f03bdtmqwxi8"
         ],
         "Components": []
       },
@@ -2692,6 +2693,16 @@
       },
       "Attrs": {},
       "Parent": "lkiohim89vssvc7zgdc"
+    },
+    {
+      "ID": "lkve086f03bdtmqwxi8",
+      "Name": "Daredevil",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiohgjzjawjoaz1qwl"
     }
   ],
   "settings": {}
