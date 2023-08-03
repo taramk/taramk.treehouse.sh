@@ -228,15 +228,14 @@
       "ID": "lkiokg5n9nj46omk6xf",
       "Name": "comic",
       "Linked": {
-        "Children": [
-          "lkve26rnj7akn3dzcv"
-        ],
+        "Children": [],
         "Components": [
           "lkip27uliav8q8nzyd8"
         ],
         "Fields": [
           "lkip12v9kho5k1fqxz",
-          "lkip164j8uy086ppv3"
+          "lkip164j8uy086ppv3",
+          "lkve2hkbum01c38la3"
         ]
       },
       "Attrs": {},
@@ -2732,14 +2731,30 @@
       "Parent": "lkiokcjlmzsivuzrs6"
     },
     {
-      "ID": "lkve26rnj7akn3dzcv",
-      "Name": "",
+      "ID": "lkve2hkbum01c38la3",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkve2hkb863xfownwe4"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkve2hkb863xfownwe4",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkiokg5n9nj46omk6xf"
+      "Parent": "lkve2hkbum01c38la3",
+      "Rel": "Components"
     }
   ],
   "settings": {}
