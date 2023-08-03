@@ -2764,7 +2764,7 @@
     },
     {
       "ID": "lkve3m0cll8z3x6k33g",
-      "Name": "Trees",
+      "Name": "Trees (Vol 3)",
       "Linked": {
         "Children": [],
         "Components": [
@@ -3282,7 +3282,7 @@
     {
       "ID": "lkve8mv5veqpi2w7ap",
       "Name": "year_published",
-      "Value": "",
+      "Value": "2020",
       "Linked": {
         "Children": [],
         "Components": [
@@ -3308,7 +3308,7 @@
     {
       "ID": "lkve8mv6mw8o238h9zg",
       "Name": "source",
-      "Value": "",
+      "Value": "own",
       "Linked": {
         "Children": [],
         "Components": [
