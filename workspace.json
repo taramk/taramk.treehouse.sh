@@ -211,7 +211,6 @@
       "Linked": {
         "Children": [
           "lkiokg5n9nj46omk6xf",
-          "lku3wq3vnfu6eedlkio",
           "lkiozkilmq8ctdtlfiq",
           "lkiq4uo40h12fh4q5b1t",
           "lkve1d29v9wnq3sbbwa",
@@ -2428,23 +2427,6 @@
       "Parent": "lkiohhpbs2yzafvkmea"
     },
     {
-      "ID": "lku3wq3vnfu6eedlkio",
-      "Name": "movie",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xl5forprr1gcczg"
-        ],
-        "Fields": [
-          "lku3xeeihgti97qqf1e",
-          "lku3xgn7n3ta7btpibb",
-          "lku3xij60huwlqy0509"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lkiokcjlmzsivuzrs6"
-    },
-    {
       "ID": "lku3xeeihgti97qqf1e",
       "Name": "released",
       "Value": "",
@@ -2520,18 +2502,6 @@
       },
       "Attrs": {},
       "Parent": "lku3xij60huwlqy0509",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lku3xl5forprr1gcczg",
-      "Name": "treehouse.Template",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku3wq3vnfu6eedlkio",
       "Rel": "Components"
     },
     {
