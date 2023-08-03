@@ -228,7 +228,9 @@
       "ID": "lkiokg5n9nj46omk6xf",
       "Name": "comic",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkve26rnj7akn3dzcv"
+        ],
         "Components": [
           "lkip27uliav8q8nzyd8"
         ],
@@ -444,7 +446,7 @@
     },
     {
       "ID": "lkip164j8uy086ppv3",
-      "Name": "year released",
+      "Name": "year_published",
       "Value": "",
       "Linked": {
         "Children": [],
@@ -2728,6 +2730,16 @@
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
+    },
+    {
+      "ID": "lkve26rnj7akn3dzcv",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiokg5n9nj46omk6xf"
     }
   ],
   "settings": {}
