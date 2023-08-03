@@ -3337,23 +3337,40 @@
       "ID": "lkvecm59cs2vwshax8",
       "Name": "tvshow",
       "Linked": {
-        "Children": [
-          "lkvecwnzwjfsfk0qd3i"
-        ],
-        "Components": []
+        "Children": [],
+        "Components": [],
+        "Fields": [
+          "lkved2xakzb05fr35fs"
+        ]
       },
       "Attrs": {},
       "Parent": "lkiokcjlmzsivuzrs6"
     },
     {
-      "ID": "lkvecwnzwjfsfk0qd3i",
-      "Name": "",
+      "ID": "lkved2xakzb05fr35fs",
+      "Name": "source",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkved2xaango4s1m4z"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkvecm59cs2vwshax8",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkved2xaango4s1m4z",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkvecm59cs2vwshax8"
+      "Parent": "lkved2xakzb05fr35fs",
+      "Rel": "Components"
     }
   ],
   "settings": {}
