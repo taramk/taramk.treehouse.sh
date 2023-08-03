@@ -3337,13 +3337,12 @@
       "ID": "lkvecm59cs2vwshax8",
       "Name": "tvshow",
       "Linked": {
-        "Children": [
-          "lkvedw2lbyghxbq9y9d",
-          "lkveeg472fuktlbmnv1"
-        ],
+        "Children": [],
         "Components": [],
         "Fields": [
-          "lkved2xakzb05fr35fs"
+          "lkved2xakzb05fr35fs",
+          "lkvefo5od1rh82evhjm",
+          "lkvefq7pc7htq9uu8s"
         ]
       },
       "Attrs": {},
@@ -3376,24 +3375,56 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkvedw2lbyghxbq9y9d",
+      "ID": "lkvefo5od1rh82evhjm",
       "Name": "#seasons",
+      "Value": "",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkvefo5owtu2lkb0fai"
+        ]
       },
       "Attrs": {},
-      "Parent": "lkvecm59cs2vwshax8"
+      "Parent": "lkvecm59cs2vwshax8",
+      "Rel": "Fields"
     },
     {
-      "ID": "lkveeg472fuktlbmnv1",
-      "Name": "summary",
+      "ID": "lkvefo5owtu2lkb0fai",
+      "Name": "treehouse.TextField",
+      "Value": {},
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkvecm59cs2vwshax8"
+      "Parent": "lkvefo5od1rh82evhjm",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkvefq7pc7htq9uu8s",
+      "Name": "summary",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkvefq7pkz1gb6j4jcg"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkvecm59cs2vwshax8",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkvefq7pkz1gb6j4jcg",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkvefq7pc7htq9uu8s",
+      "Rel": "Components"
     }
   ],
   "settings": {}
