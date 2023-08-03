@@ -127,7 +127,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "tabs"
+        "view": "list"
       },
       "Parent": "lku2ilf8t7ic2d64qqk"
     },
