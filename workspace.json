@@ -13,7 +13,6 @@
       "lkiok9zdewhqsh6ue9b": true,
       "lkiosus24aqczs7ycuh": false,
       "lkiou7m5r3pd9hzejno": true,
-      "lkiovw25ugem2cteawc": false,
       "lkiowgyl4frjaah1aua": false,
       "lkiozkilmq8ctdtlfiq": true,
       "lkiouhjq4rahbw9o5fe": false,
@@ -48,10 +47,8 @@
     "lku2ilf8t7ic2d64qqk": {
       "lkipn4kruvu2set0rti": false,
       "lkiosus24aqczs7ycuh": true,
-      "lkiovw25ugem2cteawc": false,
       "lkiou7m5r3pd9hzejno": false,
       "lkiour0dahy437cnee7": false,
-      "lku3fi4srfmqswxftha": false,
       "lkiow9rc1tgvn7yk21d": false,
       "lkiowgyl4frjaah1aua": false,
       "lkiouhjq4rahbw9o5fe": false,
@@ -63,26 +60,14 @@
       "lkip98b1mjwu1opcgv": false,
       "lkioh9zgtej285fef3h": true,
       "lkiohim89vssvc7zgdc": true,
-      "lkiohhpbs2yzafvkmea": false,
       "lkiokg5n9nj46omk6xf": true,
       "lkip164j8uy086ppv3": false,
-      "lku3wq3vnfu6eedlkio": true,
       "lku47tk2u636qethv3g": true,
-      "lkiorasw810oa04jg8d": false,
       "lkiohgjzjawjoaz1qwl": false,
-      "lkior7hemg0ywis2zr": false,
-      "lkioqn9ou04rybk2uk": false,
-      "lkioqfq68ysfq2nlfqb": false,
-      "lkioq25jzyyfyk5toki": false,
-      "lkiopzem55zpyh7s092": false,
       "lkiopvbaplg10gypnzq": true,
       "lkve086f03bdtmqwxi8": true,
       "lkve2wlh7eau8588lrs": true,
       "lkve37mtj8jdghq1cx": true,
-      "lku3r9usweo8ps3f17": false,
-      "lku3r8zr4lr50bnf9nc": false,
-      "lku3r72jw16fvu4ukk8": false,
-      "lku3r5nferoe63oap9l": false,
       "lkve3m0cll8z3x6k33g": true,
       "lkve3a8yb93p71d4zqa": true,
       "lkvecm59cs2vwshax8": true,
@@ -2269,84 +2254,6 @@
       "Parent": "lku38gr35ae9ro1wvdm"
     },
     {
-      "ID": "lku3fi4rti3m8ro266p",
-      "Name": "points of interest",
-      "Value": "Haggin Museum",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3fi4ra7qvfcr4dh9"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiovw25ugem2cteawc"
-    },
-    {
-      "ID": "lku3fi4ra7qvfcr4dh9",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3fi4rti3m8ro266p"
-    },
-    {
-      "ID": "lku3fi4r9frjnqa9lon",
-      "Name": "travel_by",
-      "Value": "car",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3fi4r2crihydfqta"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiovw25ugem2cteawc"
-    },
-    {
-      "ID": "lku3fi4r2crihydfqta",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3fi4r9frjnqa9lon"
-    },
-    {
-      "ID": "lku3fi4srfmqswxftha",
-      "Name": "travel time (hrs)",
-      "Value": "2",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3fi4sws27xpbdtu"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lkiovw25ugem2cteawc"
-    },
-    {
-      "ID": "lku3fi4sws27xpbdtu",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3fi4srfmqswxftha"
-    },
-    {
       "ID": "lku3onh5t4p35cci71s",
       "Name": "Yellowjackets",
       "Linked": {
@@ -2364,162 +2271,6 @@
       "Parent": "lkiohim89vssvc7zgdc"
     },
     {
-      "ID": "lku3xeeihgti97qqf1e",
-      "Name": "released",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xeeiiv97edigkk8"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lku3wq3vnfu6eedlkio",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lku3xeeiiv97edigkk8",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku3xeeihgti97qqf1e",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lku3xgn7n3ta7btpibb",
-      "Name": "genre",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xgn71swkidvu6b2i"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lku3wq3vnfu6eedlkio",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lku3xgn71swkidvu6b2i",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku3xgn7n3ta7btpibb",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lku3xij60huwlqy0509",
-      "Name": "description",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xij6ql8by76pz2"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "lku3wq3vnfu6eedlkio",
-      "Rel": "Fields"
-    },
-    {
-      "ID": "lku3xij6ql8by76pz2",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lku3xij60huwlqy0509",
-      "Rel": "Components"
-    },
-    {
-      "ID": "lku3xorcukpacfhfgy",
-      "Name": "released",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xorcj8zl6budt9o"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku3r5nferoe63oap9l"
-    },
-    {
-      "ID": "lku3xorcj8zl6budt9o",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3xorcukpacfhfgy"
-    },
-    {
-      "ID": "lku3xordnrtljasw5nk",
-      "Name": "genre",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xordr1x5s6pnyw8"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku3r5nferoe63oap9l"
-    },
-    {
-      "ID": "lku3xordr1x5s6pnyw8",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3xordnrtljasw5nk"
-    },
-    {
-      "ID": "lku3xordddpoun5p88o",
-      "Name": "description",
-      "Value": "",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lku3xordd5ik1hqsteg"
-        ]
-      },
-      "Attrs": {},
-      "Rel": "Fields",
-      "Parent": "lku3r5nferoe63oap9l"
-    },
-    {
-      "ID": "lku3xordd5ik1hqsteg",
-      "Name": "treehouse.TextField",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Rel": "Components",
-      "Parent": "lku3xordddpoun5p88o"
-    },
-    {
       "ID": "lku47tk2u636qethv3g",
       "Name": "Cities",
       "Linked": {
@@ -2535,66 +2286,6 @@
       },
       "Attrs": {},
       "Parent": "lkiosus24aqczs7ycuh"
-    },
-    {
-      "ID": "lkvdx16fcszbzdqcstc",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiouhjq4rahbw9o5fe"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkvdx16f7yadzjl6dm",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiour0dahy437cnee7"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkvdx16ffrcrkbqkq3r",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiow9rc1tgvn7yk21d"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkvdx16fs7ed3punr1",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiowgyl4frjaah1aua"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkvdx16fo3e1m5j6bzn",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiovw25ugem2cteawc"
-      },
-      "Parent": "@tmp"
     },
     {
       "ID": "lkvdybul4abl76mr5e8",
@@ -3678,6 +3369,54 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkvf5cfkeznza8mbyo9"
+    },
+    {
+      "ID": "ll11zfz49l68pwrge8m",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkiouhjq4rahbw9o5fe"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "ll11zfz4lales5myqz",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkiour0dahy437cnee7"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "ll11zfz4xgwix7mdjm8",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkiow9rc1tgvn7yk21d"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "ll11zfz55zvyx4gj4b2",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkiowgyl4frjaah1aua"
+      },
+      "Parent": "@tmp"
     }
   ],
   "settings": {}
