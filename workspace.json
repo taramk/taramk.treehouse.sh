@@ -64,19 +64,20 @@
       "lkip164j8uy086ppv3": false,
       "lku47tk2u636qethv3g": false,
       "lkiohgjzjawjoaz1qwl": false,
-      "lkiopvbaplg10gypnzq": true,
-      "lkve086f03bdtmqwxi8": true,
-      "lkve2wlh7eau8588lrs": true,
-      "lkve37mtj8jdghq1cx": true,
-      "lkve3m0cll8z3x6k33g": true,
-      "lkve3a8yb93p71d4zqa": true,
+      "lkiopvbaplg10gypnzq": false,
+      "lkve086f03bdtmqwxi8": false,
+      "lkve2wlh7eau8588lrs": false,
+      "lkve37mtj8jdghq1cx": false,
+      "lkve3m0cll8z3x6k33g": false,
+      "lkve3a8yb93p71d4zqa": false,
       "lkvecm59cs2vwshax8": true,
       "lkiohyln5p0s63vz2ql": false,
       "lkiok9zdewhqsh6ue9b": true,
       "lkioof0l7ufac2w1g2w": true,
       "lkiooi8y4867djs1c9t": true,
       "lkvejan4s0h5y5nz4": false,
-      "lkvex42am3e1v5mowl": true
+      "lkvex42am3e1v5mowl": true,
+      "lkiq3fh8d8s6oq77ql8": true
     }
   },
   "nodes": [
@@ -135,7 +136,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "list"
+        "view": "tabs"
       },
       "Parent": "lku2ilf8t7ic2d64qqk"
     },
