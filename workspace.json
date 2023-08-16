@@ -3349,7 +3349,8 @@
       "Name": "Demo Content (New Users)",
       "Linked": {
         "Children": [
-          "lle1hi6cda9uotyx7ao"
+          "lle1hi6cda9uotyx7ao",
+          "lle1i1hharw56i1y79"
         ],
         "Components": []
       },
@@ -3359,6 +3360,16 @@
     {
       "ID": "lle1hi6cda9uotyx7ao",
       "Name": "things to cover: smart nodes, tags, templates, tables, tabs",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "lle1i1hharw56i1y79",
+      "Name": "",
       "Linked": {
         "Children": [],
         "Components": []
