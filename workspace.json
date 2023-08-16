@@ -103,7 +103,8 @@
     },
     "lle1h1ugf67vyaoo2m7": {
       "lle1h1ugf67vyaoo2m7": true,
-      "lle1i1hharw56i1y79": true
+      "lle1i1hharw56i1y79": true,
+      "lle1ibkfwsooqdt0flb": false
     }
   },
   "nodes": [
@@ -3370,7 +3371,7 @@
     },
     {
       "ID": "lle1i1hharw56i1y79",
-      "Name": "Tabbed content",
+      "Name": "Tabbed content - description: ",
       "Linked": {
         "Children": [
           "lle1i8b2wp83y5ljnph",
