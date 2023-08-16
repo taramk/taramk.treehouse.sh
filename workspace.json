@@ -104,8 +104,9 @@
     "lle1h1ugf67vyaoo2m7": {
       "lle1h1ugf67vyaoo2m7": true,
       "lle1i1hharw56i1y79": true,
-      "lle1ibkfwsooqdt0flb": false,
-      "lle1i8b2wp83y5ljnph": true
+      "lle1ibkfwsooqdt0flb": true,
+      "lle1i8b2wp83y5ljnph": true,
+      "lle1iagwl54x458h09c": true
     }
   },
   "nodes": [
@@ -3391,7 +3392,8 @@
       "Name": "Tab 1",
       "Linked": {
         "Children": [
-          "lle1jdxow0kc9t5j86"
+          "lle1jdxow0kc9t5j86",
+          "lle1jlurz72hmi1jfgl"
         ],
         "Components": []
       },
@@ -3402,7 +3404,10 @@
       "ID": "lle1iagwl54x458h09c",
       "Name": "Tab 2",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lle1jnmj0le3tee7bnxd",
+          "lle1jo8d0ecqdpyfa116"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -3412,7 +3417,10 @@
       "ID": "lle1ibkfwsooqdt0flb",
       "Name": "Tab 3",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lle1jpumi8q3axul65g",
+          "lle1jqefuizk1eocg9"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -3427,6 +3435,56 @@
       },
       "Attrs": {},
       "Parent": "lle1i8b2wp83y5ljnph"
+    },
+    {
+      "ID": "lle1jlurz72hmi1jfgl",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1i8b2wp83y5ljnph"
+    },
+    {
+      "ID": "lle1jnmj0le3tee7bnxd",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1iagwl54x458h09c"
+    },
+    {
+      "ID": "lle1jo8d0ecqdpyfa116",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1iagwl54x458h09c"
+    },
+    {
+      "ID": "lle1jpumi8q3axul65g",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1ibkfwsooqdt0flb"
+    },
+    {
+      "ID": "lle1jqefuizk1eocg9",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1ibkfwsooqdt0flb"
     }
   ],
   "settings": {}
