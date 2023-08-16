@@ -104,7 +104,8 @@
     "lle1h1ugf67vyaoo2m7": {
       "lle1h1ugf67vyaoo2m7": true,
       "lle1i1hharw56i1y79": true,
-      "lle1ibkfwsooqdt0flb": false
+      "lle1ibkfwsooqdt0flb": false,
+      "lle1i8b2wp83y5ljnph": true
     }
   },
   "nodes": [
@@ -3389,7 +3390,9 @@
       "ID": "lle1i8b2wp83y5ljnph",
       "Name": "Tab 1",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lle1jdxow0kc9t5j86"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -3414,6 +3417,16 @@
       },
       "Attrs": {},
       "Parent": "lle1i1hharw56i1y79"
+    },
+    {
+      "ID": "lle1jdxow0kc9t5j86",
+      "Name": "some content",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1i8b2wp83y5ljnph"
     }
   ],
   "settings": {}
