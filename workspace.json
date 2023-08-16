@@ -3380,7 +3380,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "tabs"
+      },
       "Parent": "lle1h1ugf67vyaoo2m7"
     },
     {
