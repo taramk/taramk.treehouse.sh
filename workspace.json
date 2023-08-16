@@ -3447,7 +3447,9 @@
       "Name": "Document View [Description: Document view is a one-way conversion that supports basic Markdown, and a paragraph view.]",
       "Linked": {
         "Children": [
-          "lle1koyoh9olw4yn364"
+          "lle1koyoh9olw4yn364",
+          "lle1rp8cktufinbhf1",
+          "lle1rr27c1e0brzbnst"
         ],
         "Components": [
           "lle1qq2b7z3lbfvbuis"
@@ -3460,7 +3462,7 @@
     },
     {
       "ID": "lle1koyoh9olw4yn364",
-      "Name": "In 2357, the Quantum Spire Drive sent starship \"Astralis\" to a dimension ruled by sentient machines, Aeon Nexus. Captain Lyra and Nexus AI, Zara, allied against the cosmic Nullstorm. They pursued the Chronos Crystal to restore balance, discovering universe-shaping conflicts. Sacrificing their bond, they sealed the storm, reshaping reality before returning.",
+      "Name": "In 2357, the Quantum Spire Drive sent starship \"Astralis\" to a dimension ruled by sentient machines, Aeon Nexus.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -3594,6 +3596,26 @@
       "Attrs": {},
       "Parent": "lle1kiwb3az5ru51h8c",
       "Rel": "Components"
+    },
+    {
+      "ID": "lle1rp8cktufinbhf1",
+      "Name": "Captain Lyra and Nexus AI, Zara, allied against the cosmic Nullstorm.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1kiwb3az5ru51h8c"
+    },
+    {
+      "ID": "lle1rr27c1e0brzbnst",
+      "Name": "They pursued the Chronos Crystal to restore balance, discovering universe-shaping conflicts. Sacrificing their bond, they sealed the storm, reshaping reality before returning.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1kiwb3az5ru51h8c"
     }
   ],
   "settings": {}
