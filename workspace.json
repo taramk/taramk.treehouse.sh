@@ -107,7 +107,8 @@
       "lle1ibkfwsooqdt0flb": true,
       "lle1i8b2wp83y5ljnph": true,
       "lle1iagwl54x458h09c": true,
-      "lle1kiwb3az5ru51h8c": true
+      "lle1kiwb3az5ru51h8c": true,
+      "lle1l3tr4gyeexlyqz": true
     }
   },
   "nodes": [
@@ -3355,6 +3356,7 @@
       "Linked": {
         "Children": [
           "lle1hi6cda9uotyx7ao",
+          "lle1l3tr4gyeexlyqz",
           "lle1i1hharw56i1y79",
           "lle1kiwb3az5ru51h8c"
         ],
@@ -3509,6 +3511,28 @@
       },
       "Attrs": {},
       "Parent": "lle1kiwb3az5ru51h8c"
+    },
+    {
+      "ID": "lle1l3tr4gyeexlyqz",
+      "Name": "Basics",
+      "Linked": {
+        "Children": [
+          "lle1l5kxmuorhwhxhrl"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "lle1l5kxmuorhwhxhrl",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1l3tr4gyeexlyqz"
     }
   ],
   "settings": {}
