@@ -108,7 +108,8 @@
       "lle1i8b2wp83y5ljnph": true,
       "lle1iagwl54x458h09c": true,
       "lle1kiwb3az5ru51h8c": true,
-      "lle1l3tr4gyeexlyqz": true
+      "lle1l3tr4gyeexlyqz": true,
+      "lle1lmqklsc4uobavlf": true
     }
   },
   "nodes": [
@@ -3517,7 +3518,8 @@
       "Name": "Basics",
       "Linked": {
         "Children": [
-          "lle1l5kxmuorhwhxhrl"
+          "lle1l5kxmuorhwhxhrl",
+          "lle1lmqklsc4uobavlf"
         ],
         "Components": []
       },
@@ -3526,13 +3528,46 @@
     },
     {
       "ID": "lle1l5kxmuorhwhxhrl",
-      "Name": "",
+      "Name": "Actions are performed on nodes.",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
       "Parent": "lle1l3tr4gyeexlyqz"
+    },
+    {
+      "ID": "lle1lmqklsc4uobavlf",
+      "Name": "Nodes can:",
+      "Linked": {
+        "Children": [
+          "lle1lpzny83ri5h282p",
+          "lle1ltrqir814rd9bmk"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1l3tr4gyeexlyqz"
+    },
+    {
+      "ID": "lle1lpzny83ri5h282p",
+      "Name": "Have any number of children",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1lmqklsc4uobavlf"
+    },
+    {
+      "ID": "lle1ltrqir814rd9bmk",
+      "Name": "Be formatted in different ways",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1lmqklsc4uobavlf"
     }
   ],
   "settings": {}
