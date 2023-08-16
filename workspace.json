@@ -102,7 +102,8 @@
       "lkiozkilmq8ctdtlfiq": true
     },
     "lle1h1ugf67vyaoo2m7": {
-      "lle1h1ugf67vyaoo2m7": true
+      "lle1h1ugf67vyaoo2m7": true,
+      "lle1i1hharw56i1y79": true
     }
   },
   "nodes": [
@@ -3369,13 +3370,47 @@
     },
     {
       "ID": "lle1i1hharw56i1y79",
-      "Name": "",
+      "Name": "Tabbed content",
+      "Linked": {
+        "Children": [
+          "lle1i8b2wp83y5ljnph",
+          "lle1iagwl54x458h09c",
+          "lle1ibkfwsooqdt0flb"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "lle1i8b2wp83y5ljnph",
+      "Name": "Tab 1",
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lle1h1ugf67vyaoo2m7"
+      "Parent": "lle1i1hharw56i1y79"
+    },
+    {
+      "ID": "lle1iagwl54x458h09c",
+      "Name": "Tab 2",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1i1hharw56i1y79"
+    },
+    {
+      "ID": "lle1ibkfwsooqdt0flb",
+      "Name": "Tab 3",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1i1hharw56i1y79"
     }
   ],
   "settings": {}
