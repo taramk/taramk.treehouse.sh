@@ -100,6 +100,9 @@
     },
     "lkiokcjlmzsivuzrs6": {
       "lkiozkilmq8ctdtlfiq": true
+    },
+    "lle1h1ugf67vyaoo2m7": {
+      "lle1h1ugf67vyaoo2m7": true
     }
   },
   "nodes": [
@@ -3345,11 +3348,23 @@
       "ID": "lle1h1ugf67vyaoo2m7",
       "Name": "Demo Content (New Users)",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lle1hi6cda9uotyx7ao"
+        ],
         "Components": []
       },
       "Attrs": {},
       "Parent": "@workspace"
+    },
+    {
+      "ID": "lle1hi6cda9uotyx7ao",
+      "Name": "things to cover: smart nodes, tags, templates, ",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
     }
   ],
   "settings": {}
