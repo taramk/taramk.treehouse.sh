@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lkiq3fh8d8s6oq77ql8",
+  "lastopen": "lkiosus24aqczs7ycuh",
   "expanded": {
     "@workspace": {
       "@calendar": true,
@@ -84,6 +84,11 @@
     "lkiq3fh8d8s6oq77ql8": {
       "lkiq3hb38mlsu3oxc09": true,
       "lku2lqg5clrp0qzdv8d": true
+    },
+    "lkiosus24aqczs7ycuh": {
+      "lkipcyd5llrciulhcgi": true,
+      "lle1dgyd9vcmx2cwx54": true,
+      "lle1dgyex9wxoz7v68m": true
     }
   },
   "nodes": [
