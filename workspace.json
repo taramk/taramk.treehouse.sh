@@ -86,7 +86,7 @@
       "lku2lqg5clrp0qzdv8d": true
     },
     "lkiosus24aqczs7ycuh": {
-      "lkipcyd5llrciulhcgi": false,
+      "lkipcyd5llrciulhcgi": true,
       "lle1dgyd9vcmx2cwx54": true,
       "lle1dgyex9wxoz7v68m": true,
       "lku47tk2u636qethv3g": true,
@@ -704,7 +704,7 @@
     },
     {
       "ID": "lkip6anri19x0fxyol",
-      "Name": "travel_by",
+      "Name": "travel by",
       "Value": "car",
       "Linked": {
         "Children": [],
@@ -980,7 +980,7 @@
     },
     {
       "ID": "lkipcfj0hvim0qe22f8",
-      "Name": "travel_by",
+      "Name": "travel by",
       "Value": "plane",
       "Linked": {
         "Children": [],
@@ -1048,7 +1048,7 @@
       "ID": "lkipd4k32ablw26px62",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": "travel_by:car"
+        "query": "\"travel by\":car"
       },
       "Linked": {
         "Children": [],
@@ -3285,43 +3285,7 @@
       "Parent": "lkioh9zgtej285fef3h"
     },
     {
-      "ID": "lle1e4ugxs8di5135tg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiouhjq4rahbw9o5fe"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lle1e4uh6xhina9wwyi",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiow9rc1tgvn7yk21d"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lle1e4uh29av5iyyveg",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkiowgyl4frjaah1aua"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lle1e4uioc0tp1nzpko",
+      "ID": "lle1eohvq5qicf62a0e",
       "Name": "",
       "Linked": {
         "Children": [],
