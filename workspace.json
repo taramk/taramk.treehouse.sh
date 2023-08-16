@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lku2ilf8t7ic2d64qqk",
+  "lastopen": "@workspace",
   "expanded": {
     "@workspace": {
       "@calendar": true,
@@ -26,7 +26,7 @@
       "@workspace": true,
       "lkip33x2okvc0dmvo6": false,
       "lkiq4uo40h12fh4q5b1t": true,
-      "lku2ilf8t7ic2d64qqk": true,
+      "lku2ilf8t7ic2d64qqk": false,
       "lku2lqg5clrp0qzdv8d": false,
       "lku2ls4vupk6t119j4": false,
       "lkiq4h0mydollph5k08": false,
@@ -119,7 +119,8 @@
       "Linked": {
         "Children": [
           "@calendar",
-          "lku2ilf8t7ic2d64qqk"
+          "lku2ilf8t7ic2d64qqk",
+          "lle1h1ugf67vyaoo2m7"
         ],
         "Components": []
       },
@@ -1248,7 +1249,7 @@
     },
     {
       "ID": "lku2ilf8t7ic2d64qqk",
-      "Name": "Demo Content",
+      "Name": "Demo Content (QA)",
       "Linked": {
         "Children": [
           "lkipn4kruvu2set0rti",
@@ -3338,6 +3339,16 @@
         "refTo": "lkiouhjq4rahbw9o5fe"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "lle1h1ugf67vyaoo2m7",
+      "Name": "Demo Content (New Users)",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@workspace"
     }
   ],
   "settings": {}
