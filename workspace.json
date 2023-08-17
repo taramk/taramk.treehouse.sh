@@ -4444,7 +4444,7 @@
     },
     {
       "ID": "llfk0w35uahejy0t4z",
-      "Name": "With a node selected, press Command/Control + K to open the Command Palette and ",
+      "Name": "With a node selected, press Command/Control + K to open the Command Palette. These are actions you can perform on nodes.",
       "Linked": {
         "Children": [],
         "Components": []
