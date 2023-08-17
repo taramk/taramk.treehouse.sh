@@ -108,7 +108,11 @@
       "lle1iagwl54x458h09c": true,
       "lle1kiwb3az5ru51h8c": true,
       "lle1l3tr4gyeexlyqz": true,
-      "lle1lmqklsc4uobavlf": true
+      "lle1lmqklsc4uobavlf": false,
+      "lle1lpzny83ri5h282p": false,
+      "lle1l5kxmuorhwhxhrl": false,
+      "lle1mkbqa03hccmusmd": true,
+      "llfk0skh2slwacrc8ef": true
     },
     "lle1kiwb3az5ru51h8c": {},
     "lkve2wlh7eau8588lrs": {}
@@ -3479,8 +3483,8 @@
       "Linked": {
         "Children": [
           "lle1l5kxmuorhwhxhrl",
-          "lle1lmqklsc4uobavlf",
-          "lle1mkbqa03hccmusmd"
+          "lle1mkbqa03hccmusmd",
+          "llfk0skh2slwacrc8ef"
         ],
         "Components": []
       },
@@ -3498,43 +3502,12 @@
       "Parent": "lle1l3tr4gyeexlyqz"
     },
     {
-      "ID": "lle1lmqklsc4uobavlf",
-      "Name": "",
+      "ID": "lle1mkbqa03hccmusmd",
+      "Name": "Node menu",
       "Linked": {
         "Children": [
-          "lle1lpzny83ri5h282p",
-          "lle1ltrqir814rd9bmk"
+          "llfk0qjp7py15kfef3a"
         ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1l3tr4gyeexlyqz"
-    },
-    {
-      "ID": "lle1lpzny83ri5h282p",
-      "Name": "Have any number of children",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1lmqklsc4uobavlf"
-    },
-    {
-      "ID": "lle1ltrqir814rd9bmk",
-      "Name": "Be formatted in different ways",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1lmqklsc4uobavlf"
-    },
-    {
-      "ID": "lle1mkbqa03hccmusmd",
-      "Name": "Hover over a node bullet to view the node menu, and click it to see what options are available.",
-      "Linked": {
-        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -4446,6 +4419,38 @@
       },
       "Attrs": {},
       "Parent": "llfjx0d1yxniqb8ptu"
+    },
+    {
+      "ID": "llfk0qjp7py15kfef3a",
+      "Name": "Hover over a node bullet to view the node menu, and click it to see what options are available.",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1mkbqa03hccmusmd"
+    },
+    {
+      "ID": "llfk0skh2slwacrc8ef",
+      "Name": "Command palette",
+      "Linked": {
+        "Children": [
+          "llfk0w35uahejy0t4z"
+        ],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1l3tr4gyeexlyqz"
+    },
+    {
+      "ID": "llfk0w35uahejy0t4z",
+      "Name": "With a node selected, press Command/Control + K to open the Command Palette and ",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfk0skh2slwacrc8ef"
     }
   ],
   "settings": {}
