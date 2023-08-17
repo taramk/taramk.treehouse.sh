@@ -3489,7 +3489,7 @@
     },
     {
       "ID": "lle1l5kxmuorhwhxhrl",
-      "Name": "Actions are performed on nodes. Nodes can ",
+      "Name": "Actions are performed on nodes. Nodes are nested together.",
       "Linked": {
         "Children": [],
         "Components": []
@@ -3499,7 +3499,7 @@
     },
     {
       "ID": "lle1lmqklsc4uobavlf",
-      "Name": "Nodes can:",
+      "Name": "",
       "Linked": {
         "Children": [
           "lle1lpzny83ri5h282p",
