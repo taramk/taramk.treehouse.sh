@@ -4672,5 +4672,7 @@
       "Parent": "lle1h1ugf67vyaoo2m7"
     }
   ],
-  "settings": {}
+  "settings": {
+    "theme": "darkmode"
+  }
 }
