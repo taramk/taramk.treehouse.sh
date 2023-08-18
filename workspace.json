@@ -327,9 +327,7 @@
           "lkipcyd5llrciulhcgi",
           "lku47tk2u636qethv3g"
         ],
-        "Components": [
-          "llgwtz86bdra1yys0im"
-        ]
+        "Components": []
       },
       "Attrs": {
         "view": "list"
@@ -4449,20 +4447,6 @@
         "refTo": "lkiowgyl4frjaah1aua"
       },
       "Parent": "@tmp"
-    },
-    {
-      "ID": "llgwtz86bdra1yys0im",
-      "Name": "treehouse.Description",
-      "Value": {
-        "text": ""
-      },
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkiosus24aqczs7ycuh",
-      "Rel": "Components"
     }
   ],
   "settings": {}
