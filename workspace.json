@@ -3341,7 +3341,7 @@
     },
     {
       "ID": "lle1i1hharw56i1y79",
-      "Name": "Tabs",
+      "Name": "Tab View",
       "Linked": {
         "Children": [
           "lle1i8b2wp83y5ljnph",
@@ -4432,7 +4432,7 @@
     },
     {
       "ID": "llgxw010zk70gy4b59",
-      "Name": "Table view",
+      "Name": "Table View",
       "Linked": {
         "Children": [
           "llgxw3wpnt33oh4pln8",
