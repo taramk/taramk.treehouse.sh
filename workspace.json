@@ -3316,7 +3316,8 @@
           "lle1l3tr4gyeexlyqz",
           "lle1i1hharw56i1y79",
           "llgxuhs3d5z6uozi0e4",
-          "lle1kiwb3az5ru51h8c"
+          "lle1kiwb3az5ru51h8c",
+          "llgxw010zk70gy4b59"
         ],
         "Components": []
       },
@@ -4475,6 +4476,16 @@
     {
       "ID": "llgxuhs3d5z6uozi0e4",
       "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "llgxw010zk70gy4b59",
+      "Name": "Table view",
       "Linked": {
         "Children": [],
         "Components": []
