@@ -3334,14 +3334,16 @@
     },
     {
       "ID": "lle1i1hharw56i1y79",
-      "Name": "Tabs [Description: Command+K > View as Tabs to turn a node's children into tabs]",
+      "Name": "Tabs",
       "Linked": {
         "Children": [
           "lle1i8b2wp83y5ljnph",
           "lle1iagwl54x458h09c",
           "lle1ibkfwsooqdt0flb"
         ],
-        "Components": []
+        "Components": [
+          "llgxsmzhzaziivhvqf"
+        ]
       },
       "Attrs": {
         "view": "tabs"
@@ -4462,6 +4464,20 @@
       },
       "Attrs": {},
       "Parent": "lkiosus24aqczs7ycuh",
+      "Rel": "Components"
+    },
+    {
+      "ID": "llgxsmzhzaziivhvqf",
+      "Name": "treehouse.Description",
+      "Value": {
+        "text": "Command/Control + K > View as tabs to turn a node's children into tabs"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1i1hharw56i1y79",
       "Rel": "Components"
     }
   ],
