@@ -110,7 +110,8 @@
       "lle1l3tr4gyeexlyqz": true,
       "lle1l5kxmuorhwhxhrl": false,
       "lle1mkbqa03hccmusmd": false,
-      "llfk0skh2slwacrc8ef": false
+      "llfk0skh2slwacrc8ef": false,
+      "llgxw010zk70gy4b59": true
     }
   },
   "nodes": [
@@ -3317,8 +3318,7 @@
           "lle1i1hharw56i1y79",
           "llgxuhs3d5z6uozi0e4",
           "lle1kiwb3az5ru51h8c",
-          "llgxw010zk70gy4b59",
-          "llgxw3wpnt33oh4pln8"
+          "llgxw010zk70gy4b59"
         ],
         "Components": []
       },
@@ -4488,7 +4488,9 @@
       "ID": "llgxw010zk70gy4b59",
       "Name": "Table view",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "llgxw3wpnt33oh4pln8"
+        ],
         "Components": [
           "llgxwac3yhzjiihufn"
         ]
@@ -4504,13 +4506,13 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lle1h1ugf67vyaoo2m7"
+      "Parent": "llgxw010zk70gy4b59"
     },
     {
       "ID": "llgxwac3yhzjiihufn",
       "Name": "treehouse.Description",
       "Value": {
-        "text": "Use a table view to show the fields and values of "
+        "text": "Use a table view to show the fields and values of a node"
       },
       "Linked": {
         "Children": [],
