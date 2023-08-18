@@ -110,7 +110,7 @@
       "lle1l3tr4gyeexlyqz": true,
       "lle1l5kxmuorhwhxhrl": false,
       "lle1mkbqa03hccmusmd": false,
-      "llfk0skh2slwacrc8ef": true
+      "llfk0skh2slwacrc8ef": false
     }
   },
   "nodes": [
@@ -3486,7 +3486,7 @@
         "Children": [
           "lle1l5kxmuorhwhxhrl",
           "lle1mkbqa03hccmusmd",
-          "llfk0skh2slwacrc8ef"
+          "llfk0w35uahejy0t4z"
         ],
         "Components": []
       },
@@ -4373,19 +4373,6 @@
       "Parent": "llfjx0d1yxniqb8ptu"
     },
     {
-      "ID": "llfk0skh2slwacrc8ef",
-      "Name": "Command palette",
-      "Linked": {
-        "Children": [
-          "llfk0w35uahejy0t4z",
-          "llgxulfs2bwcy6hsuss"
-        ],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1l3tr4gyeexlyqz"
-    },
-    {
       "ID": "llfk0w35uahejy0t4z",
       "Name": "With a node selected, press Command/Control + K to open the Command Palette. These are actions you can perform on nodes.",
       "Linked": {
@@ -4393,7 +4380,7 @@
         "Components": []
       },
       "Attrs": {},
-      "Parent": "llfk0skh2slwacrc8ef"
+      "Parent": "lle1l3tr4gyeexlyqz"
     },
     {
       "ID": "llgwtw6v9pmsnh1d5nn",
@@ -4494,16 +4481,6 @@
       },
       "Attrs": {},
       "Parent": "lle1h1ugf67vyaoo2m7"
-    },
-    {
-      "ID": "llgxulfs2bwcy6hsuss",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "llfk0skh2slwacrc8ef"
     }
   ],
   "settings": {}
