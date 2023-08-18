@@ -3315,6 +3315,7 @@
           "lle1hi6cda9uotyx7ao",
           "lle1l3tr4gyeexlyqz",
           "lle1i1hharw56i1y79",
+          "llgxuhs3d5z6uozi0e4",
           "lle1kiwb3az5ru51h8c"
         ],
         "Components": []
@@ -4376,7 +4377,8 @@
       "Name": "Command palette",
       "Linked": {
         "Children": [
-          "llfk0w35uahejy0t4z"
+          "llfk0w35uahejy0t4z",
+          "llgxulfs2bwcy6hsuss"
         ],
         "Components": []
       },
@@ -4482,6 +4484,26 @@
       "Attrs": {},
       "Parent": "lle1kiwb3az5ru51h8c",
       "Rel": "Components"
+    },
+    {
+      "ID": "llgxuhs3d5z6uozi0e4",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "llgxulfs2bwcy6hsuss",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llfk0skh2slwacrc8ef"
     }
   ],
   "settings": {}
