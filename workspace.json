@@ -3489,7 +3489,6 @@
       "Name": "Basics",
       "Linked": {
         "Children": [
-          "lle1l5kxmuorhwhxhrl",
           "lle1mkbqa03hccmusmd",
           "llfk0w35uahejy0t4z"
         ],
@@ -3499,18 +3498,8 @@
       "Parent": "lle1h1ugf67vyaoo2m7"
     },
     {
-      "ID": "lle1l5kxmuorhwhxhrl",
-      "Name": "Actions are performed on nodes. Nodes are nested together.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1l3tr4gyeexlyqz"
-    },
-    {
       "ID": "lle1mkbqa03hccmusmd",
-      "Name": "The node menu contains basic actions",
+      "Name": "The Node Menu contains basic actions. Hover your cursor over a bullet, and click the node menu to its left to see what's possible.",
       "Linked": {
         "Children": [],
         "Components": []
