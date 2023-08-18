@@ -4379,7 +4379,7 @@
     },
     {
       "ID": "llfk0w35uahejy0t4z",
-      "Name": "With a node selected, press Command/Control + K to open the Command Palette. These are actions you can perform on nodes.",
+      "Name": "The Command Palette is used to perform actions on nodes. Command/Control + K to open it.",
       "Linked": {
         "Children": [],
         "Components": []
