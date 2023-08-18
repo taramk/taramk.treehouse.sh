@@ -4522,7 +4522,7 @@
       "ID": "llgxwac3yhzjiihufn",
       "Name": "treehouse.Description",
       "Value": {
-        "text": "Use a table view to show the fields and values of a node in column form. "
+        "text": "Use a table view to show the fields and values of a node in column form. Expand the nodes to see what the field and value pairs look like."
       },
       "Linked": {
         "Children": [],
