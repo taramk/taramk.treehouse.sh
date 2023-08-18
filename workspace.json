@@ -328,7 +328,9 @@
           "lkipcyd5llrciulhcgi",
           "lku47tk2u636qethv3g"
         ],
-        "Components": []
+        "Components": [
+          "llgwh3e9a2ar0crhmnn"
+        ]
       },
       "Attrs": {
         "view": "list"
@@ -4448,6 +4450,20 @@
         "refTo": "lkiowgyl4frjaah1aua"
       },
       "Parent": "@tmp"
+    },
+    {
+      "ID": "llgwh3e9a2ar0crhmnn",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkiosus24aqczs7ycuh",
+      "Rel": "Components"
     }
   ],
   "settings": {}
