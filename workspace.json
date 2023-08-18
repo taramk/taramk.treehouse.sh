@@ -3451,7 +3451,7 @@
     },
     {
       "ID": "lle1kiwb3az5ru51h8c",
-      "Name": "Document View []",
+      "Name": "Document View",
       "Linked": {
         "Children": [
           "lle1koyoh9olw4yn364",
@@ -4485,7 +4485,7 @@
       "ID": "llgxt6ygvh2ndygo7l",
       "Name": "treehouse.Description",
       "Value": {
-        "text": "Description: Document view is a one-way conversion that supports basic Markdown, and a paragraph view."
+        "text": "Document view is a one-way conversion that supports basic Markdown, and a paragraph view."
       },
       "Linked": {
         "Children": [],
