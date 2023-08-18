@@ -109,7 +109,7 @@
       "lle1kiwb3az5ru51h8c": true,
       "lle1l3tr4gyeexlyqz": true,
       "lle1l5kxmuorhwhxhrl": false,
-      "lle1mkbqa03hccmusmd": true,
+      "lle1mkbqa03hccmusmd": false,
       "llfk0skh2slwacrc8ef": true
     }
   },
@@ -3504,11 +3504,9 @@
     },
     {
       "ID": "lle1mkbqa03hccmusmd",
-      "Name": "Node menu",
+      "Name": "Hover over a node bullet to view the node menu, and click it to see what options are available.",
       "Linked": {
-        "Children": [
-          "llfk0qjp7py15kfef3a"
-        ],
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
@@ -4372,16 +4370,6 @@
       },
       "Attrs": {},
       "Parent": "llfjx0d1yxniqb8ptu"
-    },
-    {
-      "ID": "llfk0qjp7py15kfef3a",
-      "Name": "Hover over a node bullet to view the node menu, and click it to see what options are available.",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lle1mkbqa03hccmusmd"
     },
     {
       "ID": "llfk0skh2slwacrc8ef",
