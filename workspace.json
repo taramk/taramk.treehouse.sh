@@ -4489,7 +4489,9 @@
       "Name": "Table view",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "llgxwac3yhzjiihufn"
+        ]
       },
       "Attrs": {},
       "Parent": "lle1h1ugf67vyaoo2m7"
@@ -4503,6 +4505,20 @@
       },
       "Attrs": {},
       "Parent": "lle1h1ugf67vyaoo2m7"
+    },
+    {
+      "ID": "llgxwac3yhzjiihufn",
+      "Name": "treehouse.Description",
+      "Value": {
+        "text": "Use a table view to show the fields and values of "
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "llgxw010zk70gy4b59",
+      "Rel": "Components"
     }
   ],
   "settings": {}
